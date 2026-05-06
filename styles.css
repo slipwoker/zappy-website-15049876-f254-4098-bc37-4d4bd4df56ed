@@ -12944,6 +12944,309 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     gap: 8px;
   }
 }
+
+/* AI-generated section */
+/* =====================================================
+   GLX PROCESS SECTION — Galia Luxe Art
+   ===================================================== */
+
+.glx-process-section {
+  background-color: #F5F0E8;
+  padding: 100px 24px 90px;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  direction: rtl;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle background texture overlay */
+.glx-process-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle at 15% 20%, rgba(196, 161, 61, 0.06) 0%, transparent 50%),
+                    radial-gradient(circle at 85% 80%, rgba(196, 161, 61, 0.05) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+/* ── Label ── */
+.glx-process-label-wrap {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 22px;
+}
+
+.glx-process-label {
+  display: inline-block;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent-color, #C9A84C);
+  background-color: rgba(201, 168, 76, 0.10);
+  border: 1px solid rgba(201, 168, 76, 0.30);
+  border-radius: 30px;
+  padding: 7px 20px;
+  position: relative;
+  z-index: 1;
+}
+
+/* ── Headline ── */
+.glx-process-headline {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(1.75rem, 3.5vw, 2.65rem);
+  font-weight: 400;
+  color: var(--primary-color, #1A1A1A);
+  line-height: 1.4;
+  margin: 0 auto 28px;
+  max-width: 680px;
+  letter-spacing: -0.01em;
+  position: relative;
+  z-index: 1;
+}
+
+/* ── Decorative Divider ── */
+.glx-process-divider {
+  width: 52px;
+  height: 2px;
+  background: var(--gradient-primary, linear-gradient(135deg, #C4A13D 0%, #CFB262 100%));
+  border-radius: 2px;
+  margin: 0 auto 64px;
+  position: relative;
+  z-index: 1;
+}
+
+/* ── Steps Grid ── */
+.glx-process-steps {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  max-width: 1160px;
+  margin: 0 auto 60px;
+  position: relative;
+  z-index: 1;
+  align-items: stretch;
+}
+
+/* ── Step Card ── */
+.glx-step-card {
+  background-color: #FFFFFF;
+  border-radius: 14px;
+  box-shadow: 0 4px 24px rgba(26, 26, 26, 0.07), 0 1px 4px rgba(26, 26, 26, 0.04);
+  position: relative;
+  overflow: visible;
+  transition: transform 0.28s ease, box-shadow 0.28s ease;
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.glx-step-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px rgba(26, 26, 26, 0.12), 0 2px 8px rgba(201, 168, 76, 0.15);
+}
+
+/* ── Gold Top Border ── */
+.glx-step-top-border {
+  height: 3px;
+  background: var(--gradient-primary, linear-gradient(135deg, #C4A13D 0%, #CFB262 100%));
+  border-radius: 14px 14px 0 0;
+  flex-shrink: 0;
+}
+
+/* ── Step Inner Content ── */
+.glx-step-inner {
+  padding: 32px 28px 36px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Step Number ── */
+.glx-step-number {
+  display: block;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: transparent;
+  background: var(--gradient-primary, linear-gradient(135deg, #C4A13D 0%, #CFB262 100%));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 18px;
+  letter-spacing: -0.02em;
+  user-select: none;
+}
+
+/* ── Step Title ── */
+.glx-step-title {
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 1.08rem;
+  font-weight: 700;
+  color: var(--primary-color, #1A1A1A);
+  margin: 0 0 12px;
+  letter-spacing: -0.01em;
+  line-height: 1.35;
+}
+
+/* ── Step Description ── */
+.glx-step-desc {
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 0.88rem;
+  font-weight: 400;
+  color: var(--text-secondary-color, #6e6556);
+  line-height: 1.75;
+  margin: 0;
+  flex: 1;
+}
+
+/* ── Connector Arrow (between cards, except last) ── */
+.glx-step-connector {
+  position: absolute;
+  left: -14px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 28px;
+  background-color: #F5F0E8;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  box-shadow: 0 0 0 2px rgba(201, 168, 76, 0.25);
+}
+
+.glx-step-connector::after {
+  content: '←';
+  font-size: 12px;
+  color: var(--accent-color, #C9A84C);
+  line-height: 1;
+}
+
+/* ── CTA ── */
+.glx-process-cta-wrap {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+}
+
+.glx-process-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--gradient-primary, linear-gradient(135deg, #C4A13D 0%, #CFB262 100%));
+  color: #FFFFFF;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  padding: 16px 38px;
+  border-radius: 50px;
+  transition: opacity 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+  box-shadow: 0 6px 24px rgba(196, 161, 61, 0.35);
+}
+
+.glx-process-cta:hover {
+  opacity: 0.92;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 32px rgba(196, 161, 61, 0.45);
+}
+
+.glx-process-cta:focus-visible {
+  outline: 3px solid var(--accent-color, #C9A84C);
+  outline-offset: 4px;
+}
+
+.glx-cta-arrow {
+  flex-shrink: 0;
+  transition: transform 0.25s ease;
+}
+
+.glx-process-cta:hover .glx-cta-arrow {
+  transform: translateX(-4px);
+}
+
+/* =====================================================
+   RESPONSIVE — Tablet (2 columns)
+   ===================================================== */
+@media (max-width: 1024px) {
+  .glx-process-steps {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+    max-width: 700px;
+  }
+
+  .glx-step-connector {
+    display: none;
+  }
+
+  .glx-process-section {
+    padding: 80px 24px 72px;
+  }
+}
+
+/* =====================================================
+   RESPONSIVE — Mobile (1 column)
+   ===================================================== */
+@media (max-width: 600px) {
+  .glx-process-section {
+    padding: 64px 18px 60px;
+  }
+
+  .glx-process-steps {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    max-width: 420px;
+  }
+
+  .glx-process-headline {
+    font-size: 1.55rem;
+    margin-bottom: 22px;
+  }
+
+  .glx-process-divider {
+    margin-bottom: 44px;
+  }
+
+  .glx-step-inner {
+    padding: 26px 22px 30px;
+  }
+
+  .glx-step-number {
+    font-size: 2.6rem;
+    margin-bottom: 14px;
+  }
+
+  .glx-step-title {
+    font-size: 1rem;
+  }
+
+  .glx-step-desc {
+    font-size: 0.875rem;
+  }
+
+  .glx-process-cta {
+    font-size: 0.9rem;
+    padding: 14px 30px;
+  }
+}
+
+/* =====================================================
+   ACCESSIBILITY — Reduced Motion
+   ===================================================== */
+@media (prefers-reduced-motion: reduce) {
+  .glx-step-card,
+  .glx-process-cta,
+  .glx-cta-arrow {
+    transition: none;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
