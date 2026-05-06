@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
@@ -180,7 +180,11 @@
   --gradient-overlay-dark: linear-gradient(180deg, rgba(44,36,32,0.3) 0%, rgba(44,36,32,0.6) 100%);
   --gradient-light-section: linear-gradient(180deg, #F5F0E8 0%, #EDE6D8 100%);
   --gradient-overlay-light: linear-gradient(180deg, rgba(245,240,232,0.85) 0%, rgba(245,240,232,0.95) 100%);
-}
+
+  --body-font: 'Inter', sans-serif;
+  --font-family: 'Inter', sans-serif;
+  --font-primary: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;}
 
 *,
 *::before,
@@ -202,7 +206,7 @@ html {
 body {
   font-size: 16px !important;
   line-height: 1.7 !important;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: var(--text-dark);
   background-color: var(--bg-light);
   -webkit-font-smoothing: antialiased;
@@ -305,7 +309,7 @@ p {
   font-weight: 400 !important;
   line-height: 1.7 !important;
   margin-bottom: 1rem !important;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: var(--text-dark);
 }
 
@@ -314,7 +318,7 @@ small,
   font-size: 14px !important;
   font-weight: 400 !important;
   line-height: 1.6 !important;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 span,
@@ -327,7 +331,7 @@ figcaption,
 blockquote,
 cite,
 address {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 em,
@@ -341,7 +345,7 @@ b {
 }
 
 blockquote {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 20px;
   font-style: italic;
   line-height: 1.6;
@@ -447,7 +451,7 @@ a:hover {
   border: none;
   outline: none;
   text-decoration: none;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1;
   white-space: nowrap;
   user-select: none;
@@ -547,7 +551,7 @@ a:hover {
   font-size: 12px;
   font-weight: 500;
   line-height: 1.4;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .badge-primary {
@@ -571,7 +575,7 @@ select {
   border-radius: var(--radius-input);
   border: 1.5px solid var(--border-light);
   padding: 12px 16px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 15px;
   color: var(--text-dark);
   background: #ffffff;
@@ -820,7 +824,7 @@ html:not([dir]) .whatsapp-float {
   border-bottom: 1px solid var(--border-light);
   width: 100%;
   box-sizing: border-box;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .nav-container {
@@ -1059,7 +1063,7 @@ html:not([dir]) .whatsapp-float {
   border-bottom: 1px solid var(--border-light);
   width: 100%;
   box-sizing: border-box;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .nav-container {
@@ -1511,7 +1515,7 @@ html[lang="ar"] .nav-right-group .nav-menu {
   background: none;
   border: none;
   cursor: pointer;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.9rem;
   font-weight: 500;
   display: inline-flex;
@@ -2189,7 +2193,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   --text-muted: #7D8B6F;
   --border-light: #DCCFC2;
   --border-dark: #5A534E;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   direction: rtl;
   background-color: var(--bg-dark);
   color: var(--text-light);
@@ -2630,7 +2634,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 /* ── Eyebrow Label ── */
 .index-hero-section .index-hero-label {
   display: block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.10em;
@@ -2684,7 +2688,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   display: inline-block;
   background: var(--accent);
   color: var(--text-light);
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.95rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -2708,7 +2712,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   display: inline-block;
   background: transparent;
   color: var(--text-dark);
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.95rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -2850,7 +2854,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Heading */
 .index-intro-section .index-intro-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2.75rem;
   font-weight: 400;
   line-height: 1.25;
@@ -2867,7 +2871,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Lead paragraph */
 .index-intro-section .index-intro-lead {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.8;
   color: #5A4E47;
@@ -2919,7 +2923,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-intro-section .index-intro-value-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.2rem;
   font-weight: 600;
   color: var(--text-dark);
@@ -2929,7 +2933,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-intro-section .index-intro-value-desc {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.9rem;
   line-height: 1.7;
   color: #7A6E65;
@@ -3135,7 +3139,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .index-showcase-section .index-showcase-label {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.18em;
@@ -3145,7 +3149,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-showcase-section .index-showcase-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2.75rem;
   font-weight: 400;
   line-height: 1.2;
@@ -3168,7 +3172,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-showcase-section .index-showcase-desc {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.8;
   color: rgba(247, 241, 234, 0.72);
@@ -3300,7 +3304,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-showcase-section .index-showcase-tile-caption span {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.12em;
@@ -3439,7 +3443,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   padding: var(--spacing-section, 120px) 24px;
   padding-bottom: calc(var(--spacing-section, 120px) + 80px);
   direction: rtl;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 /* Subtle paper texture overlay */
@@ -3476,7 +3480,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-testimonials-section .index-testimonials-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.3;
@@ -3486,7 +3490,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-testimonials-section .index-testimonials-intro {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   line-height: 1.75;
   color: var(--text-muted);
@@ -3564,7 +3568,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* ─── Blockquote ─────────────────────────────────────────────────── */
 .index-testimonials-section .index-testimonials-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.75;
@@ -3602,7 +3606,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-testimonials-section .index-testimonials-author-name {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-weight: 600;
   color: var(--text-dark);
@@ -3610,7 +3614,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-testimonials-section .index-testimonials-author-role {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-weight: 400;
   color: var(--text-muted);
@@ -3620,7 +3624,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 /* ─── Trust Line ─────────────────────────────────────────────────── */
 .index-testimonials-section .index-testimonials-trust-line {
   text-align: center;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   line-height: 1.7;
   color: var(--text-muted);
@@ -3767,7 +3771,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Heading */
 .index-cta-section .index-cta-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.3;
@@ -3785,7 +3789,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Body paragraph */
 .index-cta-section .index-cta-body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   line-height: 1.7;
   color: rgba(247, 241, 234, 0.75);
@@ -3797,7 +3801,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 /* CTA Button */
 .index-cta-section .index-cta-btn {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.95rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -3897,7 +3901,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-page-intro-section .portfolio-intro-label {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.8rem;
   font-weight: 500;
   letter-spacing: 0.18em;
@@ -3929,7 +3933,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-page-intro-section .portfolio-intro-desc {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.8;
   color: var(--text-muted);
@@ -4013,7 +4017,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-page-intro-section .portfolio-intro-theme-num {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   color: var(--accent);
@@ -4028,7 +4032,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-page-intro-section .portfolio-intro-theme-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.2rem;
   font-weight: 500;
   color: var(--text-dark);
@@ -4037,7 +4041,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-page-intro-section .portfolio-intro-theme-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.875rem;
   line-height: 1.7;
   color: var(--text-muted);
@@ -4158,7 +4162,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .portfolio-gallery-section .portfolio-gallery-label {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.2em;
@@ -4168,7 +4172,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-gallery-section .portfolio-gallery-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.3;
@@ -4185,7 +4189,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-gallery-section .portfolio-gallery-subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.7;
   color: var(--text-muted);
@@ -4309,7 +4313,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   position: absolute;
   bottom: 14px;
   inset-inline-end: 16px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: italic;
   font-size: 0.875rem;
   color: var(--text-light);
@@ -4384,7 +4388,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .portfolio-gallery-section .portfolio-gallery-btn {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.9rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -4406,7 +4410,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-gallery-section .portfolio-gallery-cta-note {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.875rem;
   line-height: 1.6;
   color: var(--text-muted);
@@ -4600,7 +4604,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
     linear-gradient(180deg, #F5F0E8 0%, #EDE6D8 100%);
   color: var(--text-dark);
   padding: 120px 24px 110px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .portfolio-process-section .portfolio-process-container {
@@ -4621,7 +4625,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .portfolio-process-section .portfolio-process-label {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.18em;
@@ -4631,7 +4635,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-process-section .portfolio-process-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.3;
@@ -4641,7 +4645,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-process-section .portfolio-process-intro {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.75;
   color: #5A4E47;
   margin: 0;
@@ -4714,7 +4718,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* ── STEP NUMBER ── */
 .portfolio-process-section .portfolio-process-step-num {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 3rem;
   font-weight: 300;
   line-height: 1;
@@ -4729,7 +4733,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* ── CARD TITLE ── */
 .portfolio-process-section .portfolio-process-card-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.375rem;
   font-weight: 400;
   line-height: 1.4;
@@ -4740,7 +4744,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* ── CARD TEXT ── */
 .portfolio-process-section .portfolio-process-card-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.75;
   color: #5A4E47;
   margin: 0;
@@ -4895,7 +4899,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-applications-label-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.12em;
@@ -4904,7 +4908,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-applications-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2.25rem;
   font-weight: 400;
   line-height: 1.25;
@@ -4913,7 +4917,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-applications-intro {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.8;
   color: #5A4E47;
   margin: 0;
@@ -4955,7 +4959,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-applications-usecase-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.125rem;
   font-weight: 500;
   line-height: 1.4;
@@ -4964,7 +4968,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .portfolio-applications-usecase-desc {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.9rem;
   line-height: 1.75;
   color: #5A4E47;
@@ -4977,7 +4981,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .portfolio-applications-btn {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.875rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -5137,7 +5141,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Heading */
 .portfolio-inquiry-cta-section .portfolio-inquiry-cta-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.3;
@@ -5149,7 +5153,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Body text */
 .portfolio-inquiry-cta-section .portfolio-inquiry-cta-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.8;
   color: var(--secondary);
@@ -5162,7 +5166,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 /* CTA Button */
 .portfolio-inquiry-cta-section .portfolio-inquiry-cta-btn {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.95rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -5289,7 +5293,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Body paragraphs */
 .about-artist-story-section .artist-story-body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   line-height: 1.85;
   color: var(--text-dark);
@@ -5313,7 +5317,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   position: absolute;
   top: -8px;
   inset-inline-end: 20px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 5rem;
   line-height: 1;
   color: var(--accent);
@@ -5323,7 +5327,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-artist-story-section .artist-story-quote-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.375rem;
   font-weight: 400;
   line-height: 1.55;
@@ -5400,7 +5404,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-artist-story-section .badge-label {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.7rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -5525,7 +5529,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .about-philosophy-section .about-philosophy-label {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.2em;
@@ -5535,7 +5539,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-philosophy-section .about-philosophy-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.25;
@@ -5550,7 +5554,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-philosophy-section .about-philosophy-intro {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.8;
   color: #5A4E47;
   max-width: 680px;
@@ -5600,7 +5604,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-philosophy-section .about-philosophy-panel-number {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 3rem;
   font-weight: 300;
   line-height: 1;
@@ -5625,7 +5629,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-philosophy-section .about-philosophy-panel-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
@@ -5635,7 +5639,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-philosophy-section .about-philosophy-panel-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.8;
   color: #5A4E47;
   margin: 0;
@@ -5757,7 +5761,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-materials-section .about-materials-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.3;
@@ -5767,7 +5771,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-materials-section .about-materials-body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   line-height: 1.8;
   color: var(--text-muted);
@@ -5806,7 +5810,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-materials-section .about-materials-note-content strong {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-weight: 600;
   color: var(--text-dark);
@@ -5814,7 +5818,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-materials-section .about-materials-note-content span {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   line-height: 1.6;
   color: var(--text-muted);
@@ -6050,7 +6054,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .about-credibility-section .about-credibility-label {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.18em;
@@ -6060,7 +6064,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-credibility-section .about-credibility-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.3;
@@ -6146,7 +6150,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-credibility-section .about-credibility-card-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.375rem;
   font-weight: 400;
   line-height: 1.4;
@@ -6156,7 +6160,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-credibility-section .about-credibility-card-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   line-height: 1.75;
   color: rgba(247, 241, 234, 0.72);
@@ -6183,7 +6187,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .about-credibility-section .about-credibility-conclusion-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.85;
@@ -6319,7 +6323,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Heading */
 .about-invitation-section .about-invitation-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.3;
@@ -6333,7 +6337,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Body paragraph */
 .about-invitation-section .about-invitation-body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.8;
@@ -6350,7 +6354,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   display: inline-block;
   background: var(--accent);
   color: var(--text-light);
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.95rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -6470,7 +6474,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Lead paragraph */
 .contact-contact-intro-section .contact-intro-lead {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.8;
   color: var(--text-dark);
@@ -6480,7 +6484,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Body paragraph */
 .contact-contact-intro-section .contact-intro-body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.8;
   color: var(--text-muted);
@@ -6524,7 +6528,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-intro-section .reassurance-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   color: var(--text-dark);
@@ -6533,7 +6537,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-intro-section .reassurance-desc {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.875rem;
   line-height: 1.65;
   color: var(--text-muted);
@@ -6587,7 +6591,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   inset-inline-start: -20px;
   background-color: var(--bg-dark);
   color: var(--text-light);
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.12em;
@@ -6692,7 +6696,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   color: var(--text-dark);
   padding: 120px 24px 96px;
   direction: rtl;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 /* Subtle linen texture overlay */
@@ -6730,7 +6734,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-details-section .cds-heading {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.3;
@@ -6794,7 +6798,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-details-section .cds-card-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.25rem;
   font-weight: 500;
   line-height: 1.3;
@@ -6859,7 +6863,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-details-section .cds-intro-label {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.12em;
@@ -7022,7 +7026,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-form-section__title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.3;
@@ -7033,7 +7037,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-form-section__subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.75;
   color: #5A4E47;
@@ -7074,7 +7078,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-form-section__label {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.875rem;
   font-weight: 500;
   color: var(--text-dark);
@@ -7083,7 +7087,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-form-section__input {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   color: var(--text-dark);
   background: #FFFFFF;
@@ -7141,7 +7145,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-form-section .privacy-consent-label span {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.875rem;
   line-height: 1.6;
   color: #5A4E47;
@@ -7163,7 +7167,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-contact-form-section__submit {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.95rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -7278,7 +7282,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .contact-faq-section .contact-faq-label {
   display: inline-block;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.18em;
@@ -7288,7 +7292,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-faq-section .contact-faq-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.3;
@@ -7298,7 +7302,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-faq-section .contact-faq-subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.75;
   color: var(--text-muted);
@@ -7348,7 +7352,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-faq-section .contact-faq-question {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.375rem;
   font-weight: 500;
   line-height: 1.4;
@@ -7358,7 +7362,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .contact-faq-section .contact-faq-answer {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   line-height: 1.75;
   color: var(--text-muted);
@@ -7408,7 +7412,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* Global font override - exclude icon fonts and special elements */
 *:not(.fas):not(.far):not(.fab):not(.fa):not([class*="fa-"]):not(.iconify):not([class*="icon"]):not(code):not(pre):not(i[class*="fa"]) {
-  font-family: 'Rubik', sans-serif !important;
+  font-family: 'Inter', sans-serif !important;
 }
 
 
