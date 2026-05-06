@@ -5251,217 +5251,15 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   /* On mobile, image comes AFTER text (image is second in DOM = below text) */
 }
 
-/* about-philosophy */
-.about-philosophy-section {
-  position: relative;
-  overflow: visible;
-  background-color: #F5F0E8;
-  background-image:
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='400' height='400' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E"),
-    linear-gradient(180deg, #F5F0E8 0%, #EDE6D8 100%);
-  color: var(--text-dark);
-  padding: 120px 24px 110px;
-  direction: rtl;
-}
-
-.about-philosophy-section .about-philosophy-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  width: 100%;
-}
-
 /* ── Header ── */
-.about-philosophy-section .about-philosophy-header {
-  text-align: center;
-  margin-bottom: 72px;
-  position: relative;
-  z-index: 1;
-}
-
-.about-philosophy-section .about-philosophy-label {
-  display: inline-block;
-  font-family: 'Inter', sans-serif;
-  font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--accent);
-  margin-bottom: 16px;
-}
-
-.about-philosophy-section .about-philosophy-title {
-  font-family: 'Inter', sans-serif;
-  font-size: 2.5rem;
-  font-weight: 400;
-  line-height: 1.25;
-  color: var(--text-dark);
-  margin: 0 0 28px;
-  letter-spacing: 0.01em;
-}
-
-.about-philosophy-section .about-philosophy-title em {
-  font-style: italic;
-  color: var(--accent);
-}
-
-.about-philosophy-section .about-philosophy-intro {
-  font-family: 'Inter', sans-serif;
-  line-height: 1.8;
-  color: #5A4E47;
-  max-width: 680px;
-  margin: 0 auto;
-  text-align: center;
-}
 
 /* ── Panels ── */
-.about-philosophy-section .about-philosophy-panels {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  z-index: 1;
-}
-
-.about-philosophy-section .about-philosophy-panel {
-  background: rgba(255, 255, 255, 0.62);
-  border: 1px solid var(--border-light);
-  border-radius: var(--radius-card, 8px);
-  box-shadow: 0 8px 32px rgba(44, 36, 32, 0.06);
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
-}
-
-.about-philosophy-section .about-philosophy-panel:hover {
-  box-shadow: 0 16px 48px rgba(44, 36, 32, 0.11);
-  transform: translateY(-2px);
-}
 
 /* Alternating indentation */
-.about-philosophy-section .about-philosophy-panel--indent-start {
-  margin-inline-start: 0;
-  margin-inline-end: 6%;
-}
-
-.about-philosophy-section .about-philosophy-panel--indent-end {
-  margin-inline-start: 6%;
-  margin-inline-end: 0;
-}
-
-.about-philosophy-section .about-philosophy-panel-inner {
-  display: grid;
-  grid-template-columns: 64px 1fr;
-  gap: 0 32px;
-  align-items: start;
-  padding: 40px 48px;
-}
-
-.about-philosophy-section .about-philosophy-panel-number {
-  font-family: 'Inter', sans-serif;
-  font-size: 3rem;
-  font-weight: 300;
-  line-height: 1;
-  color: var(--border-light);
-  letter-spacing: -0.02em;
-  padding-top: 4px;
-  text-align: start;
-  user-select: none;
-}
-
-.about-philosophy-section .about-philosophy-panel-content {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.about-philosophy-section .about-philosophy-accent-bar {
-  width: 40px;
-  height: 1.5px;
-  background-color: var(--accent);
-  margin-bottom: 4px;
-}
-
-.about-philosophy-section .about-philosophy-panel-title {
-  font-family: 'Inter', sans-serif;
-  font-size: 1.5rem;
-  font-weight: 400;
-  line-height: 1.3;
-  color: var(--text-dark);
-  margin: 0;
-  letter-spacing: 0.01em;
-}
-
-.about-philosophy-section .about-philosophy-panel-text {
-  font-family: 'Inter', sans-serif;
-  line-height: 1.8;
-  color: #5A4E47;
-  margin: 0;
-}
 
 /* ── Bottom Divider ── */
-.about-philosophy-section .about-philosophy-divider-wrapper {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 90px;
-  pointer-events: none;
-  z-index: 5;
-}
-
-.about-philosophy-section .about-philosophy-divider-wrapper svg {
-  display: block;
-  width: 100%;
-  height: 100%;
-}
 
 /* ── Responsive ── */
-@media (max-width: 768px) {
-  .about-philosophy-section {
-    padding: 100px 16px 100px;
-  }
-
-  .about-philosophy-section .about-philosophy-title {
-    font-size: 1.875rem;
-  }
-
-  .about-philosophy-section .about-philosophy-header {
-    margin-bottom: 48px;
-  }
-
-  .about-philosophy-section .about-philosophy-panels {
-    gap: 16px;
-  }
-
-  .about-philosophy-section .about-philosophy-panel--indent-start,
-  .about-philosophy-section .about-philosophy-panel--indent-end {
-    margin-inline-start: 0;
-    margin-inline-end: 0;
-  }
-
-  .about-philosophy-section .about-philosophy-panel-inner {
-    grid-template-columns: 1fr;
-    padding: 28px 24px;
-    gap: 16px 0;
-  }
-
-  .about-philosophy-section .about-philosophy-panel-number {
-    font-size: 2rem;
-    color: var(--accent);
-    opacity: 0.35;
-  }
-
-  .about-philosophy-section .about-philosophy-panel-title {
-    font-size: 1.25rem;
-  }
-}
-
-@media (min-width: 769px) and (max-width: 1024px) {
-  .about-philosophy-section .about-philosophy-panel--indent-start {
-    margin-inline-end: 4%;
-  }
-  .about-philosophy-section .about-philosophy-panel--indent-end {
-    margin-inline-start: 4%;
-  }
-}
 
 /* about-materials */
 .about-materials-section {
@@ -12283,7 +12081,6 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .nav-cta-btn { color: #FFFFFF !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
-
 /* ═══════════════════════════════════════════════════════════
    V2 REGENERATED SECTION CSS (אודות-artist-story)
    Added: 2026-05-06T17:45:03.608Z
@@ -12495,6 +12292,203 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 @media (min-width: 1200px) {
   .about-artist-story-section .artist-story-container {
     padding-top: 180px;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   V2 REGENERATED SECTION CSS (אודות-philosophy)
+   Added: 2026-05-06T17:46:45.844Z
+   ═══════════════════════════════════════════════════════════ */
+.about-philosophy-section {
+  position: relative;
+  background-color: #FAFAF8;
+  background-image: linear-gradient(180deg, #F5F0E8 0%, #EDE6D8 100%);
+  color: var(--text-dark);
+  padding: 100px 24px 100px;
+  overflow: visible;
+  direction: rtl;
+}
+
+.about-philosophy-section .about-philosophy-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
+  direction: rtl;
+}
+
+/* === IMAGE COLUMN (Right) === */
+.about-philosophy-section .about-philosophy-image-col {
+  position: relative;
+}
+
+.about-philosophy-section .about-philosophy-image-wrapper {
+  position: relative;
+  display: block;
+}
+
+.about-philosophy-section .about-philosophy-image-wrapper img {
+  width: 100%;
+  height: auto;
+  max-height: 700px;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+  border-radius: 2px;
+  box-shadow: 0 24px 64px rgba(44,36,32,0.18);
+}
+
+.about-philosophy-section .about-philosophy-img-accent {
+  position: absolute;
+  bottom: -18px;
+  inset-inline-end: -18px;
+  width: 120px;
+  height: 120px;
+  border: 1.5px solid rgba(201, 168, 76, 0.45);
+  border-radius: 2px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* === TEXT COLUMN (Left) === */
+.about-philosophy-section .about-philosophy-text-col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: right;
+  gap: 0;
+}
+
+.about-philosophy-section .about-philosophy-label {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 20px;
+  text-align: right;
+}
+
+.about-philosophy-section .about-philosophy-headline {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: var(--text-dark);
+  margin: 0 0 32px 0;
+  text-align: right;
+  letter-spacing: -0.01em;
+}
+
+.about-philosophy-section .about-philosophy-headline em {
+  font-style: italic;
+  color: var(--text-dark);
+}
+
+.about-philosophy-section .about-philosophy-body {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-bottom: 36px;
+}
+
+.about-philosophy-section .about-philosophy-body p {
+  font-family: 'Manrope', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.8;
+  color: #5A4E47;
+  margin: 0;
+  text-align: right;
+}
+
+/* === Gold Divider === */
+.about-philosophy-section .about-philosophy-divider {
+  margin-bottom: 28px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+/* === Blockquote === */
+.about-philosophy-section .about-philosophy-quote {
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-align: right;
+}
+
+.about-philosophy-section .about-philosophy-quote p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.7;
+  color: #3A2E28;
+  margin: 0 0 12px 0;
+  text-align: right;
+}
+
+.about-philosophy-section .about-philosophy-quote cite {
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  font-style: normal;
+  display: block;
+  text-align: right;
+}
+
+/* === Botanical Decorative Motif === */
+.about-philosophy-section .about-philosophy-botanical {
+  position: absolute;
+  bottom: 40px;
+  inset-inline-start: 40px;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.6;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 1024px) {
+  .about-philosophy-section .about-philosophy-container {
+    gap: 48px;
+  }
+  .about-philosophy-section .about-philosophy-headline {
+    font-size: 2.1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-philosophy-section {
+    padding: 100px 20px 72px;
+  }
+  .about-philosophy-section .about-philosophy-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .about-philosophy-section .about-philosophy-image-col {
+    order: -1;
+  }
+  .about-philosophy-section .about-philosophy-image-wrapper img {
+    max-height: 480px;
+    border-radius: 2px;
+  }
+  .about-philosophy-section .about-philosophy-img-accent {
+    bottom: -12px;
+    inset-inline-end: -12px;
+    width: 80px;
+    height: 80px;
+  }
+  .about-philosophy-section .about-philosophy-headline {
+    font-size: 1.8rem;
+  }
+  .about-philosophy-section .about-philosophy-botanical {
+    display: none;
   }
 }
 /* mobile-submenu-overflow-fix */

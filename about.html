@@ -459,6 +459,202 @@
   }
 }
 </style>
+
+<style data-zappy-section-v2-css="true">
+/* V2 Regenerated Section CSS */
+.about-philosophy-section {
+  position: relative;
+  background-color: #FAFAF8;
+  background-image: linear-gradient(180deg, #F5F0E8 0%, #EDE6D8 100%);
+  color: var(--text-dark);
+  padding: 100px 24px 100px;
+  overflow: visible;
+  direction: rtl;
+}
+
+.about-philosophy-section .about-philosophy-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
+  direction: rtl;
+}
+
+/* === IMAGE COLUMN (Right) === */
+.about-philosophy-section .about-philosophy-image-col {
+  position: relative;
+}
+
+.about-philosophy-section .about-philosophy-image-wrapper {
+  position: relative;
+  display: block;
+}
+
+.about-philosophy-section .about-philosophy-image-wrapper img {
+  width: 100%;
+  height: auto;
+  max-height: 700px;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+  border-radius: 2px;
+  box-shadow: 0 24px 64px rgba(44,36,32,0.18);
+}
+
+.about-philosophy-section .about-philosophy-img-accent {
+  position: absolute;
+  bottom: -18px;
+  inset-inline-end: -18px;
+  width: 120px;
+  height: 120px;
+  border: 1.5px solid rgba(201, 168, 76, 0.45);
+  border-radius: 2px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* === TEXT COLUMN (Left) === */
+.about-philosophy-section .about-philosophy-text-col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: right;
+  gap: 0;
+}
+
+.about-philosophy-section .about-philosophy-label {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 20px;
+  text-align: right;
+}
+
+.about-philosophy-section .about-philosophy-headline {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: var(--text-dark);
+  margin: 0 0 32px 0;
+  text-align: right;
+  letter-spacing: -0.01em;
+}
+
+.about-philosophy-section .about-philosophy-headline em {
+  font-style: italic;
+  color: var(--text-dark);
+}
+
+.about-philosophy-section .about-philosophy-body {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-bottom: 36px;
+}
+
+.about-philosophy-section .about-philosophy-body p {
+  font-family: 'Manrope', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.8;
+  color: #5A4E47;
+  margin: 0;
+  text-align: right;
+}
+
+/* === Gold Divider === */
+.about-philosophy-section .about-philosophy-divider {
+  margin-bottom: 28px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+/* === Blockquote === */
+.about-philosophy-section .about-philosophy-quote {
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-align: right;
+}
+
+.about-philosophy-section .about-philosophy-quote p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.7;
+  color: #3A2E28;
+  margin: 0 0 12px 0;
+  text-align: right;
+}
+
+.about-philosophy-section .about-philosophy-quote cite {
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  font-style: normal;
+  display: block;
+  text-align: right;
+}
+
+/* === Botanical Decorative Motif === */
+.about-philosophy-section .about-philosophy-botanical {
+  position: absolute;
+  bottom: 40px;
+  inset-inline-start: 40px;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.6;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 1024px) {
+  .about-philosophy-section .about-philosophy-container {
+    gap: 48px;
+  }
+  .about-philosophy-section .about-philosophy-headline {
+    font-size: 2.1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-philosophy-section {
+    padding: 100px 20px 72px;
+  }
+  .about-philosophy-section .about-philosophy-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .about-philosophy-section .about-philosophy-image-col {
+    order: -1;
+  }
+  .about-philosophy-section .about-philosophy-image-wrapper img {
+    max-height: 480px;
+    border-radius: 2px;
+  }
+  .about-philosophy-section .about-philosophy-img-accent {
+    bottom: -12px;
+    inset-inline-end: -12px;
+    width: 80px;
+    height: 80px;
+  }
+  .about-philosophy-section .about-philosophy-headline {
+    font-size: 1.8rem;
+  }
+  .about-philosophy-section .about-philosophy-botanical {
+    display: none;
+  }
+}
+</style>
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-dropdown-submenu-styles">
@@ -1058,57 +1254,64 @@
 
 <section class="about-philosophy-section" data-layout-spec="אודות-philosophy" dir="rtl">
   <div class="about-philosophy-container">
-    <div class="about-philosophy-header">
-      <span class="about-philosophy-label">הפילוסופיה שלי</span>
-      <h2 class="about-philosophy-title">אמנות שמדברת
-        <em>דרך המגע</em>
-      </h2>
-      <p class="about-philosophy-intro">אני מאמינה שאמנות אמיתית אינה רק נראית — היא מורגשת. כל יצירה שאני יוצרת נולדת מתוך הקשבה לחומר, לאור ולשתיקה שבין שכבה לשכבה. הגישה שלי לאמנות יוקרה עם טקסטורה מבוססת על שלושה עקרונות יסוד שמנחים כל מכחול, כל ריבוד, כל בחירה.</p>
+
+    <!-- Right Column: Artist Portrait -->
+    <div class="about-philosophy-image-col">
+      <div class="about-philosophy-image-wrapper">
+        <img data-context="Warm, intimate portrait of a sophisticated Israeli female artist named Galia in her art studio. She stands near a large textured canvas painting with warm earth tones and gold accents. Natural light streams in from a side window, casting soft shadows. The studio is elegant and minimal with art supplies, paint-stained palettes, and framed artwork in the background. The mood is intimate, refined, and artistic. Film-like warm color grading." width="600" height="750" src="/assets/galia-luxe-art-section-אודות-philosophy-about-philosophy-image-1.webp" alt="גליה — האמנית בסטודיו שלה">
+        <!-- Decorative corner accent -->
+        <div class="about-philosophy-img-accent" aria-hidden="true"></div>
+      </div>
     </div>
 
-    <div class="about-philosophy-panels">
+    <!-- Left Column: Text Content -->
+    <div class="about-philosophy-text-col">
 
-      <article class="about-philosophy-panel about-philosophy-panel--indent-start">
-        <div class="about-philosophy-panel-inner">
-          <div class="about-philosophy-panel-number" aria-hidden="true">01</div>
-          <div class="about-philosophy-panel-content">
-            <div class="about-philosophy-accent-bar" aria-hidden="true"></div>
-            <h3 class="about-philosophy-panel-title">כנות החומר</h3>
-            <p class="about-philosophy-panel-text">אני עובדת עם חומרים שמספרים אמת. מרקמים, פיגמנטים, שכבות גיר ואדמה — כל אלמנט נבחר בשל אופיו האותנטי ולא למראית עין. הכנות הזו כלפי החומר היא מה שמעניקה לכל יצירה עומק שלא ניתן לזייף ונוכחות שאי אפשר להתעלם ממנה.</p>
-          </div>
-        </div>
-      </article>
+      <!-- Gold label -->
+      <span class="about-philosophy-label">על האמנית</span>
 
-      <article class="about-philosophy-panel about-philosophy-panel--indent-end">
-        <div class="about-philosophy-panel-inner">
-          <div class="about-philosophy-panel-number" aria-hidden="true">02</div>
-          <div class="about-philosophy-panel-content">
-            <div class="about-philosophy-accent-bar" aria-hidden="true"></div>
-            <h3 class="about-philosophy-panel-title">עידון שקט</h3>
-            <p class="about-philosophy-panel-text">היוקרה האמיתית אינה צועקת. היא מתגלה בפרטים הקטנים — בגוון שנבחר בזהירות, בקו שנשמר בריסון, בחלל שנשאר ריק בכוונה. כל יצירה שלי שואפת לאיזון בין נוכחות לשקט, בין עוצמה לרוך, כך שתמונות האמנות ידברו בשפה עדינה אל מי שמוכן להקשיב.</p>
-          </div>
-        </div>
-      </article>
+      <!-- Main headline -->
+      <h2 class="about-philosophy-headline">אני גליה —<br><em>ואמנות היא השפה<br>שבה אני חושבת.</em></h2>
 
-      <article class="about-philosophy-panel about-philosophy-panel--indent-start">
-        <div class="about-philosophy-panel-inner">
-          <div class="about-philosophy-panel-number" aria-hidden="true">03</div>
-          <div class="about-philosophy-panel-content">
-            <div class="about-philosophy-accent-bar" aria-hidden="true"></div>
-            <h3 class="about-philosophy-panel-title">ייחודיות בכל יצירה</h3>
-            <p class="about-philosophy-panel-text">אין שתי יצירות זהות — ולא תהיינה. כל עבודה שיוצאת מהסטודיו שלי היא שיחה בין הידיים שלי לבין הרגע הספציפי שבו נוצרה. זה מה שהופך כל תמונת אמנות טקסטורה לאובייקט אספנות אמיתי: לא מוצר, אלא חוויה חד-פעמית שתמצא את ביתה הנכון.</p>
-          </div>
-        </div>
-      </article>
+      <!-- Paragraphs -->
+      <div class="about-philosophy-body">
+        <p>גדלתי עם ידיים שמחפשות מרקם — אצבעות שנמשכות אל פני השטח של הדברים, אל הגסות שמסתתרת מתחת לחלקות. מגיל צעיר הבנתי שציור עבורי אינו עיסוק, אלא דרך להיות בעולם. כל עבודה שאני יוצרת היא שיחה בין חומר לרגש, בין שכבה לשכבה, בין מה שנראה לעין לבין מה שמורגש בלב.</p>
+        <p>היצירות שלי נולדות מתוך עולם של צבע, טקסטורה ועומק. אני מאמינה שאמנות אמיתית אינה מסבירה את עצמה — היא מזמינה אותך להיכנס אליה, לגעת, לנשום. כל ציור שיוצא מהסטודיו שלי נושא בתוכו שכבות של כוונה, של יופי שנבנה לאט, של יוקרה שמרגישים לפני שרואים.</p>
+      </div>
+
+      <!-- Gold divider -->
+      <div class="about-philosophy-divider" aria-hidden="true">
+        <svg width="80" height="2" viewBox="0 0 80 2" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-no-icon-edit="true">
+          <line x1="0" y1="1" x2="80" y2="1" stroke="#C9A84C" stroke-width="1.5"></line>
+        </svg>
+      </div>
+
+      <!-- Personal quote -->
+      <blockquote class="about-philosophy-quote">
+        <p><em>"אמנות טובה אינה מקשטת את החדר — היא משנה את האנרגיה שבו. היא מספרת סיפור שאת לא יכולה להפסיק לשמוע."</em></p>
+        <cite>— גליה, יוצרת ואמנית</cite>
+      </blockquote>
 
     </div>
+
   </div>
 
-  <div class="about-philosophy-divider-wrapper">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,90 L0,45 Q120,28 240,42 T480,35 Q600,28 720,40 T960,32 Q1080,26 1200,38 T1440,30 L1440,90 Z" fill="#F5F0E8"></path>
+  <!-- Decorative botanical motif -->
+  <div class="about-philosophy-botanical" aria-hidden="true">
+    <svg width="120" height="160" viewBox="0 0 120 160" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-no-icon-edit="true">
+      <path d="M60 155 C60 155 60 80 60 20" stroke="#C9A84C" stroke-width="1" stroke-linecap="round" opacity="0.35"></path>
+      <path d="M60 100 C60 100 30 85 15 60" stroke="#C9A84C" stroke-width="1" stroke-linecap="round" opacity="0.35"></path>
+      <path d="M60 100 C60 100 90 85 105 60" stroke="#C9A84C" stroke-width="1" stroke-linecap="round" opacity="0.35"></path>
+      <path d="M60 75 C60 75 38 62 25 42" stroke="#C9A84C" stroke-width="1" stroke-linecap="round" opacity="0.25"></path>
+      <path d="M60 75 C60 75 82 62 95 42" stroke="#C9A84C" stroke-width="1" stroke-linecap="round" opacity="0.25"></path>
+      <ellipse cx="15" cy="56" rx="14" ry="8" transform="rotate(-30 15 56)" stroke="#C9A84C" stroke-width="1" fill="none" opacity="0.3"></ellipse>
+      <ellipse cx="105" cy="56" rx="14" ry="8" transform="rotate(30 105 56)" stroke="#C9A84C" stroke-width="1" fill="none" opacity="0.3"></ellipse>
+      <ellipse cx="25" cy="38" rx="12" ry="7" transform="rotate(-20 25 38)" stroke="#C9A84C" stroke-width="1" fill="none" opacity="0.2"></ellipse>
+      <ellipse cx="95" cy="38" rx="12" ry="7" transform="rotate(20 95 38)" stroke="#C9A84C" stroke-width="1" fill="none" opacity="0.2"></ellipse>
+      <circle cx="60" cy="18" r="5" stroke="#C9A84C" stroke-width="1" fill="none" opacity="0.3"></circle>
     </svg>
   </div>
+
 </section>
 
 <section class="about-materials-section" data-layout-spec="אודות-materials" dir="rtl">
