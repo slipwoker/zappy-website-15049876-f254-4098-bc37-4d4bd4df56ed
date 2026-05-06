@@ -72,14 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
-
-### תמונה של גליה עם פרחים וכו' וכו'
-https://galia-luxe-art.com/product/tmvnh-shl-glyh-am-prchym-vkv-vkv-f5ji6d
-- Price: 2500.00 ILS (sale, was 3000.00 ILS)
-- Availability: In stock
-- Description: גליה ציירה את התמונה כך וכך
-- Image: https://galia-luxe-art.com/assets/image-product-image-1778079253429-tbkots.webp
+_No products are currently configured._
 
 ---
 
