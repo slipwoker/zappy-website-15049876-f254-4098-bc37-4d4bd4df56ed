@@ -13536,6 +13536,450 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   outline: 2px solid rgba(201, 168, 76, 0.6);
   outline-offset: 3px;
 }
+
+/* AI-generated section */
+/* =========================================
+   GLX CONTACT SECTION — Galia Luxe Art
+   ========================================= */
+
+.glx-contact-section {
+  position: relative;
+  background-color: var(--background-color, #FAFAF8);
+  padding: 100px 24px 110px;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  direction: rtl;
+  text-align: center;
+  overflow: hidden;
+}
+
+/* --- Container --- */
+.glx-contact-container {
+  position: relative;
+  z-index: 2;
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+
+/* --- Gold Label --- */
+.glx-contact-label-wrap {
+  margin-bottom: 28px;
+}
+
+.glx-contact-label {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--accent-color, #C9A84C);
+  background: transparent;
+  border: 1px solid var(--accent-color, #C9A84C);
+  border-radius: 40px;
+  padding: 7px 22px;
+  position: relative;
+}
+
+.glx-contact-label::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 40px;
+  background: var(--gradient-primary, linear-gradient(135deg, #C4A13D 0%, #CFB262 100%));
+  opacity: 0.08;
+}
+
+/* --- Headline --- */
+.glx-contact-headline {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 700;
+  color: var(--primary-color, #1A1A1A);
+  line-height: 1.25;
+  margin: 0 0 24px;
+  letter-spacing: -0.01em;
+}
+
+/* --- Subtitle --- */
+.glx-contact-subtitle {
+  font-size: clamp(1rem, 2.5vw, 1.175rem);
+  color: var(--text-secondary-color, #6e6556);
+  line-height: 1.75;
+  margin: 0 0 52px;
+  max-width: 560px;
+}
+
+.glx-br-desktop {
+  display: block;
+}
+
+/* =========================================
+   WhatsApp Button — DOMINANT ELEMENT
+   ========================================= */
+.glx-whatsapp-wrap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 56px;
+}
+
+.glx-whatsapp-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  background: linear-gradient(135deg, #25D366 0%, #1DA851 100%);
+  color: #ffffff;
+  text-decoration: none;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: clamp(1.1rem, 2.5vw, 1.35rem);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  padding: 22px 52px;
+  border-radius: 60px;
+  border: none;
+  box-shadow:
+    0 8px 32px rgba(37, 211, 102, 0.35),
+    0 2px 8px rgba(37, 211, 102, 0.2);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    background 0.25s ease;
+  cursor: pointer;
+  white-space: nowrap;
+  max-width: 100%;
+}
+
+.glx-whatsapp-btn:hover,
+.glx-whatsapp-btn:focus-visible {
+  transform: translateY(-3px) scale(1.025);
+  box-shadow:
+    0 14px 44px rgba(37, 211, 102, 0.45),
+    0 4px 12px rgba(37, 211, 102, 0.25);
+  background: linear-gradient(135deg, #2de070 0%, #22c05d 100%);
+  outline: none;
+}
+
+.glx-whatsapp-btn:focus-visible {
+  outline: 3px solid var(--accent-color, #C9A84C);
+  outline-offset: 4px;
+}
+
+.glx-whatsapp-btn:active {
+  transform: translateY(-1px) scale(1.01);
+}
+
+.glx-wa-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 50%;
+  padding: 4px;
+}
+
+.glx-wa-icon svg {
+  display: block;
+  width: 28px;
+  height: 28px;
+}
+
+.glx-wa-text {
+  display: inline-block;
+}
+
+/* =========================================
+   Divider
+   ========================================= */
+.glx-contact-divider {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  max-width: 420px;
+  margin-bottom: 44px;
+}
+
+.glx-divider-line {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(201, 168, 76, 0.35), transparent);
+  display: block;
+}
+
+.glx-divider-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-color, #C9A84C);
+  opacity: 0.6;
+  display: block;
+  flex-shrink: 0;
+}
+
+/* =========================================
+   Secondary Contact Cards
+   ========================================= */
+.glx-contact-secondary {
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 44px;
+}
+
+.glx-contact-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 14px;
+  background: #ffffff;
+  border: 1px solid rgba(201, 168, 76, 0.28);
+  border-radius: 16px;
+  padding: 20px 28px;
+  text-decoration: none;
+  color: var(--text-color, #1A1A1A);
+  flex: 1;
+  min-width: 220px;
+  max-width: 300px;
+  box-shadow: 0 2px 12px rgba(26, 26, 26, 0.06);
+  transition:
+    transform 0.22s ease,
+    box-shadow 0.22s ease,
+    border-color 0.22s ease,
+    background 0.22s ease;
+  cursor: pointer;
+}
+
+.glx-contact-card:hover,
+.glx-contact-card:focus-visible {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 28px rgba(201, 168, 76, 0.18);
+  border-color: rgba(201, 168, 76, 0.6);
+  background: #fffdf6;
+  outline: none;
+}
+
+.glx-contact-card:focus-visible {
+  outline: 2px solid var(--accent-color, #C9A84C);
+  outline-offset: 3px;
+}
+
+.glx-card-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: linear-gradient(135deg, rgba(196, 161, 61, 0.12) 0%, rgba(207, 178, 98, 0.08) 100%);
+  color: var(--accent-color, #C9A84C);
+  flex-shrink: 0;
+  transition: background 0.22s ease;
+}
+
+.glx-contact-card:hover .glx-card-icon {
+  background: linear-gradient(135deg, rgba(196, 161, 61, 0.2) 0%, rgba(207, 178, 98, 0.14) 100%);
+}
+
+.glx-card-icon svg {
+  display: block;
+}
+
+.glx-card-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  text-align: right;
+}
+
+.glx-card-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent-color, #C9A84C);
+  display: block;
+}
+
+.glx-card-value {
+  font-size: 14.5px;
+  font-weight: 500;
+  color: var(--text-color, #1A1A1A);
+  display: block;
+  word-break: break-all;
+}
+
+/* =========================================
+   Bottom Note
+   ========================================= */
+.glx-contact-note {
+  font-size: 13px;
+  color: var(--text-secondary-color, #6e6556);
+  letter-spacing: 0.02em;
+  margin: 0;
+  opacity: 0.85;
+  padding: 14px 24px;
+  border-radius: 40px;
+  background: rgba(201, 168, 76, 0.07);
+  border: 1px solid rgba(201, 168, 76, 0.15);
+}
+
+/* =========================================
+   Decorative Background Circles
+   ========================================= */
+.glx-deco-circle {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.glx-deco-circle--1 {
+  width: 420px;
+  height: 420px;
+  top: -140px;
+  left: -160px;
+  background: radial-gradient(circle, rgba(201, 168, 76, 0.07) 0%, transparent 70%);
+}
+
+.glx-deco-circle--2 {
+  width: 360px;
+  height: 360px;
+  bottom: -100px;
+  right: -120px;
+  background: radial-gradient(circle, rgba(201, 168, 76, 0.06) 0%, transparent 70%);
+}
+
+/* =========================================
+   RESPONSIVE — Tablet
+   ========================================= */
+@media (max-width: 768px) {
+  .glx-contact-section {
+    padding: 72px 20px 80px;
+  }
+
+  .glx-contact-headline {
+    font-size: 1.8rem;
+  }
+
+  .glx-contact-subtitle {
+    font-size: 1rem;
+    margin-bottom: 40px;
+  }
+
+  .glx-whatsapp-btn {
+    padding: 20px 36px;
+    font-size: 1.1rem;
+    gap: 12px;
+  }
+
+  .glx-whatsapp-wrap {
+    margin-bottom: 44px;
+  }
+
+  .glx-contact-secondary {
+    gap: 14px;
+  }
+
+  .glx-contact-card {
+    padding: 18px 22px;
+    min-width: 200px;
+  }
+}
+
+/* =========================================
+   RESPONSIVE — Mobile
+   ========================================= */
+@media (max-width: 520px) {
+  .glx-contact-section {
+    padding: 60px 16px 70px;
+  }
+
+  .glx-contact-headline {
+    font-size: 1.55rem;
+    line-height: 1.3;
+  }
+
+  .glx-contact-subtitle {
+    font-size: 0.97rem;
+    margin-bottom: 36px;
+  }
+
+  .glx-br-desktop {
+    display: none;
+  }
+
+  .glx-whatsapp-btn {
+    padding: 18px 28px;
+    font-size: 1.05rem;
+    border-radius: 50px;
+    gap: 10px;
+    width: 100%;
+    max-width: 380px;
+  }
+
+  .glx-wa-icon {
+    width: 32px;
+    height: 32px;
+  }
+
+  .glx-wa-icon svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .glx-whatsapp-wrap {
+    margin-bottom: 36px;
+  }
+
+  .glx-contact-secondary {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .glx-contact-card {
+    width: 100%;
+    max-width: 340px;
+    min-width: unset;
+    justify-content: flex-start;
+  }
+
+  .glx-contact-divider {
+    max-width: 280px;
+    margin-bottom: 36px;
+  }
+
+  .glx-contact-note {
+    font-size: 12.5px;
+    padding: 12px 18px;
+    text-align: center;
+  }
+
+  .glx-deco-circle--1 {
+    width: 260px;
+    height: 260px;
+    top: -80px;
+    left: -100px;
+  }
+
+  .glx-deco-circle--2 {
+    width: 220px;
+    height: 220px;
+    bottom: -60px;
+    right: -80px;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
