@@ -2,8 +2,21 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>Galia Luxe Art</title>
-    <link>https://galia-luxe-art.zappy5.app</link>
+    <link>https://galia-luxe-art.com</link>
     <description>Product feed for Galia Luxe Art</description>
-    <lastBuildDate>Wed, 06 May 2026 14:46:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:55:27 GMT</lastBuildDate>
+    <item>
+      <g:id>b3207410-52e5-4732-baa2-130038ebae35</g:id>
+      <g:title>תמונה של גליה עם פרחים וכו&apos; וכו&apos;</g:title>
+      <g:description>גליה ציירה את התמונה כך וכך</g:description>
+      <g:link>https://galia-luxe-art.com/product/tmvnh-shl-glyh-am-prchym-vkv-vkv-f5ji6d</g:link>
+      <g:image_link>https://galia-luxe-art.com/assets/image-product-image-1778079253429-tbkots.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>2500.00 ILS</g:price>
+      <g:sale_price>2500.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Galia Luxe Art</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

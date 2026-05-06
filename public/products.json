@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T14:46:51.366Z",
-  "base_url": "https://galia-luxe-art.zappy5.app",
+  "generated_at": "2026-05-06T14:55:27.272Z",
+  "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "b3207410-52e5-4732-baa2-130038ebae35",
+      "slug": "tmvnh-shl-glyh-am-prchym-vkv-vkv-f5ji6d",
+      "name": "תמונה של גליה עם פרחים וכו' וכו'",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גליה ציירה את התמונה כך וכך",
+      "sku": null,
+      "brand": null,
+      "price": 2500,
+      "base_price": 3000,
+      "sale_price": 2500,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/image-product-image-1778079253429-tbkots.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/tmvnh-shl-glyh-am-prchym-vkv-vkv-f5ji6d",
+      "categories": [],
+      "updated_at": "2026-05-06T14:54:56.421Z"
+    }
+  ]
 }

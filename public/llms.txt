@@ -7,72 +7,79 @@
 ## Pages
 
 ### בית
-https://galia-luxe-art.zappy5.app
+https://galia-luxe-art.com
 תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
 
 ### תיק עבודות
-https://galia-luxe-art.zappy5.app/portfolio
+https://galia-luxe-art.com/portfolio
 תיק העבודות של גליה לוקס ארט מציג אמנות טקסטורה מרהיבה לבית ולמשרד. כל יצירה היא עולם בפני עצמו — גלו את הקולקציה המלאה ומצאו את היצירה שמדברת אליכם.
 
 ### אודות
-https://galia-luxe-art.zappy5.app/about
+https://galia-luxe-art.com/about
 הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
 
 ### צור קשר
-https://galia-luxe-art.zappy5.app/contact
+https://galia-luxe-art.com/contact
 רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
 
 ### Products
-https://galia-luxe-art.zappy5.app/products
+https://galia-luxe-art.com/products
 המוצרים שלנו - Galia Luxe Art
 
 ### Cart
-https://galia-luxe-art.zappy5.app/cart
+https://galia-luxe-art.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://galia-luxe-art.zappy5.app/checkout
+https://galia-luxe-art.com/checkout
 תשלום
 
 ### Login
-https://galia-luxe-art.zappy5.app/login
+https://galia-luxe-art.com/login
 התחברות לקוחות
 
 ### Account
-https://galia-luxe-art.zappy5.app/account
+https://galia-luxe-art.com/account
 החשבון שלי
 
 ### Order Success
-https://galia-luxe-art.zappy5.app/order-success
+https://galia-luxe-art.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://galia-luxe-art.zappy5.app/product/:slug
+https://galia-luxe-art.com/product/:slug
 פרטי המוצר - Galia Luxe Art
 
 ### Category
-https://galia-luxe-art.zappy5.app/category/:slug
+https://galia-luxe-art.com/category/:slug
 מוצרים - Galia Luxe Art
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://galia-luxe-art.zappy5.app/privacy
+https://galia-luxe-art.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://galia-luxe-art.zappy5.app/terms
+https://galia-luxe-art.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://galia-luxe-art.zappy5.app/accessibility
+https://galia-luxe-art.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### תמונה של גליה עם פרחים וכו' וכו'
+https://galia-luxe-art.com/product/tmvnh-shl-glyh-am-prchym-vkv-vkv-f5ji6d
+- Price: 2500.00 ILS (sale, was 3000.00 ILS)
+- Availability: In stock
+- Description: גליה ציירה את התמונה כך וכך
+- Image: https://galia-luxe-art.com/assets/image-product-image-1778079253429-tbkots.webp
 
 ---
 
@@ -93,8 +100,8 @@ A luxury art creator specializing in textured paintings and artwork aimed at mod
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://galia-luxe-art.zappy5.app/sitemap.xml
-- Robots: https://galia-luxe-art.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://galia-luxe-art.zappy5.app/llms-full.txt
-- Products (JSON): https://galia-luxe-art.zappy5.app/products.json
-- Products (Google Merchant RSS): https://galia-luxe-art.zappy5.app/product-feed.xml
+- Sitemap (XML): https://galia-luxe-art.com/sitemap.xml
+- Robots: https://galia-luxe-art.com/robots.txt
+- Flattened page text (for LLMs): https://galia-luxe-art.com/llms-full.txt
+- Products (JSON): https://galia-luxe-art.com/products.json
+- Products (Google Merchant RSS): https://galia-luxe-art.com/product-feed.xml
