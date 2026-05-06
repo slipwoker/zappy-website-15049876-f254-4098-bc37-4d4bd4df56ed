@@ -13247,6 +13247,295 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     transition: none;
   }
 }
+
+/* AI-generated section */
+/* ============================================================
+   GLX WHY CHOOSE ME — Galia Luxe Art
+   Dark luxury section with gold accents, RTL Hebrew
+   ============================================================ */
+
+.glx-why-section {
+  position: relative;
+  background-color: #111111;
+  padding: 100px 24px 90px;
+  direction: rtl;
+  font-family: 'Inter', sans-serif;
+  overflow: hidden;
+}
+
+/* Subtle warm texture overlay using radial gradients */
+.glx-why-texture-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 60% 50% at 20% 80%, rgba(196, 161, 61, 0.055) 0%, transparent 70%),
+    radial-gradient(ellipse 50% 40% at 80% 20%, rgba(196, 161, 61, 0.04) 0%, transparent 70%),
+    radial-gradient(ellipse 80% 60% at 50% 50%, rgba(255, 240, 200, 0.018) 0%, transparent 80%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Container */
+.glx-why-container {
+  position: relative;
+  z-index: 1;
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* ---- Label ---- */
+.glx-why-label-wrap {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 22px;
+}
+
+.glx-why-label {
+  display: inline-block;
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--accent-color, #C9A84C);
+  border: 1px solid rgba(201, 168, 76, 0.45);
+  border-radius: 3px;
+  padding: 7px 20px;
+  background: rgba(201, 168, 76, 0.07);
+}
+
+/* ---- Headline ---- */
+.glx-why-headline {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(2rem, 4.5vw, 3.2rem);
+  font-weight: 400;
+  line-height: 1.4;
+  color: #F5EDD8;
+  margin: 0 auto 64px;
+  max-width: 780px;
+  letter-spacing: -0.01em;
+}
+
+.glx-why-br {
+  display: block;
+}
+
+/* ---- Cards Grid ---- */
+.glx-why-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  margin-bottom: 64px;
+}
+
+/* ---- Individual Card ---- */
+.glx-why-card {
+  position: relative;
+  background: #1C1C1C;
+  border: 1px solid rgba(201, 168, 76, 0.18);
+  border-radius: 14px;
+  padding: 44px 30px 38px;
+  text-align: center;
+  box-shadow:
+    0 4px 24px rgba(0, 0, 0, 0.45),
+    0 1px 0 rgba(201, 168, 76, 0.06) inset;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    border-color 0.3s ease,
+    background 0.3s ease;
+  overflow: hidden;
+}
+
+.glx-why-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, transparent 0%, #C4A13D 30%, #E8C96A 60%, #C4A13D 80%, transparent 100%);
+  border-radius: 14px 14px 0 0;
+}
+
+.glx-why-card:hover {
+  transform: translateY(-6px);
+  background: #202020;
+  border-color: rgba(201, 168, 76, 0.42);
+  box-shadow:
+    0 12px 40px rgba(0, 0, 0, 0.55),
+    0 0 30px rgba(196, 161, 61, 0.08);
+}
+
+/* Hide the redundant top border div — handled by ::before */
+.glx-why-card-top-border {
+  display: none;
+}
+
+/* ---- Card Icon ---- */
+.glx-why-card-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 68px;
+  height: 68px;
+  margin: 0 auto 26px;
+  border-radius: 50%;
+  background: rgba(201, 168, 76, 0.08);
+  border: 1px solid rgba(201, 168, 76, 0.25);
+  color: var(--accent-color, #C9A84C);
+  transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+.glx-why-card:hover .glx-why-card-icon {
+  background: rgba(201, 168, 76, 0.14);
+  border-color: rgba(201, 168, 76, 0.5);
+}
+
+.glx-why-svg {
+  width: 32px;
+  height: 32px;
+  display: block;
+}
+
+/* ---- Card Title ---- */
+.glx-why-card-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #F0E4C4;
+  margin: 0 0 16px;
+  line-height: 1.4;
+  letter-spacing: 0.01em;
+}
+
+/* ---- Card Description ---- */
+.glx-why-card-desc {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: #9E9282;
+  margin: 0;
+  transition: color 0.3s ease;
+}
+
+.glx-why-card:hover .glx-why-card-desc {
+  color: #B5A898;
+}
+
+/* ---- Closing Quote ---- */
+.glx-why-closing {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  color: var(--accent-color, #C9A84C);
+  margin: 0 auto;
+  max-width: 620px;
+  line-height: 1.7;
+  opacity: 0.88;
+  letter-spacing: 0.02em;
+}
+
+/* ============================================================
+   RESPONSIVE — Tablet
+   ============================================================ */
+@media (max-width: 900px) {
+  .glx-why-section {
+    padding: 80px 20px 72px;
+  }
+
+  .glx-why-cards {
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+  }
+
+  /* Third card spans full width on tablet */
+  .glx-why-card:last-child {
+    grid-column: 1 / -1;
+    max-width: 480px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .glx-why-headline {
+    margin-bottom: 48px;
+  }
+}
+
+/* ============================================================
+   RESPONSIVE — Mobile
+   ============================================================ */
+@media (max-width: 600px) {
+  .glx-why-section {
+    padding: 64px 16px 60px;
+  }
+
+  .glx-why-label {
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    padding: 6px 16px;
+  }
+
+  .glx-why-headline {
+    font-size: 1.65rem;
+    margin-bottom: 40px;
+    line-height: 1.5;
+  }
+
+  .glx-why-br {
+    display: inline;
+  }
+
+  .glx-why-cards {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .glx-why-card:last-child {
+    grid-column: auto;
+    max-width: none;
+  }
+
+  .glx-why-card {
+    padding: 36px 24px 32px;
+  }
+
+  .glx-why-card-icon {
+    width: 58px;
+    height: 58px;
+    margin-bottom: 20px;
+  }
+
+  .glx-why-svg {
+    width: 27px;
+    height: 27px;
+  }
+
+  .glx-why-card-title {
+    font-size: 1.1rem;
+  }
+
+  .glx-why-card-desc {
+    font-size: 0.92rem;
+  }
+
+  .glx-why-cards {
+    margin-bottom: 48px;
+  }
+
+  .glx-why-closing {
+    font-size: 1rem;
+  }
+}
+
+/* ============================================================
+   FOCUS / ACCESSIBILITY
+   ============================================================ */
+.glx-why-card:focus-within {
+  outline: 2px solid rgba(201, 168, 76, 0.6);
+  outline-offset: 3px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
