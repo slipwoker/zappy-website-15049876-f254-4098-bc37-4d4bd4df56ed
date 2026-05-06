@@ -246,6 +246,219 @@
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
+
+<style data-zappy-section-v2-css="true">
+/* V2 Regenerated Section CSS */
+.about-artist-story-section {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+  padding-bottom: 70px;
+  background-color: #1A1A1A;
+  color: var(--text-light);
+  direction: rtl;
+}
+
+/* Background image layer */
+.about-artist-story-section .artist-story-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.about-artist-story-section .artist-story-bg-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  display: block;
+}
+
+/* Dark semi-transparent overlay */
+.about-artist-story-section .artist-story-overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(18, 12, 8, 0.68);
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgba(18, 12, 8, 0.45) 0%,
+      rgba(18, 12, 8, 0.72) 60%,
+      rgba(18, 12, 8, 0.88) 100%
+    );
+  z-index: 1;
+}
+
+/* Centered content container */
+.about-artist-story-section .artist-story-container {
+  position: relative;
+  z-index: 10;
+  max-width: 860px;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 160px 24px 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+
+/* Wave accent underline decoration */
+.about-artist-story-section .artist-story-wave-accent {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  opacity: 1;
+}
+
+.about-artist-story-section .artist-story-wave-accent svg {
+  display: block;
+}
+
+/* Gold uppercase label */
+.about-artist-story-section .artist-story-label {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 28px;
+  opacity: 0.95;
+}
+
+/* Large bold Hebrew headline */
+.about-artist-story-section .artist-story-headline {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(2.6rem, 6vw, 4.2rem);
+  font-weight: 700;
+  line-height: 1.18;
+  color: var(--text-light);
+  text-align: center;
+  margin: 0 0 28px 0;
+  letter-spacing: -0.01em;
+}
+
+.about-artist-story-section .artist-story-headline em {
+  font-style: italic;
+  font-weight: 400;
+  color: var(--accent);
+  -webkit-text-fill-color: var(--accent);
+}
+
+/* Emotional subtitle */
+.about-artist-story-section .artist-story-subtitle {
+  font-family: 'Manrope', sans-serif;
+  font-size: 1.05rem;
+  font-weight: 300;
+  line-height: 1.85;
+  color: rgba(250, 250, 248, 0.82);
+  text-align: center;
+  margin: 0 0 48px 0;
+  max-width: 580px;
+  letter-spacing: 0.01em;
+}
+
+/* Gold CTA button */
+.about-artist-story-section .artist-story-cta {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  color: var(--bg-dark);
+  background-color: var(--accent);
+  padding: 15px 42px;
+  border-radius: 2px;
+  border: 1.5px solid var(--accent);
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 24px rgba(201, 168, 76, 0.28);
+  cursor: pointer;
+}
+
+.about-artist-story-section .artist-story-cta:hover {
+  background-color: transparent;
+  color: var(--accent);
+  box-shadow: 0 8px 36px rgba(201, 168, 76, 0.38);
+  transform: translateY(-2px);
+}
+
+/* Bottom divider wrapper */
+.about-artist-story-section .artist-story-divider-wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.about-artist-story-section .artist-story-divider-wrapper svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .about-artist-story-section {
+    min-height: 100svh;
+    padding-bottom: 70px;
+  }
+
+  .about-artist-story-section .artist-story-container {
+    padding: 120px 20px 50px;
+    width: 100%;
+    gap: 0;
+  }
+
+  .about-artist-story-section .artist-story-headline {
+    font-size: clamp(2rem, 9vw, 2.8rem);
+    margin-bottom: 20px;
+  }
+
+  .about-artist-story-section .artist-story-subtitle {
+    font-size: 0.95rem;
+    margin-bottom: 36px;
+    padding: 0 4px;
+  }
+
+  .about-artist-story-section .artist-story-label {
+    font-size: 0.68rem;
+    letter-spacing: 0.18em;
+    margin-bottom: 20px;
+  }
+
+  .about-artist-story-section .artist-story-cta {
+    padding: 13px 32px;
+    font-size: 0.9rem;
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .about-artist-story-section .artist-story-bg-img {
+    object-position: 60% center;
+  }
+}
+
+@media (min-width: 1200px) {
+  .about-artist-story-section .artist-story-container {
+    padding-top: 180px;
+  }
+}
+</style>
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-dropdown-submenu-styles">
@@ -811,52 +1024,34 @@
   
   <main>
     <section class="about-artist-story-section" data-layout-spec="אודות-artist-story" dir="rtl">
-  <!-- Texture overlay -->
-  <div class="artist-story-texture" aria-hidden="true"></div>
-
-  <div class="artist-story-container">
-    <!-- Text Side (START = RIGHT in RTL) -->
-    <div class="artist-story-text">
-      <!-- Terracotta accent bar -->
-      <div class="artist-story-accent-bar" aria-hidden="true"></div>
-
-      <h1 class="artist-story-heading">גליה לוקס ארט —<br><em>אמנות שנולדת מן המגע</em></h1>
-
-      <p class="artist-story-body">אני גליה, אמנית ויוצרת תמונות יוקרה עם טקסטורה. מאז ילדותי חיפשתי את הממד הנוסף שמעבר לצבע — את העובי, הגובה, הנשימה שיש לחומר כשהוא חי על הבד. לאחר שנים של לימוד, ניסוי, וחיפוש אחר שפה ייחודית, מצאתי את עצמי יוצרת אמנות מודרנית לבית יוקרתי שמשלבת בין ריסון אסתטי לבין עושר חושי. כל יצירה היא שיחה בין שכבה לשכבה — בין מה שנראה לבין מה שמורגש.</p>
-
-      <p class="artist-story-body">עבודותיי מיועדות לאוספנים ולמעצבי פנים שמחפשים יצירה שתשנה את האווירה של חלל שלם. אני עובדת בהתאמה אישית לכל לקוח, ומאמינה שתמונות אמנות טקסטורה הן לא רק קישוט — הן נוכחות. הן מביאות חום, עומק ואישיות לכל מרחב, ממשרד יוקרתי ועד לסלון פרטי.</p>
-
-      <!-- Pull Quote -->
-      <blockquote class="artist-story-quote">
-        <div class="quote-mark" aria-hidden="true">“</div>
-        <h3 class="artist-story-quote-text">כשהיד נוגעת בבד, הלב מוצא את מה שהעין לא תמיד רואה.</h3>
-      </blockquote>
-    </div>
-
-    <!-- Image Side (END = LEFT in RTL) -->
-    <div class="artist-story-image-wrap">
-      <div class="artist-story-image-frame">
-        <img data-placeholder="about-artist-story-image-1" data-context="A warm, intimate portrait of a female luxury art creator in her studio, surrounded by large textured abstract paintings in terracotta, cream, and warm neutral tones. She is standing near a canvas, partially turned, with natural light streaming from a side window. The atmosphere is refined and artistic — paint-stained hands, elegant posture, a sense of quiet creative focus. Background shows layered textured artworks on studio walls." width="600" height="780" src="/assets/site-about-artist-story-image-1.webp" alt="גליה — אמנית ויוצרת תמונות יוקרה עם טקסטורה בסטודיו שלה">
-        <!-- Decorative corner accent -->
-        <div class="image-corner-accent" aria-hidden="true"></div>
-      </div>
-      <!-- Floating terracotta badge -->
-      <div class="artist-story-badge" aria-hidden="true">
-        <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" width="100" height="100">
-          <circle cx="50" cy="50" r="46" fill="none" stroke="var(--accent)" stroke-width="1"></circle>
-          <path d="M50,20 C55,28 62,32 62,42 C62,52 55,56 50,64 C45,56 38,52 38,42 C38,32 45,28 50,20 Z" fill="var(--accent)" opacity="0.18"></path>
-          <path d="M50,30 C53,36 57,38 57,44 C57,50 53,52 50,58 C47,52 43,50 43,44 C43,38 47,36 50,30 Z" fill="var(--accent)" opacity="0.3"></path>
-          <circle cx="50" cy="44" r="3" fill="var(--accent)" opacity="0.5"></circle>
-        </svg>
-        <span class="badge-label">אמנות יוקרה</span>
-      </div>
-    </div>
+  <!-- Background Image -->
+  <div class="artist-story-bg">
+    <img data-context="A luxury female artist in her studio painting a large textured abstract wall art piece. The scene is moody and atmospheric with warm golden light, visible brushstrokes and palette knife textures on the canvas, paint-stained hands, an elegant studio environment with neutral warm tones. The image should feel intimate, artisanal, and high-end — suitable for a premium contemporary art brand." width="1440" height="900" src="/assets/galia-luxe-art-section-אודות-artist-story-about-artist-story-image-1.webp" alt="גליה לוקס ארט — אמנית יוצרת ציורי טקסטורה בסטודיו" class="artist-story-bg-img">
+    <div class="artist-story-overlay" aria-hidden="true"></div>
   </div>
 
-  <!-- Bottom Divider: soft contour transitioning to philosophy section -->
+  <!-- Centered Content -->
+  <div class="artist-story-container">
+    <!-- Wave accent decoration -->
+    <div class="artist-story-wave-accent" aria-hidden="true">
+      <svg data-no-icon-edit="true" aria-hidden="true" width="60" height="18" viewBox="0 0 60 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M2 14 C8 6, 16 6, 22 10 C28 14, 36 16, 44 10 C50 5, 56 4, 58 6" stroke="#C9A84C" stroke-width="2.2" stroke-linecap="round" fill="none"></path>
+      </svg>
+    </div>
+
+    <span class="artist-story-label">אמנות קיר בהתאמה אישית</span>
+
+    <h1 class="artist-story-headline">כל קיר הוא בד.<br><em>כל חלל — סיפור.</em></h1>
+
+    <p class="artist-story-subtitle">יצירות מקוריות שנולדות מתוך הקשבה לחלל,<br>לאור, ולאנשים שחיים בו.</p>
+
+    <a href="#works" class="artist-story-cta">גלו את העבודות שלי</a>
+  </div>
+
+  <!-- Bottom divider -->
   <div class="artist-story-divider-wrapper">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,80 L0,48 Q120,32 240,44 T480,36 Q600,30 720,42 T960,34 Q1080,28 1200,40 T1440,44 L1440,80 Z" fill="#F5F0E8"></path>
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 70" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,70 L0,38 Q120,20 240,34 T480,28 Q600,22 720,32 T960,26 Q1080,20 1200,32 T1440,28 L1440,70 Z" fill="#F5F0E8"></path>
     </svg>
   </div>
 </section>

@@ -68,7 +68,6 @@
   src: url('assets/fonts/Rubik-Bold.woff2') format('woff2');
 }
 
-
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
 /* Inter font (English / LTR languages) */
@@ -1285,7 +1284,6 @@ html:not([dir]) .whatsapp-float {
   }
 }
 
-
 /* ============================================
    NAVBAR LAYOUT - POST-GENERATION FIXES
    Structural layout only - colors from Claude
@@ -2188,7 +2186,6 @@ html[lang="ar"] .nav-cta-btn {
 /* Post-generation fix: Remove main element margin-top and padding-top */
 main { margin-top: 0 !important; padding-top: 0 !important; }
 
-
 /* Footer Styles */
 .site-footer {
   --primary: #1A1A1A;
@@ -2523,7 +2520,6 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
     gap: 0.6rem;
   }
 }
-
 
 /* Footer Contrast Guard — overrides dark-on-dark text */
 .site-footer .contact-list a,
@@ -3115,7 +3111,6 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 }
 /* ZAPPY_POSTGEN_GUARD_RTL_ORDER:בית-intro — stripped 2 order declaration(s) conflicting with RTL grid */
-
 
 /* index-showcase */
 .index-showcase-section {
@@ -5077,7 +5072,6 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 /* ZAPPY_POSTGEN_GUARD_RTL_ORDER:תיק עבודות-applications — stripped 2 order declaration(s) conflicting with RTL grid */
 
-
 /* portfolio-inquiry-cta */
 .portfolio-inquiry-cta-section {
   position: relative;
@@ -5228,284 +5222,33 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 }
 
-/* about-artist-story */
-.about-artist-story-section {
-  position: relative;
-  overflow: visible;
-  background-color: #EDE6D8;
-  background-image:
-    radial-gradient(ellipse at 80% 20%, rgba(196,110,78,0.07) 0%, transparent 55%),
-    linear-gradient(180deg, #F5F0E8 0%, #EDE6D8 100%);
-  color: var(--text-dark);
-  padding: 120px 24px 100px;
-  direction: rtl;
-}
-
 /* Linen texture overlay */
-.about-artist-story-section .artist-story-texture {
-  position: absolute;
-  inset: 0;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23noise)' opacity='0.045'/%3E%3C/svg%3E");
-  pointer-events: none;
-  z-index: 0;
-  opacity: 1;
-}
 
 /* Main container */
-.about-artist-story-section .artist-story-container {
-  position: relative;
-  z-index: 1;
-  max-width: 1200px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 480px;
-  gap: 80px;
-  align-items: center;
-  direction: rtl;
-}
 
 /* ── TEXT SIDE ─────────────────────────────────────────── */
-.about-artist-story-section .artist-story-text {
-  display: flex;
-  flex-direction: column;
-  gap: 28px;
-  text-align: right;
-}
 
 /* Terracotta accent bar */
-.about-artist-story-section .artist-story-accent-bar {
-  width: 48px;
-  height: 2px;
-  background-color: var(--accent);
-  border-radius: 2px;
-  margin-inline-start: 0;
-}
 
 /* H1 heading */
-.about-artist-story-section .artist-story-heading {
-  font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
-  font-weight: 400;
-  line-height: 1.2;
-  color: var(--text-dark);
-  margin: 0;
-  letter-spacing: -0.01em;
-}
-
-.about-artist-story-section .artist-story-heading em {
-  font-style: italic;
-  color: var(--accent);
-  display: block;
-  font-size: 2.6rem;
-}
 
 /* Body paragraphs */
-.about-artist-story-section .artist-story-body {
-  font-family: 'Inter', sans-serif;
-  font-size: 16px;
-  line-height: 1.85;
-  color: var(--text-dark);
-  opacity: 0.82;
-  margin: 0;
-  max-width: 560px;
-}
 
 /* Pull Quote */
-.about-artist-story-section .artist-story-quote {
-  margin: 12px 0 0;
-  padding: 28px 32px;
-  background: rgba(255,255,255,0.55);
-  border-inline-start: 3px solid var(--accent);
-  border-radius: 0 var(--radius-card, 8px) var(--radius-card, 8px) 0;
-  position: relative;
-  box-shadow: 0 4px 20px rgba(44,36,32,0.06);
-}
-
-.about-artist-story-section .quote-mark {
-  position: absolute;
-  top: -8px;
-  inset-inline-end: 20px;
-  font-family: 'Inter', sans-serif;
-  font-size: 5rem;
-  line-height: 1;
-  color: var(--accent);
-  opacity: 0.25;
-  pointer-events: none;
-  user-select: none;
-}
-
-.about-artist-story-section .artist-story-quote-text {
-  font-family: 'Inter', sans-serif;
-  font-size: 1.375rem;
-  font-weight: 400;
-  line-height: 1.55;
-  color: var(--text-dark);
-  margin: 0;
-  font-style: italic;
-  text-align: right;
-}
 
 /* ── IMAGE SIDE ─────────────────────────────────────────── */
-.about-artist-story-section .artist-story-image-wrap {
-  position: relative;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-}
-
-.about-artist-story-section .artist-story-image-frame {
-  position: relative;
-  width: 100%;
-  max-width: 480px;
-  border-radius: var(--radius-img, 8px);
-  overflow: hidden;
-  box-shadow: 0 16px 48px rgba(44,36,32,0.14);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.about-artist-story-section .artist-story-image-frame:hover {
-  transform: scale(1.015);
-  box-shadow: 0 24px 64px rgba(44,36,32,0.18);
-}
-
-.about-artist-story-section .artist-story-image-frame img {
-  display: block;
-  width: 100%;
-  height: auto;
-  aspect-ratio: 4/5;
-  object-fit: cover;
-  border-radius: var(--radius-img, 8px);
-}
 
 /* Corner accent — decorative L-bracket */
-.about-artist-story-section .image-corner-accent {
-  position: absolute;
-  bottom: -16px;
-  inset-inline-start: -16px;
-  width: 56px;
-  height: 56px;
-  border-inline-start: 2px solid var(--accent);
-  border-bottom: 2px solid var(--accent);
-  border-radius: 0 0 0 4px;
-  pointer-events: none;
-  z-index: 2;
-  opacity: 0.7;
-}
 
 /* Floating botanical badge */
-.about-artist-story-section .artist-story-badge {
-  position: absolute;
-  top: -28px;
-  inset-inline-end: -20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4px;
-  pointer-events: none;
-  z-index: 3;
-  opacity: 0.88;
-}
-
-.about-artist-story-section .artist-story-badge svg {
-  display: block;
-  filter: drop-shadow(0 2px 8px rgba(196,110,78,0.2));
-}
-
-.about-artist-story-section .badge-label {
-  font-family: 'Inter', sans-serif;
-  font-size: 0.7rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--accent);
-  white-space: nowrap;
-}
 
 /* ── BOTTOM DIVIDER ─────────────────────────────────────── */
-.about-artist-story-section .artist-story-divider-wrapper {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 80px;
-  pointer-events: none;
-  z-index: 5;
-}
-
-.about-artist-story-section .artist-story-divider-wrapper svg {
-  display: block;
-  width: 100%;
-  height: 100%;
-}
 
 /* ── RESPONSIVE ─────────────────────────────────────────── */
-@media (max-width: 1024px) {
-  .about-artist-story-section .artist-story-container {
-    grid-template-columns: 1fr 380px;
-    gap: 48px;
-  }
-
-  .about-artist-story-section .artist-story-heading {
-    font-size: 2.4rem;
-  }
-
-  .about-artist-story-section .artist-story-heading em {
-    font-size: 2.1rem;
-  }
-}
 
 @media (max-width: 768px) {
-  .about-artist-story-section {
-    padding: 100px 16px 80px;
-  }
-
-  .about-artist-story-section .artist-story-container {
-    grid-template-columns: 1fr;
-    gap: 40px;
-    direction: rtl;
-  }
 
   /* On mobile, image comes AFTER text (image is second in DOM = below text) */
-  .about-artist-story-section .artist-story-image-wrap {
-    order: 2;
-  }
-
-  .about-artist-story-section .artist-story-text {
-    order: 1;
-    gap: 20px;
-  }
-
-  .about-artist-story-section .artist-story-heading {
-    font-size: 2rem;
-  }
-
-  .about-artist-story-section .artist-story-heading em {
-    font-size: 1.75rem;
-  }
-
-  .about-artist-story-section .artist-story-body {
-    max-width: 100%;
-  }
-
-  .about-artist-story-section .artist-story-image-frame {
-    max-width: 100%;
-  }
-
-  .about-artist-story-section .artist-story-badge {
-    top: -20px;
-    inset-inline-end: 8px;
-  }
-
-  .about-artist-story-section .image-corner-accent {
-    display: none;
-  }
-
-  .about-artist-story-section .artist-story-quote {
-    padding: 20px 20px;
-  }
-
-  .about-artist-story-section .artist-story-quote-text {
-    font-size: 1.2rem;
-  }
 }
 
 /* about-philosophy */
@@ -6694,7 +6437,6 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 /* ZAPPY_POSTGEN_GUARD_RTL_ORDER:צור קשר-contact-intro — stripped 2 order declaration(s) conflicting with RTL grid */
 
-
 /* contact-contact-details */
 .contact-contact-details-section {
   position: relative;
@@ -6988,7 +6730,6 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 /* ZAPPY_POSTGEN_GUARD_RTL_ORDER:צור קשר-contact-details — stripped 1 order declaration(s) conflicting with RTL grid */
 
-
 /* contact-contact-form */
 .contact-contact-form-section {
   position: relative;
@@ -7262,7 +7003,6 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 }
 
-
 /* contact-faq */
 .contact-faq-section {
   background-color: #F5F0E8;
@@ -7416,13 +7156,10 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 }
 
-
-
 /* Global font override - exclude icon fonts and special elements */
 *:not(.fas):not(.far):not(.fab):not(.fa):not([class*="fa-"]):not(.iconify):not([class*="icon"]):not(code):not(pre):not(i[class*="fa"]) {
   font-family: 'Inter', sans-serif !important;
 }
-
 
 /* Logo size constraint - enforce max-height only */
 .logo, img.logo, .logo img, .logo-link img, .nav-brand img {
@@ -7432,7 +7169,6 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   object-fit: contain !important;
 }
 
-
 /* Footer contact alignment fix */
 .footer-contact li > a { display: flex; align-items: flex-start; gap: inherit; }
 
@@ -7441,7 +7177,6 @@ html[dir="rtl"] .footer-contact li, html[dir="rtl"] .site-footer .footer-contact
 html[dir="rtl"] .footer-contact .contact-icon { order: 0 !important; }
 html[dir="rtl"] .footer-contact .contact-text { order: 1 !important; }
 html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
-
 
 /* ============================================
    MOBILE RESPONSIVE FIXES (Auto-generated)
@@ -7658,8 +7393,6 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 /* END MOBILE RESPONSIVE FIXES */
-
-
 
 /* ==ZAPPY V2 E-COMMERCE THEME CSS== */
 /* ═══════════════════════════════════════════════════════════════════════════ */
@@ -12387,7 +12120,6 @@ main,
   border: 0 !important;
 }
 
-
 /* Custom Accessibility Toolbar Styling - Zappy Style */
 
 /* Main button icon - ONLY target the floating button, not menu elements */
@@ -12551,6 +12283,220 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .nav-cta-btn { color: #FFFFFF !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
+
+/* ═══════════════════════════════════════════════════════════
+   V2 REGENERATED SECTION CSS (אודות-artist-story)
+   Added: 2026-05-06T17:45:03.608Z
+   ═══════════════════════════════════════════════════════════ */
+.about-artist-story-section {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+  padding-bottom: 70px;
+  background-color: #1A1A1A;
+  color: var(--text-light);
+  direction: rtl;
+}
+
+/* Background image layer */
+.about-artist-story-section .artist-story-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.about-artist-story-section .artist-story-bg-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  display: block;
+}
+
+/* Dark semi-transparent overlay */
+.about-artist-story-section .artist-story-overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(18, 12, 8, 0.68);
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgba(18, 12, 8, 0.45) 0%,
+      rgba(18, 12, 8, 0.72) 60%,
+      rgba(18, 12, 8, 0.88) 100%
+    );
+  z-index: 1;
+}
+
+/* Centered content container */
+.about-artist-story-section .artist-story-container {
+  position: relative;
+  z-index: 10;
+  max-width: 860px;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 160px 24px 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+
+/* Wave accent underline decoration */
+.about-artist-story-section .artist-story-wave-accent {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  opacity: 1;
+}
+
+.about-artist-story-section .artist-story-wave-accent svg {
+  display: block;
+}
+
+/* Gold uppercase label */
+.about-artist-story-section .artist-story-label {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 28px;
+  opacity: 0.95;
+}
+
+/* Large bold Hebrew headline */
+.about-artist-story-section .artist-story-headline {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(2.6rem, 6vw, 4.2rem);
+  font-weight: 700;
+  line-height: 1.18;
+  color: var(--text-light);
+  text-align: center;
+  margin: 0 0 28px 0;
+  letter-spacing: -0.01em;
+}
+
+.about-artist-story-section .artist-story-headline em {
+  font-style: italic;
+  font-weight: 400;
+  color: var(--accent);
+  -webkit-text-fill-color: var(--accent);
+}
+
+/* Emotional subtitle */
+.about-artist-story-section .artist-story-subtitle {
+  font-family: 'Manrope', sans-serif;
+  font-size: 1.05rem;
+  font-weight: 300;
+  line-height: 1.85;
+  color: rgba(250, 250, 248, 0.82);
+  text-align: center;
+  margin: 0 0 48px 0;
+  max-width: 580px;
+  letter-spacing: 0.01em;
+}
+
+/* Gold CTA button */
+.about-artist-story-section .artist-story-cta {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  color: var(--bg-dark);
+  background-color: var(--accent);
+  padding: 15px 42px;
+  border-radius: 2px;
+  border: 1.5px solid var(--accent);
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 24px rgba(201, 168, 76, 0.28);
+  cursor: pointer;
+}
+
+.about-artist-story-section .artist-story-cta:hover {
+  background-color: transparent;
+  color: var(--accent);
+  box-shadow: 0 8px 36px rgba(201, 168, 76, 0.38);
+  transform: translateY(-2px);
+}
+
+/* Bottom divider wrapper */
+.about-artist-story-section .artist-story-divider-wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.about-artist-story-section .artist-story-divider-wrapper svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .about-artist-story-section {
+    min-height: 100svh;
+    padding-bottom: 70px;
+  }
+
+  .about-artist-story-section .artist-story-container {
+    padding: 120px 20px 50px;
+    width: 100%;
+    gap: 0;
+  }
+
+  .about-artist-story-section .artist-story-headline {
+    font-size: clamp(2rem, 9vw, 2.8rem);
+    margin-bottom: 20px;
+  }
+
+  .about-artist-story-section .artist-story-subtitle {
+    font-size: 0.95rem;
+    margin-bottom: 36px;
+    padding: 0 4px;
+  }
+
+  .about-artist-story-section .artist-story-label {
+    font-size: 0.68rem;
+    letter-spacing: 0.18em;
+    margin-bottom: 20px;
+  }
+
+  .about-artist-story-section .artist-story-cta {
+    padding: 13px 32px;
+    font-size: 0.9rem;
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .about-artist-story-section .artist-story-bg-img {
+    object-position: 60% center;
+  }
+}
+
+@media (min-width: 1200px) {
+  .about-artist-story-section .artist-story-container {
+    padding-top: 180px;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
