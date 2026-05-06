@@ -942,20 +942,20 @@
   </div>
 </section>
 
-<section class="index-showcase-section" data-layout-spec="בית-showcase" dir="rtl">
+<section class="index-showcase-section" data-layout-spec="בית-showcase" dir="rtl" id="index-showcase-section">
   <div class="index-showcase-container">
     <div class="index-showcase-header">
-      <span class="index-showcase-label">אוסף נבחר</span>
-      <h2 class="index-showcase-title">שפה חזותית<em> ייחודית</em></h2>
+      <p class="zappy-editable"><span class="index-showcase-label">אוסף נבחר</span>
+      </p><h2 class="index-showcase-title">שפה חזותית<em> ייחודית</em></h2>
       <div class="index-showcase-accent-bar" aria-hidden="true"></div>
       <p class="index-showcase-desc">כל יצירה היא עולם בפני עצמו — שטחים פיסוליים, שכבות צבע עשירות ומרקמים מוחשיים שמשנים את הדרך שבה אנו חווים מרחב. תמונות יוקרה עם טקסטורה שמביאות נשימה חדשה לכל פנים מודרני.</p>
     </div>
 
-    <div class="index-showcase-grid">
+    <div class="index-showcase-grid zappy-preserve-css-grid" data-original-item-width="577" data-original-gap="20px" style="align-items: stretch !important; --zappy-grid-cols: repeat(2, minmax(0, 1fr)); display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));" data-zappy-explicit-columns="true">
       <!-- Tile 1: Large, tall — close texture detail -->
-      <div class="index-showcase-tile tile-tall">
+      <div class="index-showcase-tile tile-tall" data-grid-item-index="0">
         <div class="index-showcase-frame">
-          <img data-placeholder="index-showcase-image-1" data-context="Extreme close-up macro photograph of a luxurious textured painting surface — thick impasto brushstrokes in warm terracotta, ivory, and deep mocha tones. The texture is sculptural and tactile, with peaks and valleys casting subtle shadows. Gallery-quality fine art, editorial lighting, no people." width="560" height="720" src="/assets/site-index-showcase-image-1.webp" alt="פרט מרקם מקרוב — יצירת אמנות טקסטורה יוקרתית">
+          <img data-placeholder="index-showcase-image-1" data-context="Extreme close-up macro photograph of a luxurious textured painting surface — thick impasto brushstrokes in warm terracotta, ivory, and deep mocha tones. The texture is sculptural and tactile, with peaks and valleys casting subtle shadows. Gallery-quality fine art, editorial lighting, no people." width="560" height="720" src="/assets/site-index-showcase-image-1.webp" alt="פרט מרקם מקרוב — יצירת אמנות טקסטורה יוקרתית" data-element-type="image" data-element-id="img-1778091528273-6sndfh7et" >
         </div>
         <div class="index-showcase-tile-caption">
           <span>פרט מרקם</span>
@@ -963,9 +963,9 @@
       </div>
 
       <!-- Tile 2: Medium, artwork in luxury living space -->
-      <div class="index-showcase-tile tile-medium">
+      <div class="index-showcase-tile tile-medium" data-grid-item-index="1">
         <div class="index-showcase-frame">
-          <img data-placeholder="index-showcase-image-2" data-context="A large textured abstract painting hanging in a sophisticated luxury living room. The room has warm neutral tones — cream walls, linen sofa, marble coffee table, soft ambient lighting. The artwork dominates the wall with rich terracotta and ivory textures. High-end interior design, editorial photography style." width="540" height="400" src="/assets/site-index-showcase-image-2.webp" alt="יצירת אמנות בסלון יוקרה מודרני">
+          <img data-placeholder="index-showcase-image-2" data-context="A large textured abstract painting hanging in a sophisticated luxury living room. The room has warm neutral tones — cream walls, linen sofa, marble coffee table, soft ambient lighting. The artwork dominates the wall with rich terracotta and ivory textures. High-end interior design, editorial photography style." width="540" height="400" src="/assets/site-index-showcase-image-2.webp" alt="יצירת אמנות בסלון יוקרה מודרני" data-element-type="image" data-element-id="img-1778091528273-1cfm9qivc" >
         </div>
         <div class="index-showcase-tile-caption">
           <span>בסביבת הבית</span>
@@ -973,9 +973,9 @@
       </div>
 
       <!-- Tile 3: Small peeking tile — studio detail -->
-      <div class="index-showcase-tile tile-peek">
-        <div class="index-showcase-frame">
-          <img data-placeholder="index-showcase-image-3" data-context="Intimate artist studio detail — a palette knife resting on a wooden surface beside small jars of pigment in earthy tones. Warm afternoon light spills across the workspace. Artistic, artisanal, behind-the-scenes feel. Shallow depth of field, warm moody tones." width="320" height="320" src="/assets/site-index-showcase-image-3.webp" alt="פרט סטודיו — כלי עבודה ופיגמנטים">
+      <div class="index-showcase-tile tile-peek" data-grid-item-index="2">
+        <div class="index-showcase-frame" style="margin-left: 0px !important; margin-right: -20px !important; width: calc(100% + 20px) !important; max-width: calc(100% + 20px) !important;" data-zappy-mobile-bleed="1">
+          <img data-placeholder="index-showcase-image-3" data-context="Intimate artist studio detail — a palette knife resting on a wooden surface beside small jars of pigment in earthy tones. Warm afternoon light spills across the workspace. Artistic, artisanal, behind-the-scenes feel. Shallow depth of field, warm moody tones." width="320" height="320" src="/assets/site-index-showcase-image-3.webp" alt="פרט סטודיו — כלי עבודה ופיגמנטים" data-element-type="image" data-element-id="img-1778091528273-zmwc8eand" >
         </div>
         <div class="index-showcase-tile-caption">
           <span>מאחורי הקלעים</span>
@@ -983,12 +983,26 @@
       </div>
 
       <!-- Tile 4: Wide, refined neutral composition -->
-      <div class="index-showcase-tile tile-wide">
+      <div class="index-showcase-tile tile-wide" data-grid-item-index="3">
         <div class="index-showcase-frame">
-          <img data-placeholder="index-showcase-image-4" data-context="A refined abstract painting with neutral tones — soft ivory, warm sand, blush, and subtle gold leaf accents. The composition is serene and balanced, with delicate layered textures and restrained elegance. Gallery exhibition lighting, white frame, minimalist presentation." width="680" height="400" src="/assets/site-index-showcase-image-4.webp" alt="קומפוזיציה ניטרלית מעודנת — אמנות מודרנית לבית יוקרתי">
+          <img data-placeholder="index-showcase-image-4" data-context="A refined abstract painting with neutral tones — soft ivory, warm sand, blush, and subtle gold leaf accents. The composition is serene and balanced, with delicate layered textures and restrained elegance. Gallery exhibition lighting, white frame, minimalist presentation." width="680" height="400" src="/assets/site-index-showcase-image-4.webp" alt="קומפוזיציה ניטרלית מעודנת — אמנות מודרנית לבית יוקרתי" data-element-type="image" data-element-id="img-1778091528273-fst3junbt" >
         </div>
         <div class="index-showcase-tile-caption">
           <span>קומפוזיציה מינימליסטית</span>
+        </div>
+      </div><div class="index-showcase-tile" style="background-color: rgba(0, 0, 0, 0) !important; grid-area: auto !important;" data-grid-item-index="4">
+        <div class="index-showcase-frame">
+          <img data-placeholder="image-placeholder" data-context="A refined abstract painting with neutral tones — soft ivory, warm sand, blush, and subtle gold leaf accents. The composition is serene and balanced, with delicate layered textures and restrained elegance. Gallery exhibition lighting, white frame, minimalist presentation." width="680" height="400" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Image placeholder" data-element-type="image" data-element-id="new-grid-img-1778091590470-0-rnecctbdc" style="cursor: pointer;" id="new-grid-img-1778091590470-0-rnecctbdc" data-ai-slot="grid-item-image" data-zappy-base64-stripped="true">
+        </div>
+        <div class="index-showcase-tile-caption" >
+          <span >טקסט כאן</span>
+        </div>
+      </div><div class="index-showcase-tile" style="background-color: rgba(0, 0, 0, 0) !important; grid-area: auto !important;" data-grid-item-index="5">
+        <div class="index-showcase-frame">
+          <img data-placeholder="image-placeholder" data-context="A refined abstract painting with neutral tones — soft ivory, warm sand, blush, and subtle gold leaf accents. The composition is serene and balanced, with delicate layered textures and restrained elegance. Gallery exhibition lighting, white frame, minimalist presentation." width="680" height="400" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Image placeholder" data-element-type="image" data-element-id="new-grid-img-1778091606233-0-sh20hufth" style="cursor: pointer;" id="new-grid-img-1778091606233-0-sh20hufth" data-ai-slot="grid-item-image" data-zappy-base64-stripped="true">
+        </div>
+        <div class="index-showcase-tile-caption" >
+          <span >טקסט כאן</span>
         </div>
       </div>
     </div>
