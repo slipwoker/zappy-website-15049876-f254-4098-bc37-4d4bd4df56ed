@@ -1,0 +1,100 @@
+# Galia Luxe Art — Generative Engine Optimization Map
+
+> A luxury art creator specializing in textured paintings and artwork aimed at modern art enthusiasts. The brand revolves around high-end, tactile visual experiences that blend sophistication with artistic expression. The work appeals to collectors and admirers of contemporary art who value quality, uniqueness, and sensory depth in visual art.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
+
+### תיק עבודות
+https://example.com/portfolio
+תיק העבודות של גליה לוקס ארט מציג אמנות טקסטורה מרהיבה לבית ולמשרד. כל יצירה היא עולם בפני עצמו — גלו את הקולקציה המלאה ומצאו את היצירה שמדברת אליכם.
+
+### אודות
+https://example.com/about
+הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
+
+### צור קשר
+https://example.com/contact
+רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Galia Luxe Art
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Galia Luxe Art
+
+### Category
+https://example.com/category/:slug
+מוצרים - Galia Luxe Art
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Galia Luxe Art
+A luxury art creator specializing in textured paintings and artwork aimed at modern art enthusiasts. The brand revolves around high-end, tactile visual experiences that blend sophistication with artistic expression. The work appeals to collectors and admirers of contemporary art who value quality, uniqueness, and sensory depth in visual art.
+
+## Target Audience
+- אוהבי אמנות מודרנית
+- בעלי בתים יוקרתיים
+- מעצבי פנים
+
+## Industry
+אמנות ויצירה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
