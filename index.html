@@ -351,7 +351,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "15049876-f254-4098-bc37-4d4bd4df56ed";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
+<script>window.ZAPPY_WEBSITE_ID = "15049876-f254-4098-bc37-4d4bd4df56ed";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -840,12 +840,12 @@
       
 
       <!-- Value Statements -->
-      <ul class="index-intro-values" ><li class="index-intro-value-item zappy-grid-item-nested-grid zappy-preserve-css-grid" data-grid-item-index="0" data-zappy-grid-align="start" data-original-gap="16px" style=" align-items: stretch !important;">
+      <ul class="index-intro-values" style=""><li class="index-intro-value-item zappy-grid-item-nested-grid zappy-preserve-css-grid" data-grid-item-index="0" data-zappy-grid-align="start" data-original-gap="16px" style=" align-items: stretch !important;">
           <div class="index-intro-value-icon" aria-hidden="true">
             
           </div>
-          <div class="index-intro-value-content" data-grid-item-index="1" >
-            <h3 class="index-intro-value-title" ><br></h3></div></li><li class="index-intro-value-item zappy-grid-item-nested-grid zappy-preserve-css-grid" data-grid-item-index="0" data-zappy-grid-align="start" data-original-gap="16px" style=" align-items: stretch !important;"><h3 class="index-intro-value-title" ><br></h3></li><li class="index-intro-value-item zappy-grid-item-nested-grid zappy-preserve-css-grid" data-grid-item-index="2" data-zappy-grid-align="start" data-original-gap="16px" style=" align-items: stretch !important;"><div class="index-intro-value-content" data-grid-item-index="1">
+          <div class="index-intro-value-content" data-grid-item-index="1" style="">
+            <h3 class="index-intro-value-title" style=""><br></h3></div></li><li class="index-intro-value-item zappy-grid-item-nested-grid zappy-preserve-css-grid" data-grid-item-index="0" data-zappy-grid-align="start" data-original-gap="16px" style=" align-items: stretch !important;"><h3 class="index-intro-value-title" style=""><br></h3></li><li class="index-intro-value-item zappy-grid-item-nested-grid zappy-preserve-css-grid" data-grid-item-index="2" data-zappy-grid-align="start" data-original-gap="16px" style=" align-items: stretch !important;"><div class="index-intro-value-content" data-grid-item-index="1">
           </div>
         </li></ul>
     </div>
@@ -855,7 +855,7 @@
       <div class="index-intro-img-wrapper">
         <!-- Backplate texture tile -->
         <div class="index-intro-backplate" aria-hidden="true">
-          <img data-placeholder="index-intro-image-2" data-context="Close-up of a matte linen canvas texture with subtle warm beige and cream tones, abstract minimal art surface, artisanal tactile quality, soft studio lighting, luxury art studio aesthetic" width="280" height="320" src="/assets/site-index-intro-image-2.webp" alt="מרקם בד לינן טבעי לאמנות" data-element-type="image" data-element-id="img-1778165116768-nct8ec7l3" >
+          <img data-placeholder="index-intro-image-2" data-context="Close-up of a matte linen canvas texture with subtle warm beige and cream tones, abstract minimal art surface, artisanal tactile quality, soft studio lighting, luxury art studio aesthetic" width="280" height="320" src="/assets/site-index-intro-image-2.webp" alt="מרקם בד לינן טבעי לאמנות" data-element-type="image" data-element-id="img-1778165116768-nct8ec7l3" style="">
         </div>
 
         <!-- Main studio image -->
@@ -958,7 +958,7 @@
 
 </section>
 
-<section class="index-cta-section" data-layout-spec="בית-cta" dir="rtl">
+<section class="index-cta-section" data-layout-spec="בית-cta" dir="rtl" id="index-cta-section">
   <!-- Botanical line-art decoration -->
   <div class="index-cta-botanical" aria-hidden="true">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 200 260" fill="none" xmlns="http://www.w3.org/2000/svg" width="180" height="240">
@@ -986,12 +986,12 @@
         <!-- Accent bar -->
         <div class="index-cta-accent-bar" aria-hidden="true"></div>
 
-        <h2 class="index-cta-heading">נצרו מרחב ביתכם<br><em>ביצירת אמנות שנולדה עבורכם</em></h2>
+        
 
         <p class="index-cta-body">כל יצירה מתחילה בשיחה. אם דמיינתם תמונת יוקרה עם טקסטורה שתשלים את הפנים שלכם — בין אם מדובר בסלון מעוצב, לובי יוקרתי או חלל עבודה ייחודי — אשמח לשמוע את החזון שלכם וליצור עבורכם אמנות מודרנית בהתאמה אישית מלאה.</p>
 
-        <a href="/contact" class="index-cta-btn">בואו נדבר על היצירה שלכם</a>
-      </div>
+        <p class="zappy-editable"><a href="/contact" class="index-cta-btn" style="color: rgb(28, 35, 51) !important;" data-element-type="button" data-element-id="btn-1778834017568-clcu0rx4w" data-native-element="true">בואו נדבר על היצירה שלכם</a>
+      </p></div>
     </div>
   </div>
 </section>
