@@ -15032,6 +15032,325 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Cormorant Garamond', sans-serif; font-wei
     grid-template-columns: 1fr;
   }
 }
+
+/* AI-generated section */
+/* =============================================
+   GLX WORKS HERO SECTION — Galia Luxe Art
+   ============================================= */
+
+.glx-works-hero {
+  background-color: var(--background-color, #EDE9DF);
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(180, 160, 125, 0.12) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 30%, rgba(197, 182, 156, 0.10) 0%, transparent 55%);
+  padding: 90px 24px 80px;
+  direction: rtl;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle texture overlay */
+.glx-works-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 39px,
+      rgba(168, 152, 128, 0.04) 39px,
+      rgba(168, 152, 128, 0.04) 40px
+    );
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ---- Container ---- */
+.glx-works-hero__container {
+  position: relative;
+  z-index: 1;
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+
+/* ---- Top decorative line ---- */
+.glx-works-hero__line-top {
+  width: 1px;
+  height: 48px;
+  background: linear-gradient(to bottom, transparent, var(--accent-color, #BBA98A));
+  margin-bottom: 24px;
+  opacity: 0.7;
+}
+
+/* ---- Eyebrow label ---- */
+.glx-works-hero__eyebrow {
+  display: inline-block;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--secondary-color, #A89880);
+  background-color: rgba(187, 169, 138, 0.12);
+  border: 1px solid rgba(187, 169, 138, 0.35);
+  border-radius: 30px;
+  padding: 6px 20px;
+  margin-bottom: 28px;
+}
+
+/* ---- Main Title ---- */
+.glx-works-hero__title {
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: clamp(2.6rem, 6vw, 4.2rem);
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  color: var(--primary-color, #1C2333);
+  line-height: 1.15;
+  margin: 0 0 28px 0;
+  padding: 0;
+}
+
+/* Gradient accent on title */
+.glx-works-hero__title::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 0;
+}
+
+/* ---- Elegant Divider ---- */
+.glx-works-hero__divider {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  max-width: 320px;
+  margin-bottom: 26px;
+}
+
+.glx-works-hero__divider-line {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent-color, #BBA98A), transparent);
+  opacity: 0.7;
+}
+
+.glx-works-hero__divider-diamond {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+  transform: rotate(45deg);
+  flex-shrink: 0;
+  border-radius: 1px;
+}
+
+/* ---- Subtitle ---- */
+.glx-works-hero__subtitle {
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: clamp(1.15rem, 2.8vw, 1.55rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--secondary-color, #A89880);
+  letter-spacing: 0.02em;
+  margin: 0 0 32px 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+/* ---- Description ---- */
+.glx-works-hero__description {
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: clamp(0.95rem, 1.8vw, 1.08rem);
+  font-weight: 400;
+  color: var(--text-secondary-color, #606773);
+  line-height: 1.9;
+  max-width: 600px;
+  margin: 0 0 40px 0;
+  padding: 0 8px;
+  letter-spacing: 0.01em;
+}
+
+/* ---- Accent Dots ---- */
+.glx-works-hero__accent-dots {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.glx-works-hero__dot {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: var(--accent-color, #BBA98A);
+  opacity: 0.45;
+}
+
+.glx-works-hero__dot--mid {
+  width: 8px;
+  height: 8px;
+  opacity: 0.75;
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+}
+
+/* =============================================
+   ANIMATIONS — subtle fade-in on load
+   ============================================= */
+
+@keyframes glx-fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(22px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.glx-works-hero__line-top {
+  animation: glx-fadeInUp 0.6s ease both;
+  animation-delay: 0.05s;
+}
+
+.glx-works-hero__eyebrow {
+  animation: glx-fadeInUp 0.6s ease both;
+  animation-delay: 0.15s;
+}
+
+.glx-works-hero__title {
+  animation: glx-fadeInUp 0.7s ease both;
+  animation-delay: 0.28s;
+}
+
+.glx-works-hero__divider {
+  animation: glx-fadeInUp 0.6s ease both;
+  animation-delay: 0.40s;
+}
+
+.glx-works-hero__subtitle {
+  animation: glx-fadeInUp 0.6s ease both;
+  animation-delay: 0.52s;
+}
+
+.glx-works-hero__description {
+  animation: glx-fadeInUp 0.6s ease both;
+  animation-delay: 0.64s;
+}
+
+.glx-works-hero__accent-dots {
+  animation: glx-fadeInUp 0.5s ease both;
+  animation-delay: 0.75s;
+}
+
+/* =============================================
+   RESPONSIVE — Tablet
+   ============================================= */
+
+@media (max-width: 768px) {
+  .glx-works-hero {
+    padding: 70px 20px 64px;
+  }
+
+  .glx-works-hero__line-top {
+    height: 36px;
+    margin-bottom: 20px;
+  }
+
+  .glx-works-hero__title {
+    font-size: clamp(2.2rem, 8vw, 3rem);
+    margin-bottom: 22px;
+  }
+
+  .glx-works-hero__subtitle {
+    font-size: 1.1rem;
+    margin-bottom: 26px;
+  }
+
+  .glx-works-hero__description {
+    font-size: 0.97rem;
+    line-height: 1.85;
+    padding: 0 4px;
+    margin-bottom: 32px;
+  }
+
+  .glx-works-hero__divider {
+    max-width: 260px;
+  }
+}
+
+/* =============================================
+   RESPONSIVE — Mobile
+   ============================================= */
+
+@media (max-width: 480px) {
+  .glx-works-hero {
+    padding: 56px 16px 52px;
+  }
+
+  .glx-works-hero__eyebrow {
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    padding: 5px 16px;
+    margin-bottom: 22px;
+  }
+
+  .glx-works-hero__title {
+    font-size: 2rem;
+    font-weight: 300;
+    margin-bottom: 20px;
+    letter-spacing: 0.02em;
+  }
+
+  .glx-works-hero__subtitle {
+    font-size: 1.02rem;
+    margin-bottom: 22px;
+  }
+
+  .glx-works-hero__description {
+    font-size: 0.93rem;
+    line-height: 1.8;
+    padding: 0;
+    margin-bottom: 28px;
+  }
+
+  .glx-works-hero__divider {
+    max-width: 200px;
+    gap: 10px;
+  }
+
+  .glx-works-hero__line-top {
+    height: 30px;
+    margin-bottom: 16px;
+  }
+}
+
+/* =============================================
+   ACCESSIBILITY — Reduced motion
+   ============================================= */
+
+@media (prefers-reduced-motion: reduce) {
+  .glx-works-hero__line-top,
+  .glx-works-hero__eyebrow,
+  .glx-works-hero__title,
+  .glx-works-hero__divider,
+  .glx-works-hero__subtitle,
+  .glx-works-hero__description,
+  .glx-works-hero__accent-dots {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
