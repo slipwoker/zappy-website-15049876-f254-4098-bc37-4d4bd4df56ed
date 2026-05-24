@@ -15351,6 +15351,332 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Cormorant Garamond', sans-serif; font-wei
     transform: none;
   }
 }
+
+/* AI-generated section */
+/* =============================================
+   HERO SECTION — Galia Luxe Art
+   ============================================= */
+
+/* Google Font Import for Cormorant Garamond */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap');
+
+/* ---- Root Section ---- */
+.glx-hero {
+  position: relative;
+  min-height: 90vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  direction: rtl;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  overflow: hidden;
+}
+
+/* ---- Background Image Wrapper ---- */
+.glx-hero__bg-wrapper {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.glx-hero__bg-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
+}
+
+/* ---- Dark Overlay ---- */
+.glx-hero__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    160deg,
+    rgba(14, 18, 28, 0.82) 0%,
+    rgba(28, 35, 51, 0.75) 50%,
+    rgba(14, 18, 28, 0.88) 100%
+  );
+}
+
+/* ---- Content Container ---- */
+.glx-hero__content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  direction: rtl;
+  max-width: 860px;
+  width: 90%;
+  padding: 60px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+
+/* ---- Gold Label ---- */
+.glx-hero__label {
+  display: inline-block;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--accent-color, #BBA98A);
+  border-top: 1px solid rgba(187, 169, 138, 0.5);
+  border-bottom: 1px solid rgba(187, 169, 138, 0.5);
+  padding: 7px 20px;
+  margin-bottom: 32px;
+  opacity: 0;
+  animation: glx-fadeSlideDown 0.9s ease 0.2s forwards;
+}
+
+/* ---- Main Headline ---- */
+.glx-hero__headline {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: clamp(3rem, 7vw, 5.8rem);
+  font-weight: 400;
+  line-height: 1.15;
+  color: #F5F0E8;
+  margin: 0 0 28px 0;
+  letter-spacing: 0.01em;
+  text-shadow: 0 2px 30px rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  animation: glx-fadeSlideDown 1s ease 0.45s forwards;
+}
+
+/* ---- Subtitle ---- */
+.glx-hero__subtitle {
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: clamp(1rem, 2.2vw, 1.2rem);
+  font-weight: 300;
+  line-height: 1.85;
+  color: rgba(237, 233, 223, 0.85);
+  margin: 0 0 48px 0;
+  max-width: 620px;
+  text-align: center;
+  opacity: 0;
+  animation: glx-fadeSlideDown 1s ease 0.7s forwards;
+}
+
+/* ---- CTA Group ---- */
+.glx-hero__cta-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  opacity: 0;
+  animation: glx-fadeSlideDown 1s ease 0.95s forwards;
+}
+
+/* ---- Base Button ---- */
+.glx-hero__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 15px 36px;
+  transition: background 0.3s ease, color 0.3s ease, border-color 0.3s ease, transform 0.25s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+/* ---- Primary Button ---- */
+.glx-hero__btn--primary {
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+  color: #1C2333;
+  border: 2px solid transparent;
+  box-shadow: 0 4px 20px rgba(180, 160, 125, 0.35);
+}
+
+.glx-hero__btn--primary:hover,
+.glx-hero__btn--primary:focus-visible {
+  background: linear-gradient(135deg, #C5B69C 0%, #D4C8B0 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(180, 160, 125, 0.5);
+  outline: none;
+}
+
+.glx-hero__btn--primary:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 12px rgba(180, 160, 125, 0.3);
+}
+
+/* ---- Outline Button ---- */
+.glx-hero__btn--outline {
+  background: transparent;
+  color: #F5F0E8;
+  border: 2px solid rgba(187, 169, 138, 0.65);
+}
+
+.glx-hero__btn--outline:hover,
+.glx-hero__btn--outline:focus-visible {
+  background: rgba(187, 169, 138, 0.12);
+  border-color: rgba(187, 169, 138, 1);
+  color: #F5F0E8;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25);
+  outline: none;
+}
+
+.glx-hero__btn--outline:active {
+  transform: translateY(0);
+}
+
+/* ---- Scroll Indicator ---- */
+.glx-hero__scroll-indicator {
+  position: absolute;
+  bottom: 36px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  opacity: 0;
+  animation: glx-fadeIn 1s ease 1.6s forwards;
+}
+
+.glx-hero__scroll-line {
+  display: block;
+  width: 1px;
+  height: 52px;
+  background: linear-gradient(to bottom, rgba(187, 169, 138, 0.8), rgba(187, 169, 138, 0));
+  animation: glx-scrollPulse 2.2s ease-in-out 2s infinite;
+}
+
+/* ---- Keyframe Animations ---- */
+@keyframes glx-fadeSlideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes glx-fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes glx-scrollPulse {
+  0%   { transform: scaleY(1); opacity: 1; }
+  50%  { transform: scaleY(0.6); opacity: 0.4; }
+  100% { transform: scaleY(1); opacity: 1; }
+}
+
+/* =============================================
+   RESPONSIVE — Tablet
+   ============================================= */
+@media (max-width: 900px) {
+  .glx-hero__headline {
+    font-size: clamp(2.6rem, 8vw, 4.2rem);
+  }
+
+  .glx-hero__subtitle {
+    font-size: 1rem;
+    max-width: 520px;
+  }
+
+  .glx-hero__content {
+    padding: 50px 24px;
+  }
+}
+
+/* =============================================
+   RESPONSIVE — Mobile
+   ============================================= */
+@media (max-width: 600px) {
+  .glx-hero {
+    min-height: 92vh;
+  }
+
+  .glx-hero__content {
+    padding: 40px 20px;
+    width: 94%;
+  }
+
+  .glx-hero__label {
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    padding: 6px 14px;
+    margin-bottom: 24px;
+  }
+
+  .glx-hero__headline {
+    font-size: clamp(2.2rem, 10vw, 3.2rem);
+    margin-bottom: 20px;
+  }
+
+  .glx-hero__headline br {
+    display: none;
+  }
+
+  .glx-hero__subtitle {
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin-bottom: 36px;
+  }
+
+  .glx-hero__subtitle br {
+    display: none;
+  }
+
+  .glx-hero__cta-group {
+    flex-direction: column;
+    gap: 14px;
+    width: 100%;
+  }
+
+  .glx-hero__btn {
+    width: 100%;
+    max-width: 300px;
+    padding: 15px 28px;
+    font-size: 0.92rem;
+  }
+
+  .glx-hero__scroll-indicator {
+    bottom: 24px;
+  }
+
+  .glx-hero__scroll-line {
+    height: 38px;
+  }
+}
+
+/* =============================================
+   REDUCED MOTION — Accessibility
+   ============================================= */
+@media (prefers-reduced-motion: reduce) {
+  .glx-hero__label,
+  .glx-hero__headline,
+  .glx-hero__subtitle,
+  .glx-hero__cta-group,
+  .glx-hero__scroll-indicator {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+
+  .glx-hero__scroll-line {
+    animation: none;
+  }
+
+  .glx-hero__btn {
+    transition: none;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
