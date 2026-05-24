@@ -14747,6 +14747,291 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Cormorant Garamond', sans-serif; font-wei
   }
 }
 
+
+/* AI-generated section */
+/* =============================================
+   GLX GALLERY SECTION — Galia Luxe Art
+   ============================================= */
+
+.glx-gallery {
+  background-color: var(--background-color, #EDE9DF);
+  padding: 100px 24px 110px;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  direction: rtl;
+  text-align: right;
+}
+
+/* Container */
+.glx-gallery__container {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+/* ---- Header ---- */
+.glx-gallery__header {
+  text-align: center;
+  margin-bottom: 64px;
+}
+
+.glx-gallery__subtitle {
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--secondary-color, #A89880);
+  margin: 0 0 14px;
+}
+
+.glx-gallery__title {
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  color: var(--primary-color, #1C2333);
+  margin: 0 0 24px;
+  line-height: 1.2;
+}
+
+.glx-gallery__divider {
+  width: 48px;
+  height: 1px;
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+  margin: 0 auto;
+}
+
+/* ---- Grid ---- */
+.glx-gallery__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ---- Gallery Item ---- */
+.glx-gallery__item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  background-color: var(--surface-color, #F5F2EC);
+}
+
+/* Aspect ratio wrapper — square 1:1 */
+.glx-gallery__img-wrap {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%; /* 1:1 square ratio */
+  overflow: hidden;
+  display: block;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+/* Image */
+.glx-gallery__img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.55s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  will-change: transform;
+}
+
+/* Overlay */
+.glx-gallery__overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(28, 35, 51, 0.48);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  border-radius: 4px;
+}
+
+/* Eye icon */
+.glx-gallery__eye-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border: 1.5px solid rgba(255, 255, 255, 0.85);
+  border-radius: 50%;
+  color: #ffffff;
+  transform: scale(0.82) translateY(6px);
+  transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.3s ease;
+  opacity: 0;
+}
+
+.glx-gallery__eye-icon svg {
+  width: 22px;
+  height: 22px;
+  stroke: #ffffff;
+}
+
+/* ---- Hover States ---- */
+.glx-gallery__item:hover .glx-gallery__img {
+  transform: scale(1.07);
+}
+
+.glx-gallery__item:hover .glx-gallery__overlay {
+  opacity: 1;
+}
+
+.glx-gallery__item:hover .glx-gallery__eye-icon {
+  transform: scale(1) translateY(0);
+  opacity: 1;
+}
+
+/* Focus visible for keyboard nav */
+.glx-gallery__img-wrap:focus-visible {
+  outline: 2px solid var(--accent-color, #BBA98A);
+  outline-offset: 3px;
+}
+
+/* ---- CTA ---- */
+.glx-gallery__cta {
+  text-align: center;
+  margin-top: 56px;
+}
+
+.glx-gallery__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-primary, 'Inter', sans-serif);
+  font-size: 0.82rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--primary-color, #1C2333);
+  text-decoration: none;
+  padding: 14px 36px;
+  border: 1px solid var(--accent-color, #BBA98A);
+  border-radius: 2px;
+  background: transparent;
+  transition:
+    background-color 0.28s ease,
+    color 0.28s ease,
+    box-shadow 0.28s ease,
+    transform 0.22s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.glx-gallery__btn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+  opacity: 0;
+  transition: opacity 0.28s ease;
+  z-index: 0;
+}
+
+.glx-gallery__btn span,
+.glx-gallery__btn-arrow {
+  position: relative;
+  z-index: 1;
+}
+
+.glx-gallery__btn:hover {
+  color: #ffffff;
+  box-shadow: 0 6px 24px rgba(180, 160, 125, 0.32);
+  transform: translateY(-2px);
+}
+
+.glx-gallery__btn:hover::before {
+  opacity: 1;
+}
+
+.glx-gallery__btn:focus-visible {
+  outline: 2px solid var(--accent-color, #BBA98A);
+  outline-offset: 4px;
+}
+
+.glx-gallery__btn-arrow {
+  font-size: 1rem;
+  line-height: 1;
+  transition: transform 0.25s ease;
+}
+
+.glx-gallery__btn:hover .glx-gallery__btn-arrow {
+  transform: translateX(-4px);
+}
+
+/* =============================================
+   RESPONSIVE
+   ============================================= */
+
+/* Tablet — 2 columns */
+@media (max-width: 900px) {
+  .glx-gallery {
+    padding: 80px 20px 90px;
+  }
+
+  .glx-gallery__grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 16px;
+  }
+
+  .glx-gallery__header {
+    margin-bottom: 48px;
+  }
+}
+
+/* Mobile — 1 column */
+@media (max-width: 560px) {
+  .glx-gallery {
+    padding: 64px 16px 72px;
+  }
+
+  .glx-gallery__grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .glx-gallery__title {
+    font-size: 1.75rem;
+  }
+
+  .glx-gallery__header {
+    margin-bottom: 36px;
+  }
+
+  .glx-gallery__cta {
+    margin-top: 40px;
+  }
+
+  .glx-gallery__btn {
+    padding: 13px 28px;
+    font-size: 0.76rem;
+  }
+
+  .glx-gallery__eye-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .glx-gallery__eye-icon svg {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+@media (max-width: 380px) {
+  .glx-gallery__grid {
+    grid-template-columns: 1fr;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
