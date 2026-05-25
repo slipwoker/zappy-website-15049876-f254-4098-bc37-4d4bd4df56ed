@@ -14,10 +14,6 @@ https://galia-luxe-art.com
 https://galia-luxe-art.com/products
 המוצרים שלנו - Galia Luxe Art
 
-### העבודות שלנו
-https://galia-luxe-art.com/our-work
-תיק העבודות של גליה לוקס ארט מציג אמנות טקסטורה מרהיבה לבית ולמשרד. כל יצירה היא עולם בפני עצמו — גלו את הקולקציה המלאה ומצאו את היצירה שמדברת אליכם.
-
 ### אודות
 https://galia-luxe-art.com/about
 הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
@@ -61,10 +57,6 @@ https://galia-luxe-art.com/en/
 ### Products (EN)
 https://galia-luxe-art.com/en/products
 המוצרים שלנו - Galia Luxe Art
-
-### העבודות שלנו (EN)
-https://galia-luxe-art.com/en/our-work
-תיק העבודות של גליה לוקס ארט מציג אמנות טקסטורה מרהיבה לבית ולמשרד. כל יצירה היא עולם בפני עצמו — גלו את הקולקציה המלאה ומצאו את היצירה שמדברת אליכם.
 
 ### אודות (EN)
 https://galia-luxe-art.com/en/about
