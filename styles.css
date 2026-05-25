@@ -15677,6 +15677,464 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Cormorant Garamond', sans-serif; font-wei
     transition: none;
   }
 }
+
+/* AI-generated section */
+/* ============================================
+   CONTACT SECTION — Galia Luxe Art
+   ============================================ */
+
+.contact-galia {
+  position: relative;
+  background-color: #EDE9DF;
+  background-image:
+    radial-gradient(ellipse at 10% 20%, rgba(180, 160, 125, 0.12) 0%, transparent 60%),
+    radial-gradient(ellipse at 90% 80%, rgba(197, 182, 156, 0.10) 0%, transparent 55%);
+  padding: 90px 24px 100px;
+  font-family: 'Inter', sans-serif;
+  direction: rtl;
+  overflow: hidden;
+}
+
+/* Decorative blobs */
+.contact-galia__deco {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+.contact-galia__deco--1 {
+  width: 420px;
+  height: 420px;
+  background: radial-gradient(circle, rgba(180,160,125,0.10) 0%, transparent 70%);
+  top: -100px;
+  left: -120px;
+}
+.contact-galia__deco--2 {
+  width: 320px;
+  height: 320px;
+  background: radial-gradient(circle, rgba(168,152,128,0.09) 0%, transparent 70%);
+  bottom: -80px;
+  right: -80px;
+}
+
+/* Container */
+.contact-galia__container {
+  position: relative;
+  z-index: 1;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/* ---- Header ---- */
+.contact-galia__header {
+  text-align: center;
+  margin-bottom: 56px;
+}
+
+.contact-galia__title {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  color: var(--primary-color, #1C2333);
+  margin: 0 0 14px;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+}
+
+.contact-galia__title::after {
+  content: '';
+  display: block;
+  width: 56px;
+  height: 3px;
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+  border-radius: 2px;
+  margin: 14px auto 0;
+}
+
+.contact-galia__subtitle {
+  font-size: 1.05rem;
+  color: var(--text-secondary-color, #606773);
+  max-width: 520px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+/* ---- Main Grid ---- */
+.contact-galia__grid {
+  display: grid;
+  grid-template-columns: 1fr 1.55fr;
+  gap: 28px;
+  align-items: start;
+}
+
+/* ---- Social Column ---- */
+.contact-galia__social-col {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ---- Cards ---- */
+.contact-galia__card {
+  background: var(--surface-color, #F5F2EC);
+  border: 1px solid rgba(28, 35, 51, 0.10);
+  border-radius: 18px;
+  padding: 28px 26px 26px;
+  box-shadow: 0 2px 16px rgba(28, 35, 51, 0.07);
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.contact-galia__card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(28, 35, 51, 0.12);
+}
+
+/* Icon wrap */
+.contact-galia__card-icon-wrap {
+  width: 52px;
+  height: 52px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+  flex-shrink: 0;
+}
+
+.contact-galia__card-icon-wrap--wa {
+  background: rgba(37, 211, 102, 0.12);
+}
+
+.contact-galia__card-icon-wrap--ig {
+  background: rgba(193, 53, 132, 0.10);
+}
+
+.contact-galia__card-icon {
+  width: 26px;
+  height: 26px;
+  fill: currentColor;
+}
+
+.contact-galia__card-icon-wrap--wa .contact-galia__card-icon {
+  color: #25D366;
+}
+
+.contact-galia__card-icon-wrap--ig .contact-galia__card-icon {
+  color: #C13584;
+}
+
+/* Card body */
+.contact-galia__card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.contact-galia__card-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--primary-color, #1C2333);
+  margin: 0 0 8px;
+  line-height: 1.3;
+}
+
+.contact-galia__card-text {
+  font-size: 0.9rem;
+  color: var(--text-secondary-color, #606773);
+  line-height: 1.65;
+  margin: 0 0 20px;
+}
+
+/* Buttons */
+.contact-galia__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+  padding: 12px 22px;
+  border-radius: 10px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+  cursor: pointer;
+  border: none;
+  letter-spacing: 0.01em;
+  align-self: flex-start;
+}
+
+.contact-galia__btn:focus-visible {
+  outline: 3px solid var(--accent-color, #BBA98A);
+  outline-offset: 3px;
+}
+
+.contact-galia__btn--whatsapp {
+  background-color: #25D366;
+  color: #ffffff;
+  box-shadow: 0 3px 12px rgba(37, 211, 102, 0.30);
+}
+
+.contact-galia__btn--whatsapp:hover {
+  filter: brightness(1.08);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.40);
+}
+
+.contact-galia__btn--instagram {
+  background: linear-gradient(135deg, #833ab4 0%, #c13584 40%, #fd1d1d 75%, #fcb045 100%);
+  color: #ffffff;
+  box-shadow: 0 3px 12px rgba(193, 53, 132, 0.28);
+}
+
+.contact-galia__btn--instagram:hover {
+  filter: brightness(1.08);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(193, 53, 132, 0.38);
+}
+
+.contact-galia__btn-icon {
+  width: 17px;
+  height: 17px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+/* ---- Form Column ---- */
+.contact-galia__form-col {
+  position: relative;
+}
+
+.contact-galia__form-card {
+  background: var(--surface-color, #F5F2EC);
+  border: 1px solid rgba(28, 35, 51, 0.10);
+  border-radius: 18px;
+  padding: 36px 34px 34px;
+  box-shadow: 0 2px 20px rgba(28, 35, 51, 0.08);
+}
+
+.contact-galia__form-title {
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--primary-color, #1C2333);
+  margin: 0 0 6px;
+  line-height: 1.3;
+}
+
+.contact-galia__form-subtitle {
+  font-size: 0.9rem;
+  color: var(--text-secondary-color, #606773);
+  margin: 0 0 28px;
+}
+
+/* Form layout */
+.contact-galia__form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.contact-galia__field-group--row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.contact-galia__field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.contact-galia__label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--primary-color, #1C2333);
+  letter-spacing: 0.01em;
+}
+
+.contact-galia__required {
+  color: #C0392B;
+  margin-right: 2px;
+}
+
+.contact-galia__input {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.92rem;
+  color: var(--text-color, #1C2333);
+  background: #FFFFFF;
+  border: 1.5px solid rgba(28, 35, 51, 0.15);
+  border-radius: 10px;
+  padding: 12px 14px;
+  width: 100%;
+  box-sizing: border-box;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  outline: none;
+  direction: rtl;
+}
+
+.contact-galia__input::placeholder {
+  color: #B0B5BE;
+  font-size: 0.88rem;
+}
+
+.contact-galia__input:focus {
+  border-color: var(--accent-color, #BBA98A);
+  box-shadow: 0 0 0 3px rgba(187, 169, 138, 0.18);
+}
+
+.contact-galia__input:hover:not(:focus) {
+  border-color: rgba(28, 35, 51, 0.28);
+}
+
+.contact-galia__textarea {
+  resize: vertical;
+  min-height: 120px;
+  line-height: 1.6;
+}
+
+/* Submit button */
+.contact-galia__submit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 28px;
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+  color: #ffffff;
+  border: none;
+  border-radius: 11px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.97rem;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+  box-shadow: 0 3px 14px rgba(180, 160, 125, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+  margin-top: 4px;
+  width: 100%;
+}
+
+.contact-galia__submit:hover {
+  filter: brightness(1.06);
+  transform: translateY(-2px);
+  box-shadow: 0 7px 22px rgba(180, 160, 125, 0.45);
+}
+
+.contact-galia__submit:focus-visible {
+  outline: 3px solid var(--primary-color, #1C2333);
+  outline-offset: 3px;
+}
+
+.contact-galia__submit:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(180, 160, 125, 0.30);
+}
+
+.contact-galia__submit-icon {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+/* Success message */
+.contact-galia__success {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(37, 190, 100, 0.10);
+  border: 1px solid rgba(37, 190, 100, 0.30);
+  border-radius: 10px;
+  padding: 14px 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #1a7a40;
+  margin-top: 4px;
+}
+
+.contact-galia__success[hidden] {
+  display: none;
+}
+
+.contact-galia__success svg {
+  width: 20px;
+  height: 20px;
+  fill: #1a7a40;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   RESPONSIVE — Tablet
+   ============================================ */
+@media (max-width: 900px) {
+  .contact-galia__grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+  }
+
+  .contact-galia__form-card {
+    padding: 28px 24px 26px;
+  }
+
+  .contact-galia__field-group--row {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+}
+
+/* ============================================
+   RESPONSIVE — Mobile
+   ============================================ */
+@media (max-width: 680px) {
+  .contact-galia {
+    padding: 64px 16px 72px;
+  }
+
+  .contact-galia__header {
+    margin-bottom: 40px;
+  }
+
+  .contact-galia__grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  /* On mobile: form comes first, then social cards */
+  .contact-galia__form-col {
+    order: -1;
+  }
+
+  .contact-galia__social-col {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .contact-galia__card {
+    padding: 22px 20px 20px;
+  }
+
+  .contact-galia__form-card {
+    padding: 24px 18px 22px;
+  }
+
+  .contact-galia__btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .contact-galia__field-group--row {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 400px) {
+  .contact-galia__title {
+    font-size: 1.75rem;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
