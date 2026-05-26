@@ -842,6 +842,182 @@
             </div>
           </div>
         </section>
+
+<section class="upload-product-section" dir="rtl" aria-labelledby="upload-product-title">
+  <div class="upload-product-container">
+
+    <!-- Section Header -->
+    <header class="upload-product-header">
+      <div class="upload-product-icon" aria-hidden="true">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 2L12 14M12 2L8 6M12 2L16 6" stroke="#BBA98A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+          <path d="M3 17V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V17" stroke="#BBA98A" stroke-width="2" stroke-linecap="round"></path>
+        </svg>
+      </div>
+      <h1 class="upload-product-title" id="upload-product-title">העלאת מוצר חדש</h1>
+      <p class="upload-product-subtitle">מלא את הפרטים להוספת יצירה חדשה לגלריה</p>
+      <div class="upload-product-divider" aria-hidden="true"></div>
+    </header>
+
+    <!-- Product Upload Form -->
+    <form class="upload-product-form" novalidate="" aria-label="טופס הוספת מוצר">
+
+      <!-- Two Column Row: Name + Price -->
+      <div class="upload-form-row upload-form-row--two">
+
+        <!-- Product Name -->
+        <div class="upload-form-group">
+          <label class="upload-form-label" for="product-name">
+            <span class="upload-label-icon" aria-hidden="true">✦</span>
+            שם המוצר
+          </label>
+          <input type="text" id="product-name" name="product-name" class="upload-form-input" placeholder="למשל: אבסטרקט בכחול וזהב" autocomplete="off" required="" aria-required="true">
+        </div>
+
+        <!-- Price -->
+        <div class="upload-form-group">
+          <label class="upload-form-label" for="product-price">
+            <span class="upload-label-icon" aria-hidden="true">✦</span>
+            מחיר
+          </label>
+          <div class="upload-price-wrapper">
+            <span class="upload-price-symbol" aria-hidden="true">₪</span>
+            <input type="number" id="product-price" name="product-price" class="upload-form-input upload-form-input--price" placeholder="0.00" min="0" step="0.01" required="" aria-required="true" aria-label="מחיר המוצר בשקלים">
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Two Column Row: Category + Dimensions -->
+      <div class="upload-form-row upload-form-row--two">
+
+        <!-- Category -->
+        <div class="upload-form-group">
+          <label class="upload-form-label" for="product-category">
+            <span class="upload-label-icon" aria-hidden="true">✦</span>
+            קטגוריה
+          </label>
+          <div class="upload-select-wrapper">
+            <select id="product-category" name="product-category" class="upload-form-select" required="" aria-required="true">
+              <option value="" disabled="" selected="">בחר קטגוריה...</option>
+              <option value="painting">ציור שמן</option>
+              <option value="acrylic">ציור אקריליק</option>
+              <option value="watercolor">צבעי מים</option>
+              <option value="digital">אמנות דיגיטלית</option>
+              <option value="photography">צילום אמנותי</option>
+              <option value="sculpture">פיסול</option>
+              <option value="mixed">טכניקה מעורבת</option>
+              <option value="print">הדפס</option>
+            </select>
+            <span class="upload-select-arrow" aria-hidden="true">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                <path d="M6 9L12 15L18 9" stroke="#BBA98A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+              </svg>
+            </span>
+          </div>
+        </div>
+
+        <!-- Dimensions -->
+        <div class="upload-form-group">
+          <label class="upload-form-label" for="product-dimensions">
+            <span class="upload-label-icon" aria-hidden="true">✦</span>
+            מידות היצירה
+          </label>
+          <input type="text" id="product-dimensions" name="product-dimensions" class="upload-form-input" placeholder="למשל: 60×80 ס״מ" autocomplete="off" aria-label="מידות היצירה, לדוגמה 60 על 80 סנטימטר">
+        </div>
+
+      </div>
+
+      <!-- Short Description -->
+      <div class="upload-form-row">
+        <div class="upload-form-group upload-form-group--full">
+          <label class="upload-form-label" for="product-description">
+            <span class="upload-label-icon" aria-hidden="true">✦</span>
+            תיאור קצר
+          </label>
+          <textarea id="product-description" name="product-description" class="upload-form-textarea" placeholder="תאר את היצירה — טכניקה, השראה, מסר אמנותי..." rows="4" aria-label="תיאור קצר של המוצר"></textarea>
+          <span class="upload-char-counter" aria-live="polite" id="desc-counter">0 / 300 תווים</span>
+        </div>
+      </div>
+
+      <!-- Image Upload Area -->
+      <div class="upload-form-row">
+        <div class="upload-form-group upload-form-group--full">
+          <label class="upload-form-label" for="product-image">
+            <span class="upload-label-icon" aria-hidden="true">✦</span>
+            תמונת המוצר
+          </label>
+          <div class="upload-dropzone" id="upload-dropzone" role="button" tabindex="0" aria-label="לחץ או גרור תמונה להעלאה" aria-describedby="upload-dropzone-hint">
+            <input type="file" id="product-image" name="product-image" class="upload-file-input" accept="image/jpeg,image/png,image/webp,image/gif" aria-label="בחר קובץ תמונה">
+            <div class="upload-dropzone-content" id="dropzone-default-content">
+              <div class="upload-dropzone-icon" aria-hidden="true">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="3" y="3" width="18" height="18" rx="3" stroke="#BBA98A" stroke-width="1.5"></rect>
+                  <circle cx="8.5" cy="8.5" r="1.5" stroke="#BBA98A" stroke-width="1.5"></circle>
+                  <path d="M3 14L7 10L10 13L14 9L21 16" stroke="#BBA98A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+              </div>
+              <p class="upload-dropzone-title">גרור תמונה לכאן</p>
+              <p class="upload-dropzone-subtitle" id="upload-dropzone-hint">או לחץ לבחירת קובץ</p>
+              <span class="upload-dropzone-formats">JPG, PNG, WEBP — עד 10MB</span>
+            </div>
+            <div class="upload-dropzone-preview" id="dropzone-preview" aria-live="polite" hidden="">
+              <img id="preview-image" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="תצוגה מקדימה של תמונת המוצר" class="upload-preview-img" data-placeholder="product-upload-preview" data-context="Luxury art gallery product image - abstract painting or fine art piece">
+              <button type="button" class="upload-preview-remove" id="remove-preview" aria-label="הסר תמונה">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                  <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+                </svg>
+                הסר תמונה
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Availability Toggle -->
+      <div class="upload-form-row">
+        <div class="upload-form-group upload-form-group--full">
+          <div class="upload-availability-card">
+            <div class="upload-availability-info">
+              <span class="upload-availability-label">זמינות המוצר</span>
+              <span class="upload-availability-desc" id="availability-status-text">המוצר זמין לרכישה</span>
+            </div>
+            <label class="upload-toggle" for="product-availability" aria-label="מצב זמינות המוצר">
+              <input type="checkbox" id="product-availability" name="product-availability" class="upload-toggle-input" checked="" aria-describedby="availability-status-text">
+              <span class="upload-toggle-track" aria-hidden="true">
+                <span class="upload-toggle-thumb"></span>
+              </span>
+              <span class="upload-toggle-labels" aria-hidden="true">
+                <span class="upload-toggle-label-on">במלאי</span>
+                <span class="upload-toggle-label-off">אזל</span>
+              </span>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <!-- Form Actions -->
+      <div class="upload-form-actions">
+        <button type="reset" class="upload-btn-reset" aria-label="נקה את כל שדות הטופס">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M3 3v5h5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+          </svg>
+          נקה טופס
+        </button>
+        <button type="submit" class="upload-btn-submit" aria-label="שמור והוסף מוצר חדש לגלריה">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"></path>
+          </svg>
+          הוסף מוצר
+        </button>
+      </div>
+
+    </form>
+  </div>
+</section>
+
+
       
   </main>
   

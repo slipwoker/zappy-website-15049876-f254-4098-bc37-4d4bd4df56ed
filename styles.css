@@ -16562,6 +16562,747 @@ header.glx-gallery__header .glx-gallery__subtitle {
 header.glx-gallery__header .glx-gallery__title {
   color: var(--background-color) !important;
 }
+
+/* AI-generated section */
+/* ============================================
+   UPLOAD PRODUCT SECTION — Galia Luxe Art
+   ============================================ */
+
+.upload-product-section {
+  background: var(--primary-color, #1C2333);
+  padding: 80px 20px;
+  font-family: 'Inter', sans-serif;
+  direction: rtl;
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle background texture */
+.upload-product-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 60% 50% at 20% 20%, rgba(187, 169, 138, 0.06) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 40% at 80% 80%, rgba(187, 169, 138, 0.04) 0%, transparent 60%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.upload-product-container {
+  max-width: 860px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* ============================================
+   HEADER
+   ============================================ */
+
+.upload-product-header {
+  text-align: center;
+  margin-bottom: 52px;
+}
+
+.upload-product-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background: rgba(187, 169, 138, 0.12);
+  border: 1px solid rgba(187, 169, 138, 0.3);
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.upload-product-icon:hover {
+  background: rgba(187, 169, 138, 0.2);
+  transform: scale(1.05);
+}
+
+.upload-product-title {
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
+  font-weight: 700;
+  color: #F5F2EC;
+  margin: 0 0 12px 0;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+}
+
+.upload-product-subtitle {
+  font-size: 1rem;
+  color: rgba(245, 242, 236, 0.6);
+  margin: 0 0 28px 0;
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+.upload-product-divider {
+  width: 60px;
+  height: 2px;
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+  margin: 0 auto;
+  border-radius: 2px;
+}
+
+/* ============================================
+   FORM CONTAINER
+   ============================================ */
+
+.upload-product-form {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(187, 169, 138, 0.18);
+  border-radius: 20px;
+  padding: 44px 48px;
+  backdrop-filter: blur(10px);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.3),
+    0 1px 0 rgba(187, 169, 138, 0.1) inset;
+}
+
+/* ============================================
+   FORM ROWS & GROUPS
+   ============================================ */
+
+.upload-form-row {
+  margin-bottom: 28px;
+}
+
+.upload-form-row--two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+.upload-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.upload-form-group--full {
+  width: 100%;
+}
+
+/* ============================================
+   LABELS
+   ============================================ */
+
+.upload-form-label {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: rgba(245, 242, 236, 0.85);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.upload-label-icon {
+  color: var(--accent-color, #BBA98A);
+  font-size: 0.65rem;
+  opacity: 0.8;
+}
+
+/* ============================================
+   INPUTS & TEXTAREA
+   ============================================ */
+
+.upload-form-input,
+.upload-form-select,
+.upload-form-textarea {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(187, 169, 138, 0.25);
+  border-radius: 10px;
+  padding: 14px 18px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  color: #F5F2EC;
+  transition: border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+  width: 100%;
+  box-sizing: border-box;
+  outline: none;
+  direction: rtl;
+  text-align: right;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.upload-form-input::placeholder,
+.upload-form-textarea::placeholder {
+  color: rgba(245, 242, 236, 0.3);
+  font-weight: 400;
+}
+
+.upload-form-input:hover,
+.upload-form-select:hover,
+.upload-form-textarea:hover {
+  border-color: rgba(187, 169, 138, 0.45);
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.upload-form-input:focus,
+.upload-form-select:focus,
+.upload-form-textarea:focus {
+  border-color: var(--accent-color, #BBA98A);
+  background: rgba(187, 169, 138, 0.08);
+  box-shadow: 0 0 0 3px rgba(187, 169, 138, 0.15);
+}
+
+/* Number input: hide spinner arrows */
+.upload-form-input[type="number"]::-webkit-inner-spin-button,
+.upload-form-input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.upload-form-input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+/* Textarea */
+.upload-form-textarea {
+  resize: vertical;
+  min-height: 110px;
+  line-height: 1.7;
+}
+
+.upload-char-counter {
+  font-size: 0.78rem;
+  color: rgba(245, 242, 236, 0.35);
+  text-align: left;
+  margin-top: 2px;
+  transition: color 0.2s ease;
+}
+
+.upload-char-counter.upload-char-counter--warning {
+  color: #e8a87c;
+}
+
+.upload-char-counter.upload-char-counter--danger {
+  color: #e07070;
+}
+
+/* ============================================
+   PRICE FIELD
+   ============================================ */
+
+.upload-price-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.upload-price-symbol {
+  position: absolute;
+  right: 16px;
+  color: var(--accent-color, #BBA98A);
+  font-size: 1rem;
+  font-weight: 600;
+  pointer-events: none;
+  z-index: 1;
+  line-height: 1;
+}
+
+.upload-form-input--price {
+  padding-right: 38px;
+}
+
+/* ============================================
+   SELECT / DROPDOWN
+   ============================================ */
+
+.upload-select-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.upload-form-select {
+  cursor: pointer;
+  padding-left: 40px;
+  background-image: none;
+}
+
+.upload-form-select option {
+  background: #1C2333;
+  color: #F5F2EC;
+}
+
+.upload-select-arrow {
+  position: absolute;
+  left: 14px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease;
+}
+
+.upload-select-wrapper:focus-within .upload-select-arrow {
+  transform: rotate(180deg);
+}
+
+/* ============================================
+   IMAGE UPLOAD / DROPZONE
+   ============================================ */
+
+.upload-dropzone {
+  position: relative;
+  border: 2px dashed rgba(187, 169, 138, 0.4);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 48px 24px;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.25s ease, background 0.25s ease, transform 0.2s ease;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.upload-dropzone:hover,
+.upload-dropzone:focus-within {
+  border-color: var(--accent-color, #BBA98A);
+  background: rgba(187, 169, 138, 0.06);
+  outline: none;
+}
+
+.upload-dropzone:focus {
+  outline: 2px solid var(--accent-color, #BBA98A);
+  outline-offset: 2px;
+}
+
+.upload-dropzone.upload-dropzone--dragover {
+  border-color: #C5B69C;
+  background: rgba(187, 169, 138, 0.12);
+  transform: scale(1.01);
+}
+
+.upload-file-input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.upload-dropzone-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.upload-dropzone-icon {
+  opacity: 0.7;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  margin-bottom: 4px;
+}
+
+.upload-dropzone:hover .upload-dropzone-icon {
+  opacity: 1;
+  transform: translateY(-3px);
+}
+
+.upload-dropzone-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: rgba(245, 242, 236, 0.85);
+  margin: 0;
+}
+
+.upload-dropzone-subtitle {
+  font-size: 0.875rem;
+  color: var(--accent-color, #BBA98A);
+  margin: 0;
+  font-weight: 500;
+}
+
+.upload-dropzone-formats {
+  font-size: 0.78rem;
+  color: rgba(245, 242, 236, 0.3);
+  margin-top: 4px;
+}
+
+/* Preview */
+.upload-dropzone-preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 4px;
+  z-index: 1;
+}
+
+.upload-preview-img {
+  max-width: 100%;
+  max-height: 260px;
+  border-radius: 10px;
+  object-fit: contain;
+  border: 1px solid rgba(187, 169, 138, 0.3);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.upload-preview-remove {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(224, 112, 112, 0.15);
+  border: 1px solid rgba(224, 112, 112, 0.4);
+  border-radius: 8px;
+  color: #e07070;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background 0.2s ease, border-color 0.2s ease;
+  direction: rtl;
+  z-index: 3;
+  position: relative;
+}
+
+.upload-preview-remove:hover {
+  background: rgba(224, 112, 112, 0.25);
+  border-color: rgba(224, 112, 112, 0.6);
+}
+
+/* ============================================
+   AVAILABILITY TOGGLE
+   ============================================ */
+
+.upload-availability-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(187, 169, 138, 0.2);
+  border-radius: 12px;
+  padding: 18px 22px;
+  gap: 16px;
+  transition: border-color 0.25s ease, background 0.25s ease;
+}
+
+.upload-availability-card:hover {
+  border-color: rgba(187, 169, 138, 0.35);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.upload-availability-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.upload-availability-label {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: rgba(245, 242, 236, 0.85);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.upload-availability-desc {
+  font-size: 0.875rem;
+  color: var(--accent-color, #BBA98A);
+  font-weight: 400;
+  transition: color 0.25s ease;
+}
+
+.upload-availability-desc.upload-availability-desc--out {
+  color: rgba(245, 242, 236, 0.35);
+}
+
+/* Toggle Switch */
+.upload-toggle {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.upload-toggle-input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+
+.upload-toggle-track {
+  position: relative;
+  width: 52px;
+  height: 28px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(187, 169, 138, 0.3);
+  border-radius: 50px;
+  transition: background 0.3s ease, border-color 0.3s ease;
+  flex-shrink: 0;
+}
+
+.upload-toggle-input:checked + .upload-toggle-track {
+  background: linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%);
+  border-color: transparent;
+}
+
+.upload-toggle-thumb {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  width: 20px;
+  height: 20px;
+  background: #F5F2EC;
+  border-radius: 50%;
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.upload-toggle-input:checked + .upload-toggle-track .upload-toggle-thumb {
+  transform: translateX(-24px);
+}
+
+.upload-toggle-input:focus + .upload-toggle-track {
+  box-shadow: 0 0 0 3px rgba(187, 169, 138, 0.25);
+}
+
+.upload-toggle-labels {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.78rem;
+  line-height: 1.3;
+}
+
+.upload-toggle-label-on {
+  color: var(--accent-color, #BBA98A);
+  font-weight: 600;
+  transition: opacity 0.25s ease;
+}
+
+.upload-toggle-label-off {
+  color: rgba(245, 242, 236, 0.35);
+  font-weight: 400;
+  transition: opacity 0.25s ease;
+}
+
+/* When unchecked: flip label emphasis */
+.upload-toggle:has(.upload-toggle-input:not(:checked)) .upload-toggle-label-on {
+  opacity: 0.35;
+  font-weight: 400;
+}
+
+.upload-toggle:has(.upload-toggle-input:not(:checked)) .upload-toggle-label-off {
+  color: rgba(245, 242, 236, 0.6);
+  font-weight: 600;
+  opacity: 1;
+}
+
+/* ============================================
+   FORM ACTIONS
+   ============================================ */
+
+.upload-form-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  margin-top: 12px;
+  padding-top: 28px;
+  border-top: 1px solid rgba(187, 169, 138, 0.12);
+  flex-wrap: wrap;
+}
+
+.upload-btn-submit {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: var(--gradient-primary, linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%));
+  color: var(--primary-color, #1C2333);
+  border: none;
+  border-radius: 10px;
+  padding: 14px 36px;
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+  letter-spacing: 0.02em;
+  box-shadow: 0 4px 18px rgba(187, 169, 138, 0.3);
+  flex-shrink: 0;
+}
+
+.upload-btn-submit:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px rgba(187, 169, 138, 0.45);
+  filter: brightness(1.05);
+}
+
+.upload-btn-submit:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 10px rgba(187, 169, 138, 0.25);
+}
+
+.upload-btn-submit:focus-visible {
+  outline: 2px solid var(--accent-color, #BBA98A);
+  outline-offset: 3px;
+}
+
+.upload-btn-reset {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: transparent;
+  color: rgba(245, 242, 236, 0.45);
+  border: 1px solid rgba(245, 242, 236, 0.15);
+  border-radius: 10px;
+  padding: 14px 24px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+  letter-spacing: 0.02em;
+}
+
+.upload-btn-reset:hover {
+  color: rgba(245, 242, 236, 0.75);
+  border-color: rgba(245, 242, 236, 0.3);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.upload-btn-reset:focus-visible {
+  outline: 2px solid rgba(245, 242, 236, 0.4);
+  outline-offset: 3px;
+}
+
+/* ============================================
+   SUCCESS STATE
+   ============================================ */
+
+.upload-product-form.upload-form--success {
+  position: relative;
+}
+
+.upload-success-toast {
+  display: none;
+  position: fixed;
+  bottom: 32px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: linear-gradient(135deg, #B4A07D 0%, #C5B69C 100%);
+  color: var(--primary-color, #1C2333);
+  padding: 14px 28px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  font-family: 'Inter', sans-serif;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  z-index: 9999;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.upload-success-toast.upload-success-toast--visible {
+  display: block;
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* ============================================
+   RESPONSIVE — TABLET
+   ============================================ */
+
+@media (max-width: 768px) {
+  .upload-product-section {
+    padding: 60px 16px;
+  }
+
+  .upload-product-form {
+    padding: 32px 24px;
+  }
+
+  .upload-form-row--two {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .upload-product-title {
+    font-size: 1.7rem;
+  }
+
+  .upload-form-actions {
+    flex-direction: column-reverse;
+    align-items: stretch;
+  }
+
+  .upload-btn-submit,
+  .upload-btn-reset {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .upload-availability-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .upload-toggle {
+    align-self: flex-end;
+  }
+}
+
+/* ============================================
+   RESPONSIVE — MOBILE
+   ============================================ */
+
+@media (max-width: 480px) {
+  .upload-product-section {
+    padding: 48px 12px;
+  }
+
+  .upload-product-form {
+    padding: 24px 16px;
+    border-radius: 14px;
+  }
+
+  .upload-product-header {
+    margin-bottom: 36px;
+  }
+
+  .upload-product-icon {
+    width: 56px;
+    height: 56px;
+  }
+
+  .upload-product-title {
+    font-size: 1.5rem;
+  }
+
+  .upload-dropzone {
+    padding: 36px 16px;
+  }
+
+  .upload-form-row {
+    margin-bottom: 20px;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
