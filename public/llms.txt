@@ -170,7 +170,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 6**
+**Total active products: 7**
+
+### סוסון הים - The Seahorse
+https://galia-luxe-art.com/product/svsvn-hym-the-seahorse-cgk8c5
+- Price: 1600.00 ILS
+- Availability: In stock
+- Description: יצירה מרהיבה המשלבת את עומק הים עם זוהר מעורר השראה. עבודת מוזיקה עדינה ממראת ברונזה בשילוב עלי זהב וקריסטלים יוצרת משחקי אור מהפנטים, המעניקים לכל חלל תחושה של רוגע ויוקרה.
+- Image: https://galia-luxe-art.com/assets/product-1779804890968-on4sm.webp
 
 ### העגור המלכותי - The Royal Crane
 https://galia-luxe-art.com/product/hagvr-hmlkvty-the-royal-crane-6kbate
