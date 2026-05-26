@@ -142,6 +142,9 @@ https://galia-luxe-art.com/ru/category/:slug
 https://galia-luxe-art.com/contact
 רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
 
+### Page
+https://galia-luxe-art.com/workshops
+
 ## Legal & Policy
 
 ### Privacy Policy
