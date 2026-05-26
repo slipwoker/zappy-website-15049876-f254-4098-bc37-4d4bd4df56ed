@@ -16530,6 +16530,21 @@ nav.zappy-catalog-menu {
     font-size: 0.9rem;
   }
 }
+
+header.glx-gallery__header .glx-gallery__eyebrow {
+  color: #7a6a52 !important;
+  letter-spacing: 0.2em;
+  font-weight: 700;
+}
+
+header.glx-gallery__header .glx-gallery__title {
+  color: var(--text-color) !important;
+  font-weight: 700;
+}
+
+header.glx-gallery__header .glx-gallery__subtitle {
+  color: #2D2926 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
