@@ -16180,6 +16180,13 @@ nav.zappy-catalog-menu {
   color: #F0D5A8 !important;
   text-shadow: 0 1px 10px rgba(0,0,0,0.65) !important;
 }
+
+.about-artist-story-section .artist-story-headline em {
+  color: #FFE8B0 !important;
+  font-weight: 700 !important;
+  text-shadow: 0 2px 24px rgba(0,0,0,0.95), 0 4px 52px rgba(0,0,0,0.75) !important;
+  letter-spacing: 0.02em !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
