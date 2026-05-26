@@ -219,34 +219,25 @@
 </script>
 <!-- End Zappy Analytics -->
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","@id":"https://galia-luxe-art.com#organization","name":"Galia Luxe Art","url":"https://galia-luxe-art.com","description":"A luxury art creator specializing in textured paintings and artwork aimed at modern art enthusiasts. The brand revolves around high-end, tactile visual experiences that blend sophistication with artistic expression. The work appeals to collectors and admirers of contemporary art who value quality, uniqueness, and sensory depth in visual art.","address":{"@type":"PostalAddress","streetAddress":"ישראל"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"galia.luxe.art@gmail.com","telephone":"+972-054-7301007"}]},{"@type":"WebSite","@id":"https://galia-luxe-art.com#website","url":"https://galia-luxe-art.com","name":"Galia Luxe Art","publisher":{"@id":"https://galia-luxe-art.com#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://galia-luxe-art.com"},{"@type":"ListItem","position":2,"name":"Workshops","item":"https://galia-luxe-art.com/workshops"}]}]}</script>
-    </meta>
-  </meta>
+    <meta property="og:type" content="website">
+  <meta property="og:locale" content="he_IL">
   
-  </meta>
-  </meta>
-  </meta>
   
-  </meta>
-  </meta>
-  <meta property="og:type" content="website"></meta>
-  <meta property="og:locale" content="he_IL"></meta>
   
-  </meta>
-  </meta>
-  </meta>
-  </link>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></link>
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <!-- Favicons -->
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico"></link>
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"></link>
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"></link>
-    <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48x48.png"></link>
-    <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon-192x192.png"></link>
-    <link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512x512.png"></link>
-    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"></link>
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48x48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512x512.png">
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
     <!-- Cookie Consent -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css"></link>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
@@ -276,8 +267,8 @@
             }
             
             /* Menu Group styling (non-clickable parent) - TOP LEVEL ONLY with ultra-specific selector */
-            .nav-menu &gt; li &gt; .menu-group-title,
-            #navMenu &gt; li &gt; .menu-group-title {
+            .nav-menu > li > .menu-group-title,
+            #navMenu > li > .menu-group-title {
               display: inline-block !important;
               padding: 0.5rem 1rem !important;
               color: var(--nav-color) !important;
@@ -291,13 +282,13 @@
               transition: color 0.3s ease !important;
             }
             
-            .nav-menu &gt; li &gt; .menu-group-title:hover,
-            #navMenu &gt; li &gt; .menu-group-title:hover {
+            .nav-menu > li > .menu-group-title:hover,
+            #navMenu > li > .menu-group-title:hover {
               color: var(--nav-hover-color) !important;
             }
             
             /* Desktop: show submenu on Menu Group hover */
-            li:has(.menu-group-title):hover &gt; .sub-menu {
+            li:has(.menu-group-title):hover > .sub-menu {
               opacity: 1 !important;
               visibility: visible !important;
               transform: translateY(0) !important;
@@ -306,7 +297,7 @@
             
             /* Hide menu items marked as hidden (overrides hover states) */
             .zappy-hidden-menu-item,
-            li:has(.menu-group-title):hover &gt; .sub-menu .zappy-hidden-menu-item {
+            li:has(.menu-group-title):hover > .sub-menu .zappy-hidden-menu-item {
               display: none !important;
               opacity: 0 !important;
               visibility: hidden !important;
@@ -359,9 +350,9 @@
             }
             
             /* Show submenu on parent hover - more specific selectors */
-            .nav-menu li:hover &gt; .sub-menu,
-            nav li:hover &gt; .sub-menu,
-            .navbar li:hover &gt; .sub-menu {
+            .nav-menu li:hover > .sub-menu,
+            nav li:hover > .sub-menu,
+            .navbar li:hover > .sub-menu {
               opacity: 1 !important;
               visibility: visible !important;
               transform: translateY(0) !important;
@@ -399,8 +390,8 @@
             }
             
             /* CRITICAL: Override submenu styles for TOP-LEVEL Menu Groups only - must come AFTER submenu styles */
-            .nav-menu &gt; li &gt; .menu-group-title,
-            #navMenu &gt; li &gt; .menu-group-title {
+            .nav-menu > li > .menu-group-title,
+            #navMenu > li > .menu-group-title {
               display: inline-block !important;
               padding: 0.5rem 1rem !important;
               color: var(--nav-color) !important;
@@ -414,8 +405,8 @@
               transition: color 0.3s ease !important;
             }
             
-            .nav-menu &gt; li &gt; .menu-group-title:hover,
-            #navMenu &gt; li &gt; .menu-group-title:hover {
+            .nav-menu > li > .menu-group-title:hover,
+            #navMenu > li > .menu-group-title:hover {
               color: var(--nav-hover-color) !important;
               background-color: transparent !important;
             }
@@ -457,18 +448,18 @@
               }
               
               /* Disable hover behavior on mobile */
-              .nav-menu li:hover &gt; .sub-menu,
-              nav li:hover &gt; .sub-menu,
-              .navbar li:hover &gt; .sub-menu {
+              .nav-menu li:hover > .sub-menu,
+              nav li:hover > .sub-menu,
+              .navbar li:hover > .sub-menu {
                 opacity: 0;
                 visibility: hidden;
                 pointer-events: none;
               }
               
               /* Enable visibility for expanded submenus */
-              .nav-menu li &gt; .sub-menu.mobile-expanded,
-              nav li &gt; .sub-menu.mobile-expanded,
-              .navbar li &gt; .sub-menu.mobile-expanded {
+              .nav-menu li > .sub-menu.mobile-expanded,
+              nav li > .sub-menu.mobile-expanded,
+              .navbar li > .sub-menu.mobile-expanded {
                 opacity: 1 !important;
                 visibility: visible !important;
                 pointer-events: auto !important;
@@ -497,39 +488,39 @@
               }
               
               /* Parent link - takes full width since toggle is absolute (not a flex child) */
-              .nav-menu li:has(.sub-menu) &gt; a,
-              nav li:has(.sub-menu) &gt; a,
-              .navbar li:has(.sub-menu) &gt; a,
-              .nav-menu &gt; li &gt; .menu-group-title,
-              #navMenu &gt; li &gt; .menu-group-title {
+              .nav-menu li:has(.sub-menu) > a,
+              nav li:has(.sub-menu) > a,
+              .navbar li:has(.sub-menu) > a,
+              .nav-menu > li > .menu-group-title,
+              #navMenu > li > .menu-group-title {
                 flex: 1 !important;
                 min-width: 0 !important;
               }
               
               /* Normalize menu-group-title in mobile nav to match link alignment */
-              .nav-menu &gt; li &gt; .menu-group-title,
-              #navMenu &gt; li &gt; .menu-group-title {
+              .nav-menu > li > .menu-group-title,
+              #navMenu > li > .menu-group-title {
                 padding: 0 !important;
                 line-height: inherit !important;
               }
               
               /* Submenu takes full width below parent */
-              .nav-menu li:has(.sub-menu) &gt; .sub-menu,
-              nav li:has(.sub-menu) &gt; .sub-menu,
-              .navbar li:has(.sub-menu) &gt; .sub-menu {
+              .nav-menu li:has(.sub-menu) > .sub-menu,
+              nav li:has(.sub-menu) > .sub-menu,
+              .navbar li:has(.sub-menu) > .sub-menu {
                 flex-basis: 100% !important;
                 width: 100% !important;
               }
               
               /* HIDE EXISTING CHEVRONS/ARROWS from cloned sites to prevent duplicates */
-              .nav-menu li:has(.sub-menu) &gt; a .fa-chevron-down,
-              .nav-menu li:has(.sub-menu) &gt; a .fa-angle-down,
-              .nav-menu li:has(.sub-menu) &gt; a [class*="chevron"],
-              .nav-menu li:has(.sub-menu) &gt; a [class*="arrow"],
-              nav li:has(.sub-menu) &gt; a [class*="chevron"],
-              nav li:has(.sub-menu) &gt; a [class*="arrow"],
-              #navMenu li:has(.sub-menu) &gt; a [class*="chevron"],
-              #navMenu li:has(.sub-menu) &gt; a [class*="arrow"] {
+              .nav-menu li:has(.sub-menu) > a .fa-chevron-down,
+              .nav-menu li:has(.sub-menu) > a .fa-angle-down,
+              .nav-menu li:has(.sub-menu) > a [class*="chevron"],
+              .nav-menu li:has(.sub-menu) > a [class*="arrow"],
+              nav li:has(.sub-menu) > a [class*="chevron"],
+              nav li:has(.sub-menu) > a [class*="arrow"],
+              #navMenu li:has(.sub-menu) > a [class*="chevron"],
+              #navMenu li:has(.sub-menu) > a [class*="arrow"] {
                 display: none !important;
                 visibility: hidden !important;
               }
@@ -584,10 +575,10 @@
             (function() {
               function initMobileMenuToggles() {
                 // Only run on mobile
-                if (window.innerWidth &gt; 768) {
+                if (window.innerWidth > 768) {
                   // Remove any toggle buttons on desktop
-                  document.querySelectorAll('.mobile-submenu-toggle').forEach(btn =&gt; btn.remove());
-                  document.querySelectorAll('.sub-menu.mobile-expanded').forEach(menu =&gt; {
+                  document.querySelectorAll('.mobile-submenu-toggle').forEach(btn => btn.remove());
+                  document.querySelectorAll('.sub-menu.mobile-expanded').forEach(menu => {
                     menu.classList.remove('mobile-expanded');
                   });
                   console.log('[MOBILE MENU] Desktop mode - cleanup done');
@@ -610,7 +601,7 @@
                   }
                   
                   const submenu = li.querySelector('.sub-menu');
-                  const parentLink = li.querySelector(':scope &gt; a') || li.querySelector(':scope &gt; .menu-group-title');
+                  const parentLink = li.querySelector(':scope > a') || li.querySelector(':scope > .menu-group-title');
                   
                   if (!submenu || !parentLink) return;
                   
@@ -670,7 +661,7 @@
               // This handles cases where the mobile menu is hidden initially
               const observer = new MutationObserver(function(mutations) {
                 mutations.forEach(function(mutation) {
-                  if (mutation.type === 'attributes' &amp;&amp; mutation.attributeName === 'class') {
+                  if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
                     const target = mutation.target;
                     if (target.classList.contains('active') || target.style.display !== 'none') {
                       console.log('[MOBILE MENU] Mobile menu became visible, re-initializing...');
@@ -731,12 +722,12 @@
 
     <div class="mobile-search-panel" id="mobile-search-panel">
       <div class="search-wrapper">
-        <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off"></input>
+        <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
         <button class="search-submit" id="mobile-search-submit" title="חיפוש">
-          <svg width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
         </button>
         <button class="close-search" id="close-mobile-search">
-          <svg width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
         </button>
       </div>
       <div class="search-results" id="mobile-search-results"></div>
@@ -745,16 +736,16 @@
 <script>window.ZAPPY_WEBSITE_ID = "15049876-f254-4098-bc37-4d4bd4df56ed";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg class="hamburger-icon" width="24" height="24" viewbox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewbox="0 0 24 24" fill="none" style="display: none;">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
 
   <button class="phone-header-btn" data-phone="+9720547301007" aria-label="Call">
-    <svg width="20" height="20" viewbox="0 0 24 24" fill="currentColor">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
   </button>
@@ -762,21 +753,21 @@
   <div class="nav-container">
     <div class="nav-right-group"><div class="nav-brand">
       <a href="/" class="logo-link">
-        <img src="/assets/galia-luxe-art-logo-1779633425780-9pstji.webp?v=1779633426125-azvwyk" alt="Galia Luxe Art" class="logo"></img>
+        <img src="/assets/galia-luxe-art-logo-1779633425780-9pstji.webp?v=1779633426125-azvwyk" alt="Galia Luxe Art" class="logo">
       </a>
-    </div><ul class="nav-menu" id="navMenu"><li class="nav-home-item"><a href="/" title="בית" aria-label="בית" style="display:flex;align-items:center;padding:0.5rem 0.75rem;"><svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5z"></path><polyline points="9 21 9 12 15 12 15 21"></polyline></svg></a></li><li class="menu-item-has-children zappy-products-dropdown">
+    </div><ul class="nav-menu" id="navMenu"><li class="nav-home-item"><a href="/" title="בית" aria-label="בית" style="display:flex;align-items:center;padding:0.5rem 0.75rem;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5z"></path><polyline points="9 21 9 12 15 12 15 21"></polyline></svg></a></li><li class="menu-item-has-children zappy-products-dropdown">
       <a href="/our-creations">היצירות שלנו</a>
       <ul class="sub-menu" id="zappy-nav-category-links">
         <li><a href="/our-creations">היצירות שלנו</a></li>
         <!-- Categories will be loaded dynamically -->
       </ul>
-    </li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/products">מוצרים</a></li><li><a href="/about">אודות</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/contact">צור קשר</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/about">אודות</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/cart">עגלת קניות</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/checkout">תשלום</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/login">התחברות</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/account">החשבון שלי</a></li><li><a href="/contact">צור קשר</a></li><li><a href="/workshops" class="">סדנאות</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
-    <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off"></input>
+    </li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/products">מוצרים</a></li><li><a href="/about">אודות</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/contact">צור קשר</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/about">אודות</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/cart">עגלת קניות</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/checkout">תשלום</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/login">התחברות</a></li><li style="display: none !important;" class="zappy-hidden-menu-item"><a href="/en/account">החשבון שלי</a></li><li><a href="/contact">צור קשר</a></li><li><a href="/workshops" class="">סדנאות</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+    <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
-      <svg class="search-icon" width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
     </button>
     <div class="nav-search-results" id="nav-search-results"></div>
-  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div>
 <div class="nav-cta-container">
   <div class="lang-switcher" id="zappy-lang-switcher" style="display:flex;align-items:center;gap:6px;font-family:'Inter',sans-serif;font-size:0.82rem;font-weight:500;">
     <a href="/" class="lang-option lang-he" title="עברית" style="text-decoration:none;padding:4px 8px;border-radius:4px;color:var(--nav-text);border:1px solid transparent;transition:all 0.2s ease;">עב</a>
@@ -828,12 +819,12 @@
     // Check if background is transparent or rgba with 0 alpha
     const isTransparent = bgColor === 'transparent' || 
                          bgColor === 'rgba(0, 0, 0, 0)' ||
-                         (bgColor.startsWith('rgba') &amp;&amp; bgColor.includes(', 0)'));
+                         (bgColor.startsWith('rgba') && bgColor.includes(', 0)'));
     
     if (isTransparent) {
       // Check for background-image or gradient
       const bgImage = computedStyle.backgroundImage;
-      if (bgImage &amp;&amp; bgImage !== 'none') {
+      if (bgImage && bgImage !== 'none') {
         console.log('[Navbar] Navbar has background image/gradient, using dark text');
         bgColor = 'rgb(240, 240, 240)'; // Assume light background
       } else {
@@ -846,7 +837,7 @@
     
     // Calculate luminance to determine if background is light or dark
     const rgb = bgColor.match(/\d+/g);
-    if (rgb &amp;&amp; rgb.length &gt;= 3) {
+    if (rgb && rgb.length >= 3) {
       const r = parseInt(rgb[0]);
       const g = parseInt(rgb[1]);
       const b = parseInt(rgb[2]);
@@ -982,7 +973,7 @@
       // ONLY apply inline positioning styles on mobile viewport
       // On desktop, the CSS handles hiding these buttons with display: none
       // Inline styles were breaking desktop layout by overriding CSS
-      const isMobileViewport = window.innerWidth &lt;= 768;
+      const isMobileViewport = window.innerWidth <= 768;
       
       if (mobileToggle) {
         // Icon sizing applies to all viewports for consistency
@@ -1173,7 +1164,7 @@
       phoneBtn.addEventListener('click', function() {
         // Get phone number from placeholder in page or use default
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
-        const phoneNumber = phoneLinks.length &gt; 0 
+        const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
           : '+972-054-7301007';
         
@@ -1192,12 +1183,134 @@
 </script>
   
   <main>
-      <section id="layout-1779781443899" class="py-16 md:py-24 bg-white layout-section zappy-removable" data-zappy-component="true" style="width: 100%; padding: 60px 0;">
-        <div class="container mx-auto px-4 md:px-8 text-center">
-          <h1 class="text-3xl md:text-4xl font-bold mb-4">סדנאות</h1>
-          <p class="text-gray-600 text-lg">This page is ready for your content.</p>
+      
+
+<section class="gla-workshops-section" aria-labelledby="gla-workshops-title">
+  <!-- Background decorative elements -->
+  <div class="gla-workshops-bg-decor" aria-hidden="true">
+    <span class="gla-decor-circle gla-decor-circle--1"></span>
+    <span class="gla-decor-circle gla-decor-circle--2"></span>
+  </div>
+
+  <div class="gla-workshops-container">
+    <!-- Section Header -->
+    <header class="gla-workshops-header">
+      <div class="gla-workshops-badge" aria-hidden="true">✦ Galia Luxe Art ✦</div>
+      <h2 class="gla-workshops-title" id="gla-workshops-title">סדנאות יצירה</h2>
+      <p class="gla-workshops-subtitle">חוויית יצירה ייחודית לכל קהל — בואו ליצור, להנות ולהתחבר</p>
+      <div class="gla-workshops-divider" aria-hidden="true">
+        <span class="gla-divider-line"></span>
+        <span class="gla-divider-gem">◆</span>
+        <span class="gla-divider-line"></span>
+      </div>
+    </header>
+
+    <!-- Cards Grid -->
+    <div class="gla-workshops-grid" role="list">
+
+      <!-- Card 1: Adults -->
+      <article class="gla-workshop-card" role="listitem">
+        <div class="gla-card-image-wrap">
+          <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="סדנאות יצירה למבוגרים — ציור ואמנות" class="gla-card-image" data-placeholder="workshop-adults-1" data-context="Elegant adult art workshop with paintbrushes and canvas, warm golden lighting, luxurious studio atmosphere, adults painting on canvas">
+          <div class="gla-card-image-overlay" aria-hidden="true"></div>
         </div>
-      </section>
+        <div class="gla-card-inner">
+          <div class="gla-card-icon-wrap" aria-hidden="true">
+            <svg class="gla-card-icon" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <!-- Palette -->
+              <ellipse cx="32" cy="34" rx="20" ry="16" stroke="currentColor" stroke-width="2.5" fill="none"></ellipse>
+              <circle cx="23" cy="28" r="3.5" fill="currentColor"></circle>
+              <circle cx="32" cy="24" r="3.5" fill="currentColor"></circle>
+              <circle cx="41" cy="28" r="3.5" fill="currentColor"></circle>
+              <circle cx="43" cy="38" r="3.5" fill="currentColor"></circle>
+              <circle cx="27" cy="44" r="3.5" fill="currentColor"></circle>
+              <!-- Brush -->
+              <line x1="48" y1="14" x2="38" y2="28" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"></line>
+              <polygon points="48,10 52,14 50,18 44,16" fill="currentColor"></polygon>
+            </svg>
+          </div>
+          <h3 class="gla-card-title">למבוגרים</h3>
+          <p class="gla-card-desc">סדנאות תוכן וחוויה במגוון תחומי יצירה — הזדמנות להתנתק, לחקור ולבטא את עצמך דרך האמנות.</p>
+          <div class="gla-card-accent-line" aria-hidden="true"></div>
+          <ul class="gla-card-features" aria-label="תכונות הסדנה למבוגרים">
+            <li>ציור על בד וקנבס</li>
+            <li>עבודה עם חומרים מגוונים</li>
+            <li>הדרכה אישית ומקצועית</li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- Card 2: Companies & Organizations -->
+      <article class="gla-workshop-card gla-workshop-card--featured" role="listitem">
+        <div class="gla-card-featured-badge" aria-label="פופולרי">⭐ הכי מבוקש</div>
+        <div class="gla-card-image-wrap">
+          <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="סדנאות גיבוש לחברות וארגונים" class="gla-card-image" data-placeholder="workshop-corporate-1" data-context="Corporate team building art workshop, group of professionals collaborating on creative painting activity, warm studio setting, team bonding experience">
+          <div class="gla-card-image-overlay" aria-hidden="true"></div>
+        </div>
+        <div class="gla-card-inner">
+          <div class="gla-card-icon-wrap" aria-hidden="true">
+            <svg class="gla-card-icon" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <!-- People group -->
+              <circle cx="20" cy="22" r="7" stroke="currentColor" stroke-width="2.5" fill="none"></circle>
+              <circle cx="44" cy="22" r="7" stroke="currentColor" stroke-width="2.5" fill="none"></circle>
+              <circle cx="32" cy="19" r="8" stroke="currentColor" stroke-width="2.5" fill="none"></circle>
+              <path d="M8 48 C8 38 16 34 20 34 C22 34 24 35 26 36" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" fill="none"></path>
+              <path d="M56 48 C56 38 48 34 44 34 C42 34 40 35 38 36" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" fill="none"></path>
+              <path d="M20 50 C20 40 25 36 32 36 C39 36 44 40 44 50" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" fill="none"></path>
+            </svg>
+          </div>
+          <h3 class="gla-card-title">לחברות וארגונים</h3>
+          <p class="gla-card-desc">ימי גיבוש ואירועים עסקיים בלתי נשכחים — חוויה יצירתית שמחזקת צוותים ויוצרת זיכרונות משותפים.</p>
+          <div class="gla-card-accent-line" aria-hidden="true"></div>
+          <ul class="gla-card-features" aria-label="תכונות הסדנה לחברות">
+            <li>ימי גיבוש מותאמים אישית</li>
+            <li>אירועי חברה ייחודיים</li>
+            <li>חיזוק רוח הצוות</li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- Card 3: Kids & Youth -->
+      <article class="gla-workshop-card" role="listitem">
+        <div class="gla-card-image-wrap">
+          <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="סדנאות יצירה לילדים ונוער — ימי הולדת ואבני חן" class="gla-card-image" data-placeholder="workshop-kids-1" data-context="Children art workshop with gemstones and painting, colorful creative activity, kids enjoying birthday party art session, joyful and vibrant atmosphere">
+          <div class="gla-card-image-overlay" aria-hidden="true"></div>
+        </div>
+        <div class="gla-card-inner">
+          <div class="gla-card-icon-wrap" aria-hidden="true">
+            <svg class="gla-card-icon" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <!-- Star -->
+              <polygon points="32,8 37,24 54,24 40,34 45,50 32,40 19,50 24,34 10,24 27,24" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round" fill="none"></polygon>
+              <!-- Gem inside -->
+              <polygon points="32,18 38,26 32,34 26,26" stroke="currentColor" stroke-width="1.5" fill="currentColor" opacity="0.3"></polygon>
+            </svg>
+          </div>
+          <h3 class="gla-card-title">לילדים ונוער</h3>
+          <p class="gla-card-desc">ימי הולדת, עבודה מעשית על תמונה או עם אבני חן — פעילויות יצירתיות, מעצימות ומלאות הנאה.</p>
+          <div class="gla-card-accent-line" aria-hidden="true"></div>
+          <ul class="gla-card-features" aria-label="תכונות הסדנה לילדים">
+            <li>ימי הולדת מיוחדים</li>
+            <li>עבודה עם אבני חן</li>
+            <li>פעילויות מעצימות לנוער</li>
+          </ul>
+        </div>
+      </article>
+
+    </div><!-- /.gla-workshops-grid -->
+
+    <!-- CTA Button -->
+    <div class="gla-workshops-cta">
+      <a href="#contact" class="gla-cta-btn" aria-label="צרו קשר לפרטים ורישום לסדנאות">
+        <span class="gla-cta-btn-text">לפרטים ורישום</span>
+        <span class="gla-cta-btn-icon" aria-hidden="true">←</span>
+      </a>
+      <p class="gla-cta-note">נשמח לעזור לכם לבחור את הסדנה המתאימה</p>
+    </div>
+
+  </div><!-- /.gla-workshops-container -->
+</section>
+
+
     </main>
   
   
@@ -1212,12 +1325,12 @@
         <!-- Column 1: Company Info -->
         <div class="footer-col footer-brand">
           <div class="footer-logo-wrap">
-            <img src="/assets/galia-luxe-art-logo.webp" alt="Galia Luxe Art" class="logo"></img>
+            <img src="/assets/galia-luxe-art-logo.webp" alt="Galia Luxe Art" class="logo">
           </div>
           <p class="footer-tagline">אמנות מרקמית עכשווית לאספנים ולמעצבי פנים. כל יצירה — עולם בפני עצמו.</p>
           <div class="footer-social">
             <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
-            <a href="https://instagram.com/galia_luxe_art?igsh=aTZ5bjEwN2Jpbmh3&amp;amp;utm_source=qr" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://instagram.com/galia_luxe_art?igsh=aTZ5bjEwN2Jpbmh3&amp;utm_source=qr" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
             <a href="https://wa.me/9720547301007" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
           </div>
         </div>
