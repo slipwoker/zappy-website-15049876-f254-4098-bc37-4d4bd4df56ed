@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T14:21:50.022Z",
+  "generated_at": "2026-05-26T14:26:40.194Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
   "count": 8,
@@ -172,25 +172,27 @@
     },
     {
       "id": "91c417cd-04aa-4211-88f9-90bcf89dac6b",
-      "slug": "byn-avr-ltsl-vb57vj",
-      "name": "בין אור לצל",
+      "slug": "shbrym-shl-bychd-fragments-of-us-e80wgs",
+      "name": "שברים של ביחד - Fragments of Us",
       "name_translations": {},
-      "description": "<p>יצירה מקורית על לוח MDF עגול עבודה טקסטורלית בשילוב שברי מראה, תבליטים וחומרים דקורטיביים היוצרים משחק דרמטי בין אור לחושך. הקומפוזיציה מציגה שני דמויות תחת עץ מפוצל — צד אחד מלא תנועה וזוהר, והצד השני חשוף ושקט — כסמל למעברים, זיכרונות וחיבור אנושי. גודל: 80 ס\"מ</p>",
-      "short_description": null,
+      "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: קוטר 80 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, שברי מראה, עלי זהב ואבני קריסטל המעניקים ניצנוץ יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית.</p>",
+      "short_description": "יצירה עוצמתית המשלבת קונטרסט מרתק בין אור לצל, בין דמויות לזמן. עבודת יד קפדנית המשלבת אלמנטים של מראה ושקיפות, היוצרים תחושה של עומק וסיפור שמתגלה בכל מבט מחדש.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 6000,
+      "base_price": 6000,
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://galia-luxe-art.com/assets/product-1779780415789-zv60fi.webp"
+        "https://galia-luxe-art.com/assets/product-1779780415789-zv60fi.webp",
+        "https://galia-luxe-art.com/assets/product-1779805453198-6lw44.webp",
+        "https://galia-luxe-art.com/assets/product-1779805461116-zh6kbq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/byn-avr-ltsl-vb57vj",
+      "url": "https://galia-luxe-art.com/product/shbrym-shl-bychd-fragments-of-us-e80wgs",
       "categories": [],
-      "updated_at": "2026-05-26T07:27:14.187Z"
+      "updated_at": "2026-05-26T14:26:08.806Z"
     }
   ]
 }
