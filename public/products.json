@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T14:16:18.222Z",
+  "generated_at": "2026-05-26T14:18:39.310Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
   "count": 7,
@@ -104,25 +104,26 @@
     },
     {
       "id": "e4200011-8d07-4842-bb33-6a2f6518c375",
-      "slug": "ynshvp-hchvkmh-2a5lts",
+      "slug": "ynshvp-hchvkmh-tw0tve",
       "name": "ינשוף החוכמה",
       "name_translations": {},
-      "description": "<p><br></p><p><br></p><p>היצירה המהפנטת הזו כבר מצאה את מקומה בבית חדש. השילוב של טקסטורה עשירה, עלי זהב וקריסטלים מעניק לינשוף מראה מלכותי ומסתורי שאי אפשר להתעלם ממנו.</p>",
+      "description": "<p>&nbsp;פרטים טכניים:</p><p>• תשתית: עבודת יד על קנבס איכותי (מהדורה נדירה).</p><p>• גודל: 60x80 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, עלי זהב (פוטאל) ואבני קוורץ (Crystal Quartz / горный хруסטל) המעניקים ניצנוץ יוקרתי.</p><p>• מוכן לתלייה: היצירה סופקה כשהיא מוכנה לתלייה מיידית.</p>",
       "short_description": "היצירה המהפנטת הזו כבר מצאה את מקומה בבית חדש. השילוב של טקסטורה עשירה, עלי זהב וקריסטלים מעניק לינשוף מראה מלכותי ומסתורי שאי אפשר להתעלם ממנו.",
       "sku": null,
       "brand": null,
-      "price": 5000,
-      "base_price": 5000,
+      "price": 2000,
+      "base_price": 2000,
       "sale_price": null,
       "currency": "ILS",
       "images": [
+        "https://galia-luxe-art.com/assets/product-1779804993000-cvvon.webp",
         "https://galia-luxe-art.com/assets/product-1779780771946-bjd4ip.webp"
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://galia-luxe-art.com/product/ynshvp-hchvkmh-2a5lts",
+      "url": "https://galia-luxe-art.com/product/ynshvp-hchvkmh-tw0tve",
       "categories": [],
-      "updated_at": "2026-05-26T14:08:38.907Z"
+      "updated_at": "2026-05-26T14:18:07.934Z"
     },
     {
       "id": "fa0d17c8-861d-4a18-865e-897c3ee57fb1",
