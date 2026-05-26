@@ -170,7 +170,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 5**
+**Total active products: 6**
+
+### העגור המלכותי - The Royal Crane
+https://galia-luxe-art.com/product/hagvr-hmlkvty-the-royal-crane-6kbate
+- Price: 2400.00 ILS
+- Availability: In stock
+- Description: יצירה עוצרת נשימה המשלבת טקסטורה עשירה וסימבוליקה של חופש ואצילות. העגור, שנוצר בעבודת יד קפדנית, נראה כמעט חי בזכות משחקי האור והחומרים היוקרתיים.
+- Image: https://galia-luxe-art.com/assets/product-1779804767366-t3z9hv.webp
 
 ### הברבורים - The Swans
 https://galia-luxe-art.com/product/hbrbvrym-the-swans-5eel70

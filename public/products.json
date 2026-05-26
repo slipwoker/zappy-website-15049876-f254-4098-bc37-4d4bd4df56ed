@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T14:11:53.110Z",
+  "generated_at": "2026-05-26T14:14:13.531Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 5,
+  "count": 6,
   "products": [
+    {
+      "id": "a5a7edb5-d587-4211-b888-cb2a36556ddd",
+      "slug": "hagvr-hmlkvty-the-royal-crane-6kbate",
+      "name": "העגור המלכותי - The Royal Crane",
+      "name_translations": {},
+      "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: קוטר 60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, שבבי מראה (Mirror Crushed Stones), אבני קוורץ (Crystal Quartz) וציפוי אפוקסי רזין יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית, עם אביזרי תלייה מותקנים המבטיחים הצמדה מושלמת ובטוחה לקיר.</p>",
+      "short_description": "יצירה עוצרת נשימה המשלבת טקסטורה עשירה וסימבוליקה של חופש ואצילות. העגור, שנוצר בעבודת יד קפדנית, נראה כמעט חי בזכות משחקי האור והחומרים היוקרתיים.",
+      "sku": null,
+      "brand": null,
+      "price": 2400,
+      "base_price": 2400,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779804767366-t3z9hv.webp",
+        "https://galia-luxe-art.com/assets/product-1779804774216-gy1wb.webp",
+        "https://galia-luxe-art.com/assets/product-1779804782014-ska26wn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/hagvr-hmlkvty-the-royal-crane-6kbate",
+      "categories": [],
+      "updated_at": "2026-05-26T14:13:42.209Z"
+    },
     {
       "id": "927d0426-d287-4a4b-9240-1601493af458",
       "slug": "hbrbvrym-the-swans-5eel70",
