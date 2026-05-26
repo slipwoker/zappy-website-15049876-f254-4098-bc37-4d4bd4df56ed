@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T14:26:40.194Z",
+  "generated_at": "2026-05-26T14:29:50.688Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 8,
+  "count": 9,
   "products": [
+    {
+      "id": "a3be435d-e830-46d6-a199-f72d03fcf5af",
+      "slug": "algntyvt-mvzhbt-golden-majesty-rcacxq",
+      "name": "אלגנטיות מוזהבת - Golden Majesty",
+      "name_translations": {},
+      "description": "<p>&nbsp;פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: 80x80 ס\"מ.</p><p>• חומרים: אקריליק, עלי זהב וטקסטורות עשירות המעניקות עומק וניצנוץ יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית.</p>",
+      "short_description": "יצירה עוצמתית המשלבת עושר ויזואלי עם טכניקה ייחודית. השילוב של שחור עמוק וזהב בוהק מעניק ליצירה מראה מלכותי ויוקרתי, שמוסיף תחכום לכל חלל שבו היא תלויה.",
+      "sku": null,
+      "brand": null,
+      "price": 3800,
+      "base_price": 3800,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779805661184-1als4m.webp",
+        "https://galia-luxe-art.com/assets/product-1779805684454-0dj4lp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/algntyvt-mvzhbt-golden-majesty-rcacxq",
+      "categories": [],
+      "updated_at": "2026-05-26T14:29:19.276Z"
+    },
     {
       "id": "7515c959-2aa8-4294-a2f0-5a7a7b5b96a7",
       "slug": "hnchsh-the-serpent-6fpdnk",

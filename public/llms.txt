@@ -170,7 +170,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 8**
+**Total active products: 9**
+
+### אלגנטיות מוזהבת - Golden Majesty
+https://galia-luxe-art.com/product/algntyvt-mvzhbt-golden-majesty-rcacxq
+- Price: 3800.00 ILS
+- Availability: In stock
+- Description: יצירה עוצמתית המשלבת עושר ויזואלי עם טכניקה ייחודית. השילוב של שחור עמוק וזהב בוהק מעניק ליצירה מראה מלכותי ויוקרתי, שמוסיף תחכום לכל חלל שבו היא תלויה.
+- Image: https://galia-luxe-art.com/assets/product-1779805661184-1als4m.webp
 
 ### הנחש - The Serpent
 https://galia-luxe-art.com/product/hnchsh-the-serpent-6fpdnk
