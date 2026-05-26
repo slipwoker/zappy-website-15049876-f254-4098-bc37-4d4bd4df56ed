@@ -16545,6 +16545,23 @@ header.glx-gallery__header .glx-gallery__title {
 header.glx-gallery__header .glx-gallery__subtitle {
   color: #2D2926 !important;
 }
+
+header.glx-gallery__header .glx-gallery__title,
+header.glx-gallery__header .glx-gallery__subtitle {
+  color: var(--background-color) !important;
+}
+
+header.glx-gallery__header .glx-gallery__eyebrow {
+  color: var(--background-color) !important;
+}
+
+header.glx-gallery__header .glx-gallery__subtitle {
+  color: var(--background-color) !important;
+}
+
+header.glx-gallery__header .glx-gallery__title {
+  color: var(--background-color) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
