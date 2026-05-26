@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <title>Generated Website</title>
-    <meta name="description" content="">
+    <title>Our Works</title>
+    <meta name="description" content="המוצרים שלנו - Galia Luxe Art">
     <meta name="keywords" content="">
     
     <!-- Favicons -->
@@ -218,7 +218,12 @@
 })();
 </script>
 <!-- End Zappy Analytics -->
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","@id":"https://galia-luxe-art.com#organization","name":"Galia Luxe Art","url":"https://galia-luxe-art.com","description":"A luxury art creator specializing in textured paintings and artwork aimed at modern art enthusiasts. The brand revolves around high-end, tactile visual experiences that blend sophistication with artistic expression. The work appeals to collectors and admirers of contemporary art who value quality, uniqueness, and sensory depth in visual art.","address":{"@type":"PostalAddress","streetAddress":"ישראל"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"galia.luxe.art@gmail.com","telephone":"+972-054-7301007"}]},{"@type":"WebSite","@id":"https://galia-luxe-art.com#website","url":"https://galia-luxe-art.com","name":"Galia Luxe Art","publisher":{"@id":"https://galia-luxe-art.com#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://galia-luxe-art.com"},{"@type":"ListItem","position":2,"name":"Workshops","item":"https://galia-luxe-art.com/workshops"}]}]}</script>
+    <meta property="og:title" content="Our Works">
+    <meta property="og:description" content="המוצרים שלנו - Galia Luxe Art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Our Works">
+    <meta name="twitter:description" content="המוצרים שלנו - Galia Luxe Art">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","@id":"https://galia-luxe-art.com#organization","name":"Galia Luxe Art","url":"https://galia-luxe-art.com","description":"A luxury art creator specializing in textured paintings and artwork aimed at modern art enthusiasts. The brand revolves around high-end, tactile visual experiences that blend sophistication with artistic expression. The work appeals to collectors and admirers of contemporary art who value quality, uniqueness, and sensory depth in visual art.","address":{"@type":"PostalAddress","streetAddress":"ישראל"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"galia.luxe.art@gmail.com","telephone":"+972-054-7301007"}]},{"@type":"WebSite","@id":"https://galia-luxe-art.com#website","url":"https://galia-luxe-art.com","name":"Galia Luxe Art","publisher":{"@id":"https://galia-luxe-art.com#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://galia-luxe-art.com"},{"@type":"ListItem","position":2,"name":"En","item":"https://galia-luxe-art.com/en"},{"@type":"ListItem","position":3,"name":"Our Creations","item":"https://galia-luxe-art.com/en/our-creations"}]}]}</script>
     <meta property="og:type" content="website">
   <meta property="og:locale" content="he_IL">
   
@@ -227,6 +232,8 @@
   
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <!-- Favicons -->
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
@@ -719,10 +726,16 @@
 </head>
 <body>
 
-
+  <script>
+    window.ZAPPY_WEBSITE_ID = "15049876-f254-4098-bc37-4d4bd4df56ed";
+    // Preview pages are served by the Zappy server itself (localhost in dev), so use that base.
+    // Deployed sites are static and must call the public Zappy API (never localhost).
+    window.ZAPPY_API_BASE = "https://api.zappy5.com";
+  </script>
+  
     <div class="mobile-search-panel" id="mobile-search-panel">
       <div class="search-wrapper">
-        <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
+        <input type="text" id="mobile-search-input" placeholder="חיפוש Products..." autocomplete="off">
         <button class="search-submit" id="mobile-search-submit" title="חיפוש">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
         </button>
@@ -732,8 +745,6 @@
       </div>
       <div class="search-results" id="mobile-search-results"></div>
     </div>
-  
-<script>window.ZAPPY_WEBSITE_ID = "15049876-f254-4098-bc37-4d4bd4df56ed";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -783,537 +794,65 @@
     
   </div>
 </nav>
-<script>
-
-// Navbar Mobile Menu Toggle and Contrast Fix
-(function() {
-  // Use 'load' event instead of 'DOMContentLoaded' to ensure we run AFTER all other scripts
-  window.addEventListener('load', function() {
+  <main class="page-container ecommerce-page">
     
-    // FIX MOBILE BUTTON CONTRAST
-    // Detect navbar background color and apply contrasting color to mobile buttons
-    const navbar = document.querySelector('.navbar, nav, header');
-    if (!navbar) {
-      console.log('[Navbar] Navbar element not found');
-      return;
-    }
-    
-    // DECLARE VARIABLES EARLY to avoid Temporal Dead Zone errors
-    // These are used in multiple places below
-    let mobileToggle = document.getElementById('mobileToggle') ||
-                       document.querySelector('.mobile-toggle') ||
-                       document.querySelector('.hamburger') ||
-                       document.querySelector('.hamburger-menu') ||
-                       document.querySelector('.menu-toggle') ||
-                       document.querySelector('.burger-menu') ||
-                       document.querySelector('[aria-label="Menu"]') ||
-                       document.querySelector('[aria-label="תפריט"]');
-    
-    const phoneBtn = document.querySelector('.phone-header-btn');
-    
-    const computedStyle = window.getComputedStyle(navbar);
-    let bgColor = computedStyle.backgroundColor;
-    
-    console.log('[Navbar] Initial navbar background:', bgColor);
-    
-    // Check if background is transparent or rgba with 0 alpha
-    const isTransparent = bgColor === 'transparent' || 
-                         bgColor === 'rgba(0, 0, 0, 0)' ||
-                         (bgColor.startsWith('rgba') && bgColor.includes(', 0)'));
-    
-    if (isTransparent) {
-      // Check for background-image or gradient
-      const bgImage = computedStyle.backgroundImage;
-      if (bgImage && bgImage !== 'none') {
-        console.log('[Navbar] Navbar has background image/gradient, using dark text');
-        bgColor = 'rgb(240, 240, 240)'; // Assume light background
-      } else {
-        // Transparent navbar - check body background
-        const bodyBg = window.getComputedStyle(document.body).backgroundColor;
-        console.log('[Navbar] Navbar transparent, using body background:', bodyBg);
-        bgColor = bodyBg;
-      }
-    }
-    
-    // Calculate luminance to determine if background is light or dark
-    const rgb = bgColor.match(/\d+/g);
-    if (rgb && rgb.length >= 3) {
-      const r = parseInt(rgb[0]);
-      const g = parseInt(rgb[1]);
-      const b = parseInt(rgb[2]);
-      const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
-      
-      // Mobile button colors are set by Claude's AI-generated CSS (same as .nav-menu a)
-      // No dynamic color overrides needed - colors come from the generated navbar CSS
-      console.log('[Navbar] Mobile button colors preserved from Claude CSS (luminance:', luminance.toFixed(2) + ')');
-      
-      // FIX ICON SIZES - Ensure SVGs are properly sized and visible
-      // INJECT CRITICAL CSS TO OVERRIDE ANY CONFLICTING RULES
-      const criticalCSS = document.createElement('style');
-      criticalCSS.id = 'zappy-mobile-nav-fix';
-      const htmlLang = document.documentElement.lang || 'en';
-      const htmlDir = document.documentElement.dir || 'ltr';
-      // Check both dir attribute AND lang for RTL detection
-      // dir="rtl" is the most reliable indicator
-      const isRTL = htmlDir === 'rtl' || htmlLang === 'he' || htmlLang === 'ar';
-      
-      criticalCSS.textContent = `
-        /* Hide mobile buttons on desktop, show only on mobile */
-        @media (min-width: 769px) {
-          .mobile-toggle,
-          .phone-header-btn {
-            display: none !important;
-          }
-        }
-        
-        /* Show and position mobile buttons correctly on mobile */
-        @media (max-width: 768px) {
-          .mobile-toggle,
-          .phone-header-btn {
-            position: absolute !important;
-            top: 50% !important;
-            transform: translateY(-50%) !important;
-            z-index: 1001 !important;
-            display: flex !important;
-            align-items: center !important;
-            justify-content: center !important;
-            width: 36px !important;
-            height: 36px !important;
-            border-radius: 50% !important;
-            border: none !important;
-            cursor: pointer !important;
-            padding: 6px !important;
-            background: none !important;
-            color: var(--nav-text, var(--text-dark)) !important;
-          }
-          
-          /* LTR positioning (default): hamburger LEFT, phone RIGHT */
-          html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .mobile-toggle,
-          html[dir="ltr"] .mobile-toggle {
-            left: 12px !important;
-            right: auto !important;
-          }
-          html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .phone-header-btn,
-          html[dir="ltr"] .phone-header-btn {
-            right: 12px !important;
-            left: auto !important;
-          }
-          
-          /* RTL positioning: hamburger RIGHT, phone LEFT */
-          html[dir="rtl"] .mobile-toggle,
-          html[lang="he"] .mobile-toggle,
-          html[lang="ar"] .mobile-toggle {
-            right: 12px !important;
-            left: auto !important;
-          }
-          html[dir="rtl"] .phone-header-btn,
-          html[lang="he"] .phone-header-btn,
-          html[lang="ar"] .phone-header-btn {
-            left: 12px !important;
-            right: auto !important;
-          }
-          
-          /* CRITICAL: Ensure nav-container has min-height on mobile */
-          /* All children are positioned absolutely/fixed on mobile, so height:auto collapses to 0 */
-          .nav-container {
-            min-height: 70px !important;
-            position: relative !important;
-          }
-          
-          /* Ensure SVG icons are properly sized and inherit color */
-          .mobile-toggle svg,
-          .phone-header-btn svg {
-            width: 24px !important;
-            height: 24px !important;
-            /* Don't force display - let JavaScript control hamburger/close toggle */
-          }
-          
-          /* Reset nav-cta-container on mobile - remove desktop box-shadow/padding */
-          /* that creates a visible ghost box when CTA button is hidden */
-          .nav-cta-container {
-            box-shadow: none !important;
-            padding: 0 !important;
-          }
-          
-          /* Hide nav-cta-container entirely on mobile when there's no lang-switcher */
-          /* (only the CTA button is inside, and it's hidden on mobile) */
-          .nav-cta-container:not(:has(.lang-switcher)) {
-            display: none !important;
-          }
-          
-          /* CRITICAL: Prevent hero image fade gradient from bleeding over headline text */
-          /* The .image-fade-gradient has bottom: -30px (extends below parent) */
-          /* On mobile stacked layout, this overlaps the h1 text below the image */
-          .hero-image-column {
-            overflow: hidden !important;
-          }
-          .image-fade-gradient {
-            bottom: 0 !important;
-          }
-          
-          /* Hide desktop language switcher on mobile - hamburger menu handles it */
-          /* High specificity to override stored CSS */
-          .lang-switcher,
-          .nav-cta-container .lang-switcher,
-          .nav-container .lang-switcher,
-          .navbar .lang-switcher,
-          .navbar .nav-cta-container .lang-switcher {
-            display: none !important;
-          }
-        }
-      `;
-      
-      // Remove existing fix if present and inject new one
-      const existing = document.getElementById('zappy-mobile-nav-fix');
-      if (existing) existing.remove();
-      document.head.appendChild(criticalCSS);
-      
-      console.log('[Navbar] Critical CSS injected for mobile nav positioning');
-      
-      // ONLY apply inline positioning styles on mobile viewport
-      // On desktop, the CSS handles hiding these buttons with display: none
-      // Inline styles were breaking desktop layout by overriding CSS
-      const isMobileViewport = window.innerWidth <= 768;
-      
-      if (mobileToggle) {
-        // Icon sizing applies to all viewports for consistency
-        const hamburgerIcon = mobileToggle.querySelector('.hamburger-icon');
-        const closeIcon = mobileToggle.querySelector('.close-icon');
-        
-        if (hamburgerIcon) {
-          hamburgerIcon.style.setProperty('width', '24px', 'important');
-          hamburgerIcon.style.setProperty('height', '24px', 'important');
-          hamburgerIcon.style.setProperty('display', 'block', 'important'); // Show hamburger by default
-        }
-        if (closeIcon) {
-          closeIcon.style.setProperty('width', '24px', 'important');
-          closeIcon.style.setProperty('height', '24px', 'important');
-          closeIcon.style.setProperty('display', 'none', 'important'); // Hide close icon by default
-        }
-        
-        // ONLY set positioning inline styles on mobile
-        if (isMobileViewport) {
-          mobileToggle.style.setProperty('position', 'absolute', 'important');
-          mobileToggle.style.setProperty('top', '50%', 'important');
-          mobileToggle.style.setProperty('transform', 'translateY(-50%)', 'important');
-          mobileToggle.style.setProperty('z-index', '1001', 'important');
-          
-          // Clear any inline left/right so CSS can take over based on html[dir]
-          mobileToggle.style.removeProperty('left');
-          mobileToggle.style.removeProperty('right');
-          
-          console.log('[Navbar] Mobile toggle positioning applied (mobile viewport)');
-        } else {
-          // On desktop, clear any positioning styles to let CSS handle it
-          mobileToggle.style.removeProperty('position');
-          mobileToggle.style.removeProperty('top');
-          mobileToggle.style.removeProperty('transform');
-          mobileToggle.style.removeProperty('z-index');
-          mobileToggle.style.removeProperty('left');
-          mobileToggle.style.removeProperty('right');
-          console.log('[Navbar] Desktop viewport - cleared mobile toggle inline positioning');
-        }
-      }
-      
-      if (phoneBtn) {
-        // Icon sizing applies to all viewports
-        const phoneIcon = phoneBtn.querySelector('svg');
-        if (phoneIcon) {
-          phoneIcon.style.width = '24px';
-          phoneIcon.style.height = '24px';
-          phoneIcon.setAttribute('width', '24');
-          phoneIcon.setAttribute('height', '24');
-        }
-        
-        // ONLY set positioning inline styles on mobile
-        if (isMobileViewport) {
-          phoneBtn.style.setProperty('position', 'absolute', 'important');
-          phoneBtn.style.setProperty('top', '50%', 'important');
-          phoneBtn.style.setProperty('transform', 'translateY(-50%)', 'important');
-          phoneBtn.style.setProperty('z-index', '1001', 'important');
-          
-          // Clear any inline left/right so CSS can take over based on html[dir]
-          phoneBtn.style.removeProperty('left');
-          phoneBtn.style.removeProperty('right');
-          
-          console.log('[Navbar] Phone button positioning applied (mobile viewport)');
-        } else {
-          // On desktop, clear any positioning styles to let CSS handle it
-          phoneBtn.style.removeProperty('position');
-          phoneBtn.style.removeProperty('top');
-          phoneBtn.style.removeProperty('transform');
-          phoneBtn.style.removeProperty('z-index');
-          phoneBtn.style.removeProperty('left');
-          phoneBtn.style.removeProperty('right');
-          console.log('[Navbar] Desktop viewport - cleared phone button inline positioning');
-        }
-      }
-    } else {
-      console.log('[Navbar] Could not parse background color:', bgColor);
-    }
-    
-    // MOBILE MENU TOGGLE
-    // Re-query in case DOM changed (mobileToggle already declared at top of function)
-    mobileToggle = document.getElementById('mobileToggle') ||
-                   document.querySelector('.mobile-toggle') ||
-                   document.querySelector('.hamburger') ||
-                   document.querySelector('.hamburger-menu') ||
-                   document.querySelector('.menu-toggle') ||
-                   document.querySelector('.burger-menu') ||
-                   document.querySelector('[aria-label="Menu"]') ||
-                   document.querySelector('[aria-label="תפריט"]');
-    
-    // EXPANDED SEARCH: Find nav menu by ID or class
-    const navMenu = document.getElementById('navMenu') ||
-                  document.querySelector('.nav-menu') ||
-                  document.querySelector('.nav-links') ||
-                  document.querySelector('nav ul:not(.submenu)');
-    
-    if (!mobileToggle || !navMenu) {
-      console.log('[Navbar] Mobile toggle or menu not found:', { toggle: !!mobileToggle, menu: !!navMenu });
-      return;
-    }
-    
-    // Ensure navMenu has ID for CSS targeting
-    if (!navMenu.id) {
-      navMenu.id = 'navMenu';
-    }
-    
-    console.log('[Navbar] Initializing mobile menu...');
-    
-    // Remove any existing event listeners by cloning the button
-    const newToggle = mobileToggle.cloneNode(true);
-    mobileToggle.parentNode.replaceChild(newToggle, mobileToggle);
-    
-    // Toggle menu on button click - use newToggle now
-    newToggle.addEventListener('click', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      
-      const hamburgerIcon = this.querySelector('.hamburger-icon');
-      const closeIcon = this.querySelector('.close-icon');
-      const isActive = navMenu.classList.contains('active');
-      
-      if (isActive) {
-        // Close menu
-        navMenu.classList.remove('active');
-        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'block', 'important');
-        if (closeIcon) closeIcon.style.setProperty('display', 'none', 'important');
-        document.body.style.overflow = '';
-        console.log('[Navbar] Menu closed');
-      } else {
-        // Open menu
-        navMenu.classList.add('active');
-        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'none', 'important');
-        if (closeIcon) closeIcon.style.setProperty('display', 'block', 'important');
-        document.body.style.overflow = 'hidden';
-        console.log('[Navbar] Menu opened');
-      }
-    });
-    
-    // Close menu when clicking nav links (but NOT dropdown toggles)
-    const navLinks = navMenu.querySelectorAll('a');
-    navLinks.forEach(function(link) {
-      link.addEventListener('click', function() {
-        // Don't close if it's a dropdown child (unless it's a real navigation link)
-        if (this.getAttribute('href') === '#') return;
-        
-        const hamburgerIcon = newToggle.querySelector('.hamburger-icon');
-        const closeIcon = newToggle.querySelector('.close-icon');
-        
-        navMenu.classList.remove('active');
-        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'block', 'important');
-        if (closeIcon) closeIcon.style.setProperty('display', 'none', 'important');
-        document.body.style.overflow = '';
-        console.log('[Navbar] Menu closed (link clicked)');
-      });
-    });
-    
-    // DROPDOWN MENU TOGGLE (for mobile and touch devices)
-    var dropdownToggles = navMenu.querySelectorAll('.dropdown-toggle');
-    dropdownToggles.forEach(function(toggle) {
-      toggle.addEventListener('click', function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        var parent = this.closest('.nav-dropdown');
-        if (!parent) return;
-        
-        // Close other open dropdowns at the same level
-        var siblings = parent.parentNode.querySelectorAll('.nav-dropdown.open');
-        siblings.forEach(function(sib) {
-          if (sib !== parent) sib.classList.remove('open');
-        });
-        
-        parent.classList.toggle('open');
-        console.log('[Navbar] Dropdown toggled:', parent.classList.contains('open') ? 'open' : 'closed');
-      });
-    });
-    
-    // Close dropdowns when clicking outside
-    document.addEventListener('click', function(e) {
-      if (!e.target.closest('.nav-dropdown')) {
-        var openDropdowns = document.querySelectorAll('.nav-dropdown.open');
-        openDropdowns.forEach(function(dd) { dd.classList.remove('open'); });
-      }
-    });
-    
-    console.log('[Navbar] Dropdown handlers initialized for ' + dropdownToggles.length + ' dropdowns');
-    
-    // Phone button functionality (phoneBtn already declared at top of function)
-    if (phoneBtn) {
-      phoneBtn.addEventListener('click', function() {
-        // Get phone number from placeholder in page or use default
-        const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
-        const phoneNumber = phoneLinks.length > 0 
-          ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '+972-054-7301007';
-        
-        window.location.href = 'tel:' + phoneNumber;
-        console.log('[Navbar] Phone button clicked');
-      });
-    }
-    
-    console.log('[Navbar] Mobile menu initialized successfully');
-    
-    // WhatsApp button visibility is now controlled via CSS (siteSettings).
-    // No JS-based desktop hiding — the button is visible on both mobile and desktop by default.
-  });
-})();
-
-</script>
-  
-  <main>
-      
-
-<section class="gla-workshops-section" aria-labelledby="gla-workshops-title" id="zappy-section-0">
-  <!-- Background decorative elements -->
-  <div class="gla-workshops-bg-decor" aria-hidden="true">
-    <span class="gla-decor-circle gla-decor-circle--1"></span>
-    <span class="gla-decor-circle gla-decor-circle--2"></span>
-  </div>
-
-  <div class="gla-workshops-container">
-    <!-- Section Header -->
-    <header class="gla-workshops-header">
-      <div class="gla-workshops-badge" aria-hidden="true">✦ Galia Luxe Art ✦</div>
-      <h2 class="gla-workshops-title" id="gla-workshops-title">סדנאות יצירה</h2>
-      <p class="gla-workshops-subtitle">חוויית יצירה ייחודית לכל קהל — בואו ליצור, להנות ולהתחבר</p>
-      <div class="gla-workshops-divider" aria-hidden="true">
-        <span class="gla-divider-line"></span>
-        <span class="gla-divider-gem">◆</span>
-        <span class="gla-divider-line"></span>
-      </div>
-    </header>
-
-    <!-- Cards Grid -->
-    <div class="gla-workshops-grid zappy-preserve-css-grid" role="list" id="zappy-auto-grid-1779781922595-tyc317" data-zappy-auto-grid="true" data-zappy-grid-align="start" data-original-item-width="556" data-original-gap="28px" style="display: grid; --zappy-grid-cols: repeat(2, minmax(0, 1fr)); grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: stretch !important;" data-zappy-explicit-columns="true">
-
-      <!-- Card 1: Adults -->
-      <article class="gla-workshop-card" role="listitem" data-grid-item-index="0">
-        <div class="gla-card-image-wrap">
-          <div data-zappy-zoom-wrapper="true" data-element-id="img-1779781922586-ssq0mujdu" data-element-type="image" data-zappy-zoom-wrapper-width="554px" data-zappy-zoom-wrapper-height="200px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 554px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 200px !important; display: block !important; padding-bottom: 0px !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-card-slot-fill="1"><img src="/assets/image-workshop-adults-1-1779781994933-hi32a6.webp?v=1779781999835" alt="סדנאות יצירה למבוגרים — ציור ואמנות" class="gla-card-image" data-placeholder="workshop-adults-1" data-context="Elegant adult art workshop with paintbrushes and canvas, warm golden lighting, luxurious studio atmosphere, adults painting on canvas" data-element-type="image" data-element-id="img-1779781922586-ssq0mujdu" style="object-position: 50% 33% !important; margin: 0px !important; left: -3% !important; top: -21.1399% !important; width: 106% !important; height: 164.06% !important; max-width: none !important; max-height: none !important; display: block !important; object-fit: cover !important;" data-zappy-zoom="1.06" data-zappy-original-width="554.4000244140625" data-zappy-original-height="200" data-zappy-object-position="50% 33%"></div>
-          <div class="gla-card-image-overlay" aria-hidden="true"></div>
-        </div>
-        <div class="gla-card-inner">
-          <div class="gla-card-icon-wrap" aria-hidden="true">
-            <svg class="gla-card-icon" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-element-type="icon" data-element-id="icon-1779781922586-q2hl7x37n" data-icon-type="svg">
-              <!-- Palette -->
-              <ellipse cx="32" cy="34" rx="20" ry="16" stroke="currentColor" stroke-width="2.5" fill="none"></ellipse>
-              <circle cx="23" cy="28" r="3.5" fill="currentColor"></circle>
-              <circle cx="32" cy="24" r="3.5" fill="currentColor"></circle>
-              <circle cx="41" cy="28" r="3.5" fill="currentColor"></circle>
-              <circle cx="43" cy="38" r="3.5" fill="currentColor"></circle>
-              <circle cx="27" cy="44" r="3.5" fill="currentColor"></circle>
-              <!-- Brush -->
-              <line x1="48" y1="14" x2="38" y2="28" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"></line>
-              <polygon points="48,10 52,14 50,18 44,16" fill="currentColor"></polygon>
-            </svg>
+        <section class="products-section">
+          <h1 id="products-page-title">Our Works</h1>
+          <div class="products-toolbar" id="products-toolbar" style="display:none;">
+            <button class="sidebar-toggle-btn" id="sidebar-toggle-btn" style="display:none;" aria-label="Filter">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h10M4 18h4"></path></svg>
+              <span>Filter</span>
+            </button>
+            <div class="toolbar-left">
+              <span class="products-count" id="products-count"></span>
+            </div>
+            <div class="toolbar-right">
+              <div class="sort-control" id="sort-control" style="display:none;">
+                <select id="sort-select" aria-label="מיון">
+                </select>
+              </div>
+              <div class="view-toggle" id="view-toggle" style="display:none;">
+                <button class="view-btn active" data-view="grid" aria-label="תצוגת רשת">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect></svg>
+                </button>
+                <button class="view-btn" data-view="list" aria-label="תצוגת רשימה">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"></path></svg>
+                </button>
+              </div>
+            </div>
           </div>
-          <h3 class="gla-card-title">למבוגרים</h3>
-          <p class="gla-card-desc">סדנאות תוכן וחוויה במגוון תחומי יצירה — הזדמנות להתנתק, לחקור ולבטא את עצמך דרך האמנות.</p>
-          <div class="gla-card-accent-line" aria-hidden="true"></div>
-          <ul class="gla-card-features" aria-label="תכונות הסדנה למבוגרים">
-            <li>ציור על בד וקנבס</li>
-            <li>עבודה עם חומרים מגוונים</li>
-            <li>הדרכה אישית ומקצועית</li>
-          </ul>
-        </div>
-      </article>
-
-      <!-- Card 2: Companies & Organizations -->
-      <article class="gla-workshop-card gla-workshop-card--featured" role="listitem" data-grid-item-index="1">
-        
-        <div class="gla-card-image-wrap">
-          <div data-zappy-zoom-wrapper="true" data-element-id="img-1779781922586-czsjqgenu" data-element-type="image" data-zappy-zoom-wrapper-width="554px" data-zappy-zoom-wrapper-height="200px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 554px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 200px !important; display: block !important; padding-bottom: 0px !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-card-slot-fill="1"><img src="/assets/image-workshop-corporate-1-1779782059585-1s7sc5.webp?v=1779782061972" alt="סדנאות גיבוש לחברות וארגונים" class="gla-card-image" data-placeholder="workshop-corporate-1" data-context="Corporate team building art workshop, group of professionals collaborating on creative painting activity, warm studio setting, team bonding experience" data-element-type="image" data-element-id="img-1779781922586-czsjqgenu" style="object-position: 50% 33% !important; margin: 0px !important; left: -3% !important; top: -21.1399% !important; width: 106% !important; height: 164.06% !important; max-width: none !important; max-height: none !important; display: block !important; object-fit: cover !important;" data-zappy-zoom="1.06" data-zappy-original-width="554.4000244140625" data-zappy-original-height="200" data-zappy-object-position="50% 33%"></div>
-          <div class="gla-card-image-overlay" aria-hidden="true"></div>
-        </div>
-        <div class="gla-card-inner">
-          <div class="gla-card-icon-wrap" aria-hidden="true">
-            <svg class="gla-card-icon" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-element-type="icon" data-element-id="icon-1779781922586-jt6wqoyw2" data-icon-type="svg">
-              <!-- People group -->
-              <circle cx="20" cy="22" r="7" stroke="currentColor" stroke-width="2.5" fill="none"></circle>
-              <circle cx="44" cy="22" r="7" stroke="currentColor" stroke-width="2.5" fill="none"></circle>
-              <circle cx="32" cy="19" r="8" stroke="currentColor" stroke-width="2.5" fill="none"></circle>
-              <path d="M8 48 C8 38 16 34 20 34 C22 34 24 35 26 36" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" fill="none"></path>
-              <path d="M56 48 C56 38 48 34 44 34 C42 34 40 35 38 36" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" fill="none"></path>
-              <path d="M20 50 C20 40 25 36 32 36 C39 36 44 40 44 50" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" fill="none"></path>
-            </svg>
+          <div class="products-layout" id="products-layout">
+            <aside class="product-sidebar" id="product-sidebar" style="display:none;"></aside>
+            <div class="products-main">
+              <div class="product-grid" id="zappy-product-grid">
+                <div class="loading-products">טוען Products...</div>
+              </div>
+            </div>
           </div>
-          <h3 class="gla-card-title">לחברות וארגונים</h3>
-          <p class="gla-card-desc">ימי גיבוש ואירועים עסקיים בלתי נשכחים — חוויה יצירתית שמחזקת צוותים ויוצרת זיכרונות משותפים.</p>
-          <div class="gla-card-accent-line" aria-hidden="true"></div>
-          <ul class="gla-card-features" aria-label="תכונות הסדנה לחברות">
-            <li>ימי גיבוש מותאמים אישית</li>
-            <li>אירועי חברה ייחודיים</li>
-            <li>חיזוק רוח הצוות</li>
-          </ul>
-        </div>
-      </article>
-
-      <!-- Card 3: Kids & Youth -->
-      <article class="gla-workshop-card" role="listitem" data-grid-item-index="2" >
-        <div class="gla-card-image-wrap">
-          <div data-zappy-zoom-wrapper="true" data-element-id="img-1779781922586-6pk60qezv" data-element-type="image" data-zappy-zoom-wrapper-width="554px" data-zappy-zoom-wrapper-height="200px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 554px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 200px !important; display: block !important; padding-bottom: 0px !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-card-slot-fill="1"><img src="/assets/image-workshop-kids-1-1779782122186-jolcvm.webp?v=1779782124875" alt="סדנאות יצירה לילדים ונוער — ימי הולדת ואבני חן" class="gla-card-image" data-placeholder="workshop-kids-1" data-context="Children art workshop with gemstones and painting, colorful creative activity, kids enjoying birthday party art session, joyful and vibrant atmosphere" data-element-type="image" data-element-id="img-1779781922586-6pk60qezv" style="display: block; object-fit: cover; object-position: 50% 33% !important; margin: 0px !important; left: -3% !important; top: -60.187% !important; width: 106% !important; height: 220.374% !important; max-width: none !important; max-height: none !important;" data-zappy-zoom="1.06" data-zappy-original-width="554.4000244140625" data-zappy-original-height="200" data-zappy-object-position="50% 33%"></div>
-          <div class="gla-card-image-overlay" aria-hidden="true"></div>
-        </div>
-        <div class="gla-card-inner">
-          <div class="gla-card-icon-wrap" aria-hidden="true">
-            <svg class="gla-card-icon" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-element-type="icon" data-element-id="icon-1779781922586-gsmgfphxh" data-icon-type="svg">
-              <!-- Star -->
-              <polygon points="32,8 37,24 54,24 40,34 45,50 32,40 19,50 24,34 10,24 27,24" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round" fill="none"></polygon>
-              <!-- Gem inside -->
-              <polygon points="32,18 38,26 32,34 26,26" stroke="currentColor" stroke-width="1.5" fill="currentColor" opacity="0.3"></polygon>
-            </svg>
-          </div>
-          <h3 class="gla-card-title">לילדים ונוער</h3>
-          <p class="gla-card-desc">ימי הולדת, עבודה מעשית על תמונה או עם אבני חן — פעילויות יצירתיות, מעצימות ומלאות הנאה.</p>
-          <div class="gla-card-accent-line" aria-hidden="true"></div>
-          <ul class="gla-card-features" aria-label="תכונות הסדנה לילדים">
-            <li>ימי הולדת מיוחדים</li>
-            <li>עבודה עם אבני חן</li>
-            <li>פעילויות מעצימות לנוער</li>
-          </ul>
-        </div>
-      </article>
-
-    </div><!-- /.gla-workshops-grid -->
-
-    <!-- CTA Button -->
-    <div class="gla-workshops-cta">
-      <p style="text-align: center !important; display: flex !important; justify-content: center !important; align-items: flex-start !important; width: 100% !important;"><a href="/contact" class="gla-cta-btn" aria-label="צרו קשר לפרטים ורישום לסדנאות" data-element-type="button" data-element-id="btn-1779781922584-00c0nckll" data-native-element="true" style="border-color: transparent !important; color: rgb(255, 255, 255) !important; background-color: transparent !important; background-image: linear-gradient(135deg, rgb(180, 160, 125), rgb(197, 182, 156)) !important;">
-        <span class="gla-cta-btn-text">לפרטים ורישום</span>
-        <span class="gla-cta-btn-icon" aria-hidden="true">←</span>
-      </a>
-      </p><p class="gla-cta-note">נשמח לעזור לכם לבחור את הסדנה המתאימה</p>
-    </div>
-
-  </div><!-- /.gla-workshops-container -->
-</section>
-
-
-    </main>
+        </section>
+      
+  </main>
   
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1399,11 +938,107 @@
   </div>
 </footer>
   
-  <a href="https://wa.me/9720547301007" class="whatsapp-float" aria-label="WhatsApp">
-    <i class="fab fa-whatsapp"></i>
-  </a>
-  
-  <div data-integration="accessibility:toolbar"></div>
+<div class="cart-drawer-overlay" id="cart-drawer-overlay"></div>
+<aside class="cart-drawer" id="cart-drawer">
+  <div class="cart-drawer-header">
+    <h2>Your Shopping Cart</h2>
+    <button type="button" class="cart-drawer-close" id="cart-drawer-close" aria-label="סגור">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
+    </button>
+  </div>
+  <div class="cart-drawer-body" id="cart-drawer-items">
+    <div class="empty-cart">העגלה ריקה</div>
+  </div>
+  <div class="cart-drawer-footer">
+    <div class="cart-drawer-total">
+      <span>Total:</span>
+      <span id="cart-drawer-total">₪0</span>
+    </div>
+    <a href="/checkout" class="cart-drawer-checkout">המשך לCheckout</a>
+  </div>
+</aside>
+  <script>
+  <!-- Search handling for e-commerce pages -->
+  (function() {
+    // Unified search function that works in both preview and deployed modes
+    function performSearch(query) {
+      if (query.length < 2) return;
+      
+      // Check if we're in preview mode (URL contains preview-fullscreen)
+      var isPreview = window.location.pathname.includes('preview-fullscreen');
+      
+      if (isPreview) {
+        // In preview mode, update the page parameter and add search
+        var url = new URL(window.location.href);
+        url.searchParams.set('page', '/products');
+        url.searchParams.set('search', query);
+        window.location.href = url.toString();
+      } else {
+        // In deployed mode, navigate to products with search
+        window.location.href = '/products?search=' + encodeURIComponent(query);
+      }
+    }
+    
+    // Handle navbar search input
+    var navSearchInput = document.querySelector('.nav-search-input');
+    if (navSearchInput) {
+      navSearchInput.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          performSearch(this.value.trim());
+        }
+      });
+    }
+    
+    // Handle mobile search panel
+    var mobileSearchInput = document.getElementById('mobile-search-input');
+    var mobileSearchPanel = document.getElementById('mobile-search-panel');
+    var closeMobileSearch = document.getElementById('close-mobile-search');
+    var searchToggle = document.querySelector('.nav-search-toggle');
+    
+    // Open mobile search panel
+    if (searchToggle && mobileSearchPanel) {
+      searchToggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        mobileSearchPanel.classList.add('active');
+        if (mobileSearchInput) {
+          setTimeout(function() { mobileSearchInput.focus(); }, 100);
+        }
+      });
+    }
+    
+    // Close mobile search panel
+    if (closeMobileSearch && mobileSearchPanel) {
+      closeMobileSearch.addEventListener('click', function() {
+        mobileSearchPanel.classList.remove('active');
+        if (mobileSearchInput) mobileSearchInput.value = '';
+      });
+    }
+    
+    // Handle Enter key on mobile search
+    if (mobileSearchInput) {
+      mobileSearchInput.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          performSearch(this.value.trim());
+        }
+      });
+    }
+    
+    // Handle search query from URL on load
+    var urlParams = new URLSearchParams(window.location.search);
+    var searchQuery = urlParams.get('search');
+    if (searchQuery) {
+      if (navSearchInput) navSearchInput.value = searchQuery;
+      if (mobileSearchInput) mobileSearchInput.value = searchQuery;
+      console.log('[E-COMMERCE] Search query from URL:', searchQuery);
+    }
+  })();
+  </script>
+    <div data-integration="accessibility:toolbar"></div>
+
+  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
 
     <script src="/script.js"></script>
 
@@ -1455,148 +1090,6 @@
           observer.observe(menu, { attributes: true, attributeFilter: ['class', 'style'] });
         });
       }, 500);
-    })();
-    </script>
-
-    <script>
-    (function(){
-      var _applied=false;
-      function _isHeroBg(w){var img=w.querySelector('img');if(img&&(img.getAttribute('data-hero-bg')==='true'||img.getAttribute('data-hero-background')==='true'))return true;var p=(w.style.position||'').replace(/\s*!important\s*/g,'').trim();var ww=(w.style.width||'').replace(/\s*!important\s*/g,'').trim();var hh=(w.style.height||'').replace(/\s*!important\s*/g,'').trim();return p==='absolute'&&ww==='100%'&&hh==='100%';}
-      function fixDesktopWrappers(){
-        // No-op: desktop wrapper restoration is handled by ZAPPY_PUBLISHED_ZOOM_WRAPPER_RUNTIME
-        // in script.js (restoreWrapperDimensions). The old inflation logic here was expanding
-        // small wrappers (e.g. 139px logo wrappers) to their parent width, conflicting with
-        // the correct stored dimensions.
-      }
-      function _parsePos(s){var x=50,y=50;try{var m=(s||'').match(/(-?d+(?:.d+)?)%s+(-?d+(?:.d+)?)%/);if(m){x=parseFloat(m[1]);y=parseFloat(m[2]);}}catch(e){}if(!isFinite(x))x=50;if(!isFinite(y))y=50;return{x:Math.max(0,Math.min(100,x)),y:Math.max(0,Math.min(100,y))};}
-      function _coverPct(iA,cA){if(!isFinite(iA)||iA<=0||!isFinite(cA)||cA<=0)return{w:100,h:100};if(iA>=cA)return{w:(iA/cA)*100,h:100};return{w:100,h:(cA/iA)*100};}
-      function applyMobile(){
-        if(_applied)return;_applied=true;
-        document.querySelectorAll('[data-zappy-zoom-wrapper="true"]').forEach(function(w){
-          if(_isHeroBg(w))return;
-          var cw=w.style.getPropertyValue('width');
-          var _sW=parseFloat(w.getAttribute('data-zappy-zoom-wrapper-width'))||0;
-          var _sH=parseFloat(w.getAttribute('data-zappy-zoom-wrapper-height'))||0;
-          if(!cw&&!(_sW>0&&_sH>0))return;
-          if(!w._zappyDesktop)w._zappyDesktop={wStyle:w.getAttribute('style')};
-          var img=w.querySelector('img');
-          if(!img)return;
-          if(!img._zappyDesktop)img._zappyDesktop={src:img.getAttribute('src'),style:img.getAttribute('style')};
-          var mobileZoomStr=img.getAttribute('data-zappy-mobile-zoom');
-          var mobileZoom=parseFloat(mobileZoomStr);
-          var mobileSrc=img.getAttribute('data-zappy-mobile-src');
-          var mobilePos=img.getAttribute('data-zappy-mobile-object-position');
-          var parentOvf=w.parentElement?((w.parentElement.style.overflow||'')+(window.getComputedStyle(w.parentElement).overflow||'')).trim():'';
-          var inConstrainedParent=parentOvf.indexOf('hidden')!==-1||parentOvf.indexOf('clip')!==-1;
-          if(inConstrainedParent){
-            w.style.setProperty('max-width','100%','important');
-          }else{
-            w.style.setProperty('width','100%','important');
-            w.style.setProperty('max-width','100%','important');
-          }
-          if(mobileSrc)img.src=mobileSrc;
-          function _applyZoomCrop(_img,_w,_ePos,_eZoom){
-            var rect=_w.getBoundingClientRect();
-            if(!rect||!rect.width||!rect.height)return;
-            var nW=_img.naturalWidth||0,nH=_img.naturalHeight||0;
-            if(!(nW>0&&nH>0))return;
-            var iA=nW/nH,cA=rect.width/rect.height;
-            var cv=_coverPct(iA,cA);
-            var wP=100,hP=100;
-            if(_eZoom>=1){wP=cv.w*_eZoom;hP=cv.h*_eZoom;}
-            else{var t2=(_eZoom-0.5)/0.5;if(!isFinite(t2))t2=0;t2=Math.max(0,Math.min(1,t2));wP=100+t2*(cv.w-100);hP=100+t2*(cv.h-100);}
-            var p2=_parsePos(_ePos);
-            var lP=(100-wP)*(p2.x/100);
-            var tP=(100-hP)*(p2.y/100);
-            _img.style.setProperty('position','absolute','important');
-            _img.style.setProperty('left',lP+'%','important');
-            _img.style.setProperty('top',tP+'%','important');
-            _img.style.setProperty('width',wP+'%','important');
-            _img.style.setProperty('height',hP+'%','important');
-            _img.style.setProperty('max-width','none','important');
-            _img.style.setProperty('max-height','none','important');
-            _img.style.setProperty('display','block','important');
-            _img.style.setProperty('object-fit',_eZoom<1?'fill':'cover','important');
-            _img.style.setProperty('transform','none','important');
-            _img.style.setProperty('margin','0','important');
-          }
-          if(_sW>0&&_sH>0){
-            var effZoom=(isFinite(mobileZoom)&&mobileZoom>0)?mobileZoom:(parseFloat(img.getAttribute('data-zappy-zoom'))||1);
-            var effPos=mobilePos||img.getAttribute('data-zappy-object-position')||img.style.objectPosition||'50% 50%';
-            w.style.setProperty('overflow','hidden','important');
-            w.style.setProperty('position','relative','important');
-            w.style.setProperty('width','100%','important');
-            w.style.setProperty('max-width','100%','important');
-            if(_sW>0&&_sH>0){w.style.setProperty('padding-bottom','0','important');w.style.setProperty('aspect-ratio',_sW+'/'+_sH,'important');w.style.setProperty('height','auto','important');}
-            _applyZoomCrop(img,w,effPos,effZoom);
-            if(!(img.complete&&img.naturalWidth>0)){
-              (function(_i,_w2,_p,_z){_i.addEventListener('load',function _ol(){_i.removeEventListener('load',_ol);try{_applyZoomCrop(_i,_w2,_p,_z);}catch(e){}});
-              })(img,w,effPos,effZoom);
-            }
-          }else{
-            if(!inConstrainedParent)w.style.setProperty('height','auto','important');
-            img.style.setProperty('position','relative','important');
-            img.style.setProperty('width','100%','important');
-            img.style.setProperty('height','auto','important');
-            img.style.setProperty('max-width','100%','important');
-            img.style.setProperty('max-height',inConstrainedParent?'none':'400px','important');
-            img.style.setProperty('object-fit','cover','important');
-            img.style.setProperty('left','0','important');
-            img.style.setProperty('top','0','important');
-            img.style.setProperty('transform','none','important');
-          }
-        });
-        document.querySelectorAll('img[data-zappy-mobile-src],img[data-zappy-mobile-object-position],img[data-zappy-mobile-zoom]').forEach(function(img){
-          var zw=img.closest('[data-zappy-zoom-wrapper="true"]');
-          if(zw&&!_isHeroBg(zw))return;
-          if(!img._zappyDesktop)img._zappyDesktop={src:img.getAttribute('src'),style:img.getAttribute('style')};
-          var mobileSrc=img.getAttribute('data-zappy-mobile-src');
-          var mobilePos=img.getAttribute('data-zappy-mobile-object-position');
-          var mobileZoom=parseFloat(img.getAttribute('data-zappy-mobile-zoom'));
-          if(mobileSrc)img.src=mobileSrc;
-          if(mobilePos)img.style.setProperty('object-position',mobilePos,'important');
-          if(mobileZoom>1){
-            img.style.setProperty('transform','scale('+mobileZoom+')','important');
-            img.style.setProperty('transform-origin',mobilePos||'50% 50%','important');
-            var p=img.parentElement;
-            if(p)p.style.setProperty('overflow','hidden','important');
-          }
-        });
-      }
-      function revertDesktop(){
-        if(!_applied)return;_applied=false;
-        document.querySelectorAll('[data-zappy-zoom-wrapper="true"]').forEach(function(w){
-          if(w._zappyDesktop&&w._zappyDesktop.wStyle!=null){w.setAttribute('style',w._zappyDesktop.wStyle);}
-          var img=w.querySelector('img');
-          if(img&&img._zappyDesktop){
-            if(img._zappyDesktop.src!=null)img.setAttribute('src',img._zappyDesktop.src);
-            if(img._zappyDesktop.style!=null)img.setAttribute('style',img._zappyDesktop.style);
-            else img.removeAttribute('style');
-          }
-        });
-        document.querySelectorAll('img[data-zappy-mobile-src],img[data-zappy-mobile-object-position],img[data-zappy-mobile-zoom]').forEach(function(img){
-          var zw=img.closest('[data-zappy-zoom-wrapper="true"]');
-          if(zw&&!_isHeroBg(zw))return;
-          if(img._zappyDesktop){
-            if(img._zappyDesktop.src!=null)img.setAttribute('src',img._zappyDesktop.src);
-            if(img._zappyDesktop.style!=null)img.setAttribute('style',img._zappyDesktop.style);
-            else img.removeAttribute('style');
-          }
-        });
-        _fixHeroBgWrappers();
-        fixDesktopWrappers();
-      }
-      function _fixHeroBgWrappers(){var isMob=window.innerWidth<=768;document.querySelectorAll('[data-zappy-zoom-wrapper="true"]').forEach(function(w){if(!_isHeroBg(w))return;w.style.setProperty('position','absolute','important');w.style.setProperty('top','0','important');w.style.setProperty('left','0','important');w.style.setProperty('width','100%','important');w.style.setProperty('height','100%','important');w.style.setProperty('max-width','none','important');w.style.setProperty('overflow','hidden','important');w.setAttribute('data-zappy-zoom-wrapper-width-mode','full');var img=w.querySelector('img');if(img){img.style.setProperty('width','100%','important');img.style.setProperty('height','100%','important');img.style.setProperty('object-fit','cover','important');img.style.setProperty('position','relative','important');img.style.setProperty('top','0','important');img.style.setProperty('left','0','important');img.style.setProperty('max-width','none','important');img.style.setProperty('max-height','none','important');img.style.setProperty('display','block','important');if(isMob){var mSrc=img.getAttribute('data-zappy-mobile-src');var mPos=img.getAttribute('data-zappy-mobile-object-position');var mZoom=parseFloat(img.getAttribute('data-zappy-mobile-zoom'));if(mSrc){if(!img._zappyDesktop)img._zappyDesktop={src:img.getAttribute('src'),style:img.getAttribute('style')};img.src=mSrc;}if(mPos)img.style.setProperty('object-position',mPos,'important');if(mZoom>1){img.style.setProperty('transform','scale('+mZoom+')','important');img.style.setProperty('transform-origin',mPos||'50% 50%','important');}}}});}
-      function init(){
-        _fixHeroBgWrappers();
-        var mq=window.matchMedia('(max-width:768px)');
-        function onChange(e){if(e.matches)applyMobile();else revertDesktop();}
-        if(mq.matches)applyMobile();
-        else fixDesktopWrappers();
-        try{mq.addEventListener('change',onChange);}catch(e){mq.addListener(onChange);}
-      }
-      if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);
-      else setTimeout(init,50);
     })();
     </script>
 </body>
