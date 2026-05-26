@@ -1,21 +1,21 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T14:33:13.519Z",
+  "generated_at": "2026-05-26T14:34:03.666Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
   "count": 11,
   "products": [
     {
       "id": "091fc58f-6d65-47bd-855f-4b5c0b88cb5b",
-      "slug": "hchtvl-hnvtsts-the-sparkling-cat-e0f5f4",
+      "slug": "hchtvl-hnvtsts-the-sparkling-cat-6498g3",
       "name": "החתול הנוצץ - The Sparkling Cat",
       "name_translations": {},
       "description": "<p>&nbsp;פרטים טכניים:</p><p>• סגנון: פסל דקורטיבי בעבודת יד.</p><p>• טכניקה: שיבוץ ידני של 12,000 קריסטלים.</p><p>• משמעות: שילוב בין יופי, אסתטיקה ויוקרה.</p>",
       "short_description": "יצירת אמנות ייחודית במינה המעוטרת ב-12,000 קריסטלים מנצנצים, ששובצו בעבודת יד קפדנית וסבלנית. כל קריסטל מונח במקומו כדי ליצור משחק אור וצל מהפנט. זהו פריט עיצובי יוקרתי שמעניק סטייל ואופי לכל פינה בבית.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 1500,
+      "base_price": 1500,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/hchtvl-hnvtsts-the-sparkling-cat-e0f5f4",
+      "url": "https://galia-luxe-art.com/product/hchtvl-hnvtsts-the-sparkling-cat-6498g3",
       "categories": [],
-      "updated_at": "2026-05-26T14:32:42.474Z"
+      "updated_at": "2026-05-26T14:33:32.450Z"
     },
     {
       "id": "6f571a1a-0f13-4771-80f4-edb9046c10d8",
