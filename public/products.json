@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T14:18:39.310Z",
+  "generated_at": "2026-05-26T14:21:50.022Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 7,
+  "count": 8,
   "products": [
+    {
+      "id": "7515c959-2aa8-4294-a2f0-5a7a7b5b96a7",
+      "slug": "hnchsh-the-serpent-6fpdnk",
+      "name": "הנחש - The Serpent",
+      "name_translations": {},
+      "description": "<p>פרטים טכניים:</p><p>• תשתית: זכוכית מט יוקרתית במסגרת שחורה.</p><p>• גודל: 50x27 ס\"מ.</p><p>• חומרים: שיבוץ ידני של קריסטלים ליצירת מראה תלת-ממדי.</p><p>• מוכן לתלייה: מגיע ממוסגר ומוכן לשדרג את המשרד או את חדר העבודה שלכם.</p>",
+      "short_description": "הנחש, שנוצר בעבודת יד מוקפדת עם אלפי קריסטלים מנצנצים על זכוכית מט, פשוט מתעורר לחיים עם כל תנועה. כל זווית וכל סוג של אור (טבעי או מלאכותי) חושפים משחק מהפנט של ניצנוץ ועומק, והופכים את היצירה הזו למוקד תשומת הלב המרכזי בכל חלל.",
+      "sku": null,
+      "brand": null,
+      "price": 1200,
+      "base_price": 1200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779805226260-oww6oi.webp",
+        "https://galia-luxe-art.com/assets/product-1779805233720-uymqsg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/hnchsh-the-serpent-6fpdnk",
+      "categories": [],
+      "updated_at": "2026-05-26T14:21:18.715Z"
+    },
     {
       "id": "2933dac2-4c0f-4a59-a7e9-59c98554b35d",
       "slug": "svsvn-hym-the-seahorse-cgk8c5",

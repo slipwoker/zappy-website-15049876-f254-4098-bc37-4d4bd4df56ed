@@ -170,7 +170,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 7**
+**Total active products: 8**
+
+### הנחש - The Serpent
+https://galia-luxe-art.com/product/hnchsh-the-serpent-6fpdnk
+- Price: 1200.00 ILS
+- Availability: In stock
+- Description: הנחש, שנוצר בעבודת יד מוקפדת עם אלפי קריסטלים מנצנצים על זכוכית מט, פשוט מתעורר לחיים עם כל תנועה. כל זווית וכל סוג של אור (טבעי או מלאכותי) חושפים משחק מהפנט של ניצנוץ ועומק, והופכים את היצירה הזו למוקד תשומת הלב המרכזי בכל חלל.
+- Image: https://galia-luxe-art.com/assets/product-1779805226260-oww6oi.webp
 
 ### סוסון הים - The Seahorse
 https://galia-luxe-art.com/product/svsvn-hym-the-seahorse-cgk8c5
