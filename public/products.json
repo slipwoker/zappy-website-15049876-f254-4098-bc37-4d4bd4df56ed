@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T07:32:09.700Z",
+  "generated_at": "2026-05-26T07:33:42.613Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 2,
+  "count": 3,
   "products": [
+    {
+      "id": "e4200011-8d07-4842-bb33-6a2f6518c375",
+      "slug": "ynshvp-hchvkmh-ka3mh0",
+      "name": "ינשוף החוכמה",
+      "name_translations": {},
+      "description": "<p><br></p><p>ינשוף החוכמה — The Owl of Wisdom</p><p>היצירה המהפנטת הזו כבר מצאה את מקומה בבית חדש. השילוב של טקסטורה עשירה, עלי זהב וקריסטלים מעניק לינשוף מראה מלכותי ומסתורי שאי אפשר להתעלם ממנו.</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779780771946-bjd4ip.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://galia-luxe-art.com/product/ynshvp-hchvkmh-ka3mh0",
+      "categories": [],
+      "updated_at": "2026-05-26T07:33:11.312Z"
+    },
     {
       "id": "fa0d17c8-861d-4a18-865e-897c3ee57fb1",
       "slug": "avtsmh-shkth-rpw0ns",
