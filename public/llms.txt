@@ -14,13 +14,91 @@ https://galia-luxe-art.com
 https://galia-luxe-art.com/our-creations
 המוצרים שלנו - Galia Luxe Art
 
-### Products - Galia Luxe Art
-https://galia-luxe-art.com/en/products
-המוצרים שלנו - Galia Luxe Art
-
 ### האמנית מאחורי כל מגע של יוקרה — Galia Luxe Art
 https://galia-luxe-art.com/about
 הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
+
+### Page
+https://galia-luxe-art.com/workshops
+
+### Превратите дизайнерскую мечту в реальность — Galia Luxe Art
+https://galia-luxe-art.com/ru/contact
+רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
+
+### Art and Creation — Galia Luxe Art
+https://galia-luxe-art.com/en/
+תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
+
+### Order Received! - Galia Luxe Art
+https://galia-luxe-art.com/en/order-success
+תודה על ההזמנה
+
+### Product Details - Galia Luxe Art
+https://galia-luxe-art.com/en/product/:slug
+פרטי המוצר - Galia Luxe Art
+
+### Products - Galia Luxe Art
+https://galia-luxe-art.com/en/category/:slug
+מוצרים - Galia Luxe Art
+
+### Искусство и творчество — Galia Luxe Art
+https://galia-luxe-art.com/ru/
+תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
+
+### Продукты - Galia Luxe Art
+https://galia-luxe-art.com/ru/products
+המוצרים שלנו - Galia Luxe Art
+
+### Наши работы
+https://galia-luxe-art.com/ru/our-work
+תיק העבודות של גליה לוקס ארט מציג אמנות טקסטורה מרהיבה לבית ולמשרד. כל יצירה היא עולם בפני עצמו — גלו את הקולקציה המלאה ומצאו את היצירה שמדברת אליכם.
+
+### Художница за каждым прикосновением роскоши — Galia Luxe Art
+https://galia-luxe-art.com/ru/about
+הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
+
+### Корзина - Galia Luxe Art
+https://galia-luxe-art.com/ru/cart
+עגלת הקניות שלך
+
+### Оплата - Galia Luxe Art
+https://galia-luxe-art.com/ru/checkout
+תשלום
+
+### Вход — Galia Luxe Art
+https://galia-luxe-art.com/ru/login
+התחברות לקוחות
+
+### Мой аккаунт - Galia Luxe Art
+https://galia-luxe-art.com/ru/account
+החשבון שלי
+
+### Заказ получен! - Galia Luxe Art
+https://galia-luxe-art.com/ru/order-success
+תודה על ההזמנה
+
+### Детали товара - Galia Luxe Art
+https://galia-luxe-art.com/ru/product/:slug
+פרטי המוצר - Galia Luxe Art
+
+### Продукты - Galia Luxe Art
+https://galia-luxe-art.com/ru/category/:slug
+מוצרים - Galia Luxe Art
+
+### היצירות שלנו (EN)
+https://galia-luxe-art.com/en/our-creations
+המוצרים שלנו - Galia Luxe Art
+
+### /en/workshops
+https://galia-luxe-art.com/en/workshops
+
+### הפכו חלום עיצובי למציאות — Galia Luxe Art
+https://galia-luxe-art.com/contact
+רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
+
+### Products - Galia Luxe Art
+https://galia-luxe-art.com/en/products
+המוצרים שלנו - Galia Luxe Art
 
 ### Turn a Design Dream into Reality — Galia Luxe Art
 https://galia-luxe-art.com/en/contact
@@ -73,84 +151,6 @@ https://galia-luxe-art.com/en/login
 ### My Account - Galia Luxe Art
 https://galia-luxe-art.com/en/account
 החשבון שלי
-
-### Art and Creation — Galia Luxe Art
-https://galia-luxe-art.com/en/
-תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
-
-### Order Received! - Galia Luxe Art
-https://galia-luxe-art.com/en/order-success
-תודה על ההזמנה
-
-### Product Details - Galia Luxe Art
-https://galia-luxe-art.com/en/product/:slug
-פרטי המוצר - Galia Luxe Art
-
-### Products - Galia Luxe Art
-https://galia-luxe-art.com/en/category/:slug
-מוצרים - Galia Luxe Art
-
-### Искусство и творчество — Galia Luxe Art
-https://galia-luxe-art.com/ru/
-תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
-
-### Продукты - Galia Luxe Art
-https://galia-luxe-art.com/ru/products
-המוצרים שלנו - Galia Luxe Art
-
-### Наши работы
-https://galia-luxe-art.com/ru/our-work
-תיק העבודות של גליה לוקס ארט מציג אמנות טקסטורה מרהיבה לבית ולמשרד. כל יצירה היא עולם בפני עצמו — גלו את הקולקציה המלאה ומצאו את היצירה שמדברת אליכם.
-
-### Художница за каждым прикосновением роскоши — Galia Luxe Art
-https://galia-luxe-art.com/ru/about
-הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
-
-### Превратите дизайнерскую мечту в реальность — Galia Luxe Art
-https://galia-luxe-art.com/ru/contact
-רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
-
-### Корзина - Galia Luxe Art
-https://galia-luxe-art.com/ru/cart
-עגלת הקניות שלך
-
-### Оплата - Galia Luxe Art
-https://galia-luxe-art.com/ru/checkout
-תשלום
-
-### Вход — Galia Luxe Art
-https://galia-luxe-art.com/ru/login
-התחברות לקוחות
-
-### Мой аккаунт - Galia Luxe Art
-https://galia-luxe-art.com/ru/account
-החשבון שלי
-
-### Заказ получен! - Galia Luxe Art
-https://galia-luxe-art.com/ru/order-success
-תודה על ההזמנה
-
-### Детали товара - Galia Luxe Art
-https://galia-luxe-art.com/ru/product/:slug
-פרטי המוצר - Galia Luxe Art
-
-### Продукты - Galia Luxe Art
-https://galia-luxe-art.com/ru/category/:slug
-מוצרים - Galia Luxe Art
-
-### הפכו חלום עיצובי למציאות — Galia Luxe Art
-https://galia-luxe-art.com/contact
-רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
-
-### Page
-https://galia-luxe-art.com/workshops
-
-### היצירות שלנו (EN)
-https://galia-luxe-art.com/en/our-creations
-המוצרים שלנו - Galia Luxe Art
-
-### /en/workshops
-https://galia-luxe-art.com/en/workshops
 
 ## Legal & Policy
 
