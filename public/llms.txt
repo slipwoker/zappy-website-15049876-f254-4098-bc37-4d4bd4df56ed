@@ -170,7 +170,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 9**
+**Total active products: 10**
+
+### שורשים של מולדת - Roots of the Homeland
+https://galia-luxe-art.com/product/shvrshym-shl-mvldt-roots-of-the-homeland-0gqngk
+- Price: 4200.00 ILS
+- Availability: In stock
+- Description: יצירה המשלבת את המפות הגיאוגרפיות של ישראל עם דמותו של עץ הזית, סמל עתיק של שלום, שורשים וחיבור נצחי. זוהי לא רק אמנות, אלא פיסה של היסטוריה ותרבות שמעניקה לחלל שלכם עומק ומשמעות.
+- Image: https://galia-luxe-art.com/assets/product-1779805820706-g5jtj9.webp
 
 ### אלגנטיות מוזהבת - Golden Majesty
 https://galia-luxe-art.com/product/algntyvt-mvzhbt-golden-majesty-rcacxq

@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T14:29:50.688Z",
+  "generated_at": "2026-05-26T14:31:22.520Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 9,
+  "count": 10,
   "products": [
+    {
+      "id": "6f571a1a-0f13-4771-80f4-edb9046c10d8",
+      "slug": "shvrshym-shl-mvldt-roots-of-the-homeland-0gqngk",
+      "name": "שורשים של מולדת - Roots of the Homeland",
+      "name_translations": {},
+      "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: 120x60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, עלי זהב וגימורים אמנותיים המעניקים עומק יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית.</p>",
+      "short_description": "יצירה המשלבת את המפות הגיאוגרפיות של ישראל עם דמותו של עץ הזית, סמל עתיק של שלום, שורשים וחיבור נצחי. זוהי לא רק אמנות, אלא פיסה של היסטוריה ותרבות שמעניקה לחלל שלכם עומק ומשמעות.",
+      "sku": null,
+      "brand": null,
+      "price": 4200,
+      "base_price": 4200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779805820706-g5jtj9.webp",
+        "https://galia-luxe-art.com/assets/product-1779805827851-fuazr6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/shvrshym-shl-mvldt-roots-of-the-homeland-0gqngk",
+      "categories": [],
+      "updated_at": "2026-05-26T14:30:51.229Z"
+    },
     {
       "id": "a3be435d-e830-46d6-a199-f72d03fcf5af",
       "slug": "algntyvt-mvzhbt-golden-majesty-rcacxq",
