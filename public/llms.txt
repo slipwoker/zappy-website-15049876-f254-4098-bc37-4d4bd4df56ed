@@ -170,7 +170,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 4**
+**Total active products: 5**
+
+### הברבורים - The Swans
+https://galia-luxe-art.com/product/hbrbvrym-the-swans-5eel70
+- Price: 1400.00 ILS
+- Availability: In stock
+- Description: יצירה מרגשת המייצגת זוגיות, הרמוניה ויופי נצחי. שילוב החומרים הייחודי מעניק לברבורים נפח ותנועה, כאילו הם שטים על פני המים בתוך הבית שלכם.
+- Image: https://galia-luxe-art.com/assets/product-1779804622240-sjlwon.webp
 
 ###  אשכול השפע - Grape of Abundance
 https://galia-luxe-art.com/product/ashkvl-hshpa-grape-of-abundance-pjb2nq

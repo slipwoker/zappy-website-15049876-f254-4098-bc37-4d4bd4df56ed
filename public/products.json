@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T14:09:10.287Z",
+  "generated_at": "2026-05-26T14:11:53.110Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 4,
+  "count": 5,
   "products": [
+    {
+      "id": "927d0426-d287-4a4b-9240-1601493af458",
+      "slug": "hbrbvrym-the-swans-5eel70",
+      "name": "הברבורים - The Swans",
+      "name_translations": {},
+      "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: 40x60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, אלמנטים ממראה, אבני קוורץ (Crystal Quartz) וציפוי אפוקסי רזין יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית, עם אביזרי תלייה מותקנים המבטיחים הצמדה מושלמת לקיר.</p>",
+      "short_description": "יצירה מרגשת המייצגת זוגיות, הרמוניה ויופי נצחי. שילוב החומרים הייחודי מעניק לברבורים נפח ותנועה, כאילו הם שטים על פני המים בתוך הבית שלכם.",
+      "sku": null,
+      "brand": null,
+      "price": 1400,
+      "base_price": 1400,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779804622240-sjlwon.webp",
+        "https://galia-luxe-art.com/assets/product-1779804630207-4w4fogl.webp",
+        "https://galia-luxe-art.com/assets/product-1779804637897-2vzvu4.webp",
+        "https://galia-luxe-art.com/assets/product-1779804645114-cjjfbi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/hbrbvrym-the-swans-5eel70",
+      "categories": [],
+      "updated_at": "2026-05-26T14:11:22.068Z"
+    },
     {
       "id": "d29290c8-2f45-4a79-98e9-a91b1862bdbb",
       "slug": "ashkvl-hshpa-grape-of-abundance-pjb2nq",
