@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T07:27:45.246Z",
+  "generated_at": "2026-05-26T07:30:12.566Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
+    {
+      "id": "fa0d17c8-861d-4a18-865e-897c3ee57fb1",
+      "slug": "avtsmh-shkth-ghrikd",
+      "name": "עוצמה שקטה",
+      "name_translations": {},
+      "description": "<p><br></p><p>יצירה מקורית בטכניקה מעורבת על MDF</p><p>עבודה עוצמתית ומלאת נוכחות בהשראת כוח, חכמה ואצילות הטבע.</p><p>דמות הפיל משתלבת בתוך שכבות של טקסטורה עמוקה, גווני שחור, אפור וזהב מטאלי היוצרים מראה יוקרתי ודרמטי.</p><p>גודל: 80 ס\"מ</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779780567450-l7wce.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/avtsmh-shkth-ghrikd",
+      "categories": [],
+      "updated_at": "2026-05-26T07:29:41.384Z"
+    },
     {
       "id": "91c417cd-04aa-4211-88f9-90bcf89dac6b",
       "slug": "byn-avr-ltsl-vb57vj",

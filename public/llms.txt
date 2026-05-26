@@ -160,7 +160,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 2**
+
+### עוצמה שקטה
+https://galia-luxe-art.com/product/avtsmh-shkth-ghrikd
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: יצירה מקורית בטכניקה מעורבת על MDF עבודה עוצמתית ומלאת נוכחות בהשראת כוח, חכמה ואצילות הטבע. דמות הפיל משתלבת בתוך שכבות של טקסטורה עמוקה, גווני שחור, אפור וזהב מטאלי היוצרים מראה יוקרתי ודרמטי. גודל: 80 ס"מ
+- Image: https://galia-luxe-art.com/assets/product-1779780567450-l7wce.webp
 
 ### בין אור לצל
 https://galia-luxe-art.com/product/byn-avr-ltsl-vb57vj
