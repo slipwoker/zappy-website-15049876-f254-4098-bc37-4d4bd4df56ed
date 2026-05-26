@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T07:26:25.291Z",
+  "generated_at": "2026-05-26T07:27:39.590Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "91c417cd-04aa-4211-88f9-90bcf89dac6b",
-      "slug": "byn-avr-ltsl-wayr7z",
+      "slug": "byn-avr-ltsl-vb57vj",
       "name": "בין אור לצל",
       "name_translations": {},
-      "description": "יצירה מקורית על לוח MDF עגול\nעבודה טקסטורלית בשילוב שברי מראה, תבליטים וחומרים דקורטיביים היוצרים משחק דרמטי בין אור לחושך.\nהקומפוזיציה מציגה שני דמויות תחת עץ מפוצל — צד אחד מלא תנועה וזוהר, והצד השני חשוף ושקט — כסמל למעברים, זיכרונות וחיבור אנושי.\nגודל: 80 ס\"מ",
+      "description": "<p>יצירה מקורית על לוח MDF עגול עבודה טקסטורלית בשילוב שברי מראה, תבליטים וחומרים דקורטיביים היוצרים משחק דרמטי בין אור לחושך. הקומפוזיציה מציגה שני דמויות תחת עץ מפוצל — צד אחד מלא תנועה וזוהר, והצד השני חשוף ושקט — כסמל למעברים, זיכרונות וחיבור אנושי. גודל: 80 ס\"מ</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -18,12 +18,14 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779780415789-zv60fi.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/byn-avr-ltsl-wayr7z",
+      "url": "https://galia-luxe-art.com/product/byn-avr-ltsl-vb57vj",
       "categories": [],
-      "updated_at": "2026-05-26T07:25:53.925Z"
+      "updated_at": "2026-05-26T07:27:14.187Z"
     }
   ]
 }
