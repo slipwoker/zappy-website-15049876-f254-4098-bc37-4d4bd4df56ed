@@ -170,7 +170,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 3**
+**Total active products: 4**
+
+###  אשכול השפע - Grape of Abundance
+https://galia-luxe-art.com/product/ashkvl-hshpa-grape-of-abundance-pjb2nq
+- Price: 2900.00 ILS
+- Availability: In stock
+- Description: יצירה מרהיבה המשלבת עוצמה של חומר ויוקרה של פרטים. ענבי הברונזה והקריסטלים יוצרים משחקי אור מהפנטים, המעניקים לבית תחושה של שפע והרמוניה.
+- Image: https://galia-luxe-art.com/assets/product-1779804393575-35gvdd.webp
 
 ### ינשוף החוכמה
 https://galia-luxe-art.com/product/ynshvp-hchvkmh-ka3mh0
