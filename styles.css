@@ -17764,6 +17764,8 @@ header.glx-gallery__header .glx-gallery__title {
 /* Batch: Fix product description text color — was same as background (invisible), now uses --text-dark for readability */
 .product-description { color: var(--text-dark) !important; }
 .product-description * { color: var(--text-dark) !important; }
+/* Batch: Fix product description text color — dark text on dark background made it invisible */
+.product-detail-section .product-details-body .product-description p { color: var(--text-light) !important; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
