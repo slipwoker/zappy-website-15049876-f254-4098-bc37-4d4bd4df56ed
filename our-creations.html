@@ -730,7 +730,9 @@
     window.ZAPPY_WEBSITE_ID = "15049876-f254-4098-bc37-4d4bd4df56ed";
     // Preview pages are served by the Zappy server itself (localhost in dev), so use that base.
     // Deployed sites are static and must call the public Zappy API (never localhost).
-    window.ZAPPY_API_BASE = "https://api.zappy5.com";
+    window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview'))
+      ? "https://api.zappy5.com"
+      : "https://api.zappy5.com";
   </script>
   
     <div class="mobile-search-panel" id="mobile-search-panel">
@@ -941,21 +943,21 @@
 
 <section id="layout-1779962224969" class="layout-section" data-zappy-component="true" style="width: 100%; padding: 60px 0; direction: rtl;" data-component-id="video-grid-3">
   <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 1.5rem;">
-  <h2 style="font-size: 32px; font-weight: 700; color: #1C2333; margin-bottom: 40px; text-align: center; font-family: Inter, sans-serif;">כותרת שלך כאן</h2>
-  <div class="three-video-grid" style="--zappy-grid-cols: repeat(auto-fit, minmax(250px, 1fr)); display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px;" data-zappy-explicit-columns="true">
-    <div class="zappy-inserted-element" id="zappy-element-1779962224969-0440tdukv" data-element-id="zappy-element-1779962224969-0440tdukv" data-element-type="video" data-zappy-newly-inserted="true" style="margin-top: 20px; margin-bottom: 20px; display: flex; justify-content: center;">
+  <h2 style="font-size: 32px; font-weight: 700; color: rgb(28, 35, 51); margin-bottom: 40px; text-align: center; font-family: Inter, sans-serif;"><span style="color: #ede9df !important">ינעמגכחהזחהמכותרת שלך כאן</span></h2>
+  <div class="three-video-grid zappy-preserve-css-grid" style="display: grid; --zappy-grid-cols: repeat(3, minmax(0, 1fr)); grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 25px; align-items: stretch !important;" id="zappy-auto-grid-1779962270090-gzvm7n" data-zappy-auto-grid="true" data-original-item-width="367" data-original-gap="25px" data-zappy-explicit-columns="true">
+    <div class="zappy-inserted-element" id="zappy-element-1779962224969-0440tdukv" data-element-id="zappy-element-1779962224969-0440tdukv" data-element-type="video" data-zappy-newly-inserted="true" style="margin-top: 20px; margin-bottom: 20px; display: flex; justify-content: center; cursor: pointer;" data-video-editable="true" data-grid-item-index="0">
       <div style="width: 100%; max-width: 350px; display: block; margin-left: auto; margin-right: auto;">
-        <div class="video-placeholder" style="position: relative; width: 100%; max-width: 350px; height: 0px; padding-bottom: 56.25%; background: #1C233308; border: 3px solid #1C2333; border-radius: 16px; overflow: hidden; cursor: pointer;" data-element-type="video" data-element-id="zappy-element-1779962224969-0440tdukv" data-placeholder="video-placeholder" id="zappy-element-1779962224969-0440tdukv-inner" contenteditable="false">
+        <div class="video-placeholder" style="position: relative; width: 100%; max-width: 350px; height: 0px; padding-bottom: 56.25%; background: #1C233308; border: 3px solid #1C2333; border-radius: 16px; overflow: hidden; cursor: pointer;" data-element-type="video" data-element-id="zappy-element-1779962224969-0440tdukv" data-placeholder="video-placeholder" id="zappy-element-1779962224969-0440tdukv-inner" data-video-editable="true">
           <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; text-align: center;">
             <svg style="width: 120px; height: 120px; display: block;" viewBox="0 0 270 265" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect x="2" y="2" width="266" height="261" rx="40" stroke="#1C2333" stroke-width="4"/>
+      <rect x="2" y="2" width="266" height="261" rx="40" stroke="#1C2333" stroke-width="4"></rect>
       <g clip-path="url(#clip0_201_1806)">
-        <path d="M102.5 91L112.5 82.5L123.5 81.5L175.5 119L182.5 131.5L178.5 142L125.5 180.5L116 183.5L109 181L102 172L102.5 91Z" fill="#FFE8F4"/>
-        <path d="M177.228 117.668L127.264 81.483C121.838 77.496 114.723 76.929 108.729 79.9665C102.636 83.058 99 88.98 99 95.811V168.194C99 175.029 102.641 180.951 108.734 184.038C111.335 185.357 114.089 186.009 116.82 186.009C120.483 186.009 124.105 184.835 127.251 182.526L177.223 146.337L177.237 146.328C181.849 142.944 184.495 137.724 184.495 132C184.495 126.276 181.849 121.056 177.223 117.668H177.228ZM174.582 142.692L124.605 178.886C120.492 181.91 115.322 182.328 110.772 180.024C106.218 177.716 103.504 173.297 103.504 168.194V95.8065C103.504 90.708 106.223 86.289 110.772 83.976C112.703 82.995 114.736 82.5 116.82 82.5C119.587 82.5 122.283 83.4045 124.618 85.1235L174.587 121.308C178.029 123.833 180.005 127.73 180.005 132C180.005 136.271 178.034 140.163 174.587 142.692H174.582Z" fill="#1C2333"/>
+        <path d="M102.5 91L112.5 82.5L123.5 81.5L175.5 119L182.5 131.5L178.5 142L125.5 180.5L116 183.5L109 181L102 172L102.5 91Z" fill="#FFE8F4"></path>
+        <path d="M177.228 117.668L127.264 81.483C121.838 77.496 114.723 76.929 108.729 79.9665C102.636 83.058 99 88.98 99 95.811V168.194C99 175.029 102.641 180.951 108.734 184.038C111.335 185.357 114.089 186.009 116.82 186.009C120.483 186.009 124.105 184.835 127.251 182.526L177.223 146.337L177.237 146.328C181.849 142.944 184.495 137.724 184.495 132C184.495 126.276 181.849 121.056 177.223 117.668H177.228ZM174.582 142.692L124.605 178.886C120.492 181.91 115.322 182.328 110.772 180.024C106.218 177.716 103.504 173.297 103.504 168.194V95.8065C103.504 90.708 106.223 86.289 110.772 83.976C112.703 82.995 114.736 82.5 116.82 82.5C119.587 82.5 122.283 83.4045 124.618 85.1235L174.587 121.308C178.029 123.833 180.005 127.73 180.005 132C180.005 136.271 178.034 140.163 174.587 142.692H174.582Z" fill="#1C2333"></path>
       </g>
       <defs>
         <clipPath id="clip0_201_1806">
-          <rect width="108" height="108" fill="white" transform="translate(81 78)"/>
+          <rect width="108" height="108" fill="white" transform="translate(81 78)"></rect>
         </clipPath>
       </defs>
     </svg>
@@ -963,19 +965,19 @@
         </div>
       </div>
     </div>
-    <div class="zappy-inserted-element" id="zappy-element-1779962224969-xuuq82f2b" data-element-id="zappy-element-1779962224969-xuuq82f2b" data-element-type="video" data-zappy-newly-inserted="true" style="margin-top: 20px; margin-bottom: 20px; display: flex; justify-content: center;">
+    <div class="zappy-inserted-element" id="zappy-element-1779962224969-xuuq82f2b" data-element-id="zappy-element-1779962224969-xuuq82f2b" data-element-type="video" data-zappy-newly-inserted="true" style="margin-top: 20px; margin-bottom: 20px; display: flex; justify-content: center; cursor: pointer;" data-video-editable="true" data-grid-item-index="1">
       <div style="width: 100%; max-width: 350px; display: block; margin-left: auto; margin-right: auto;">
-        <div class="video-placeholder" style="position: relative; width: 100%; max-width: 350px; height: 0px; padding-bottom: 56.25%; background: #1C233308; border: 3px solid #1C2333; border-radius: 16px; overflow: hidden; cursor: pointer;" data-element-type="video" data-element-id="zappy-element-1779962224969-xuuq82f2b" data-placeholder="video-placeholder" id="zappy-element-1779962224969-xuuq82f2b-inner" contenteditable="false">
+        <div class="video-placeholder" style="position: relative; width: 100%; max-width: 350px; height: 0px; padding-bottom: 56.25%; background: #1C233308; border: 3px solid #1C2333; border-radius: 16px; overflow: hidden; cursor: pointer;" data-element-type="video" data-element-id="zappy-element-1779962224969-xuuq82f2b" data-placeholder="video-placeholder" id="zappy-element-1779962224969-xuuq82f2b-inner" data-video-editable="true">
           <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; text-align: center;">
             <svg style="width: 120px; height: 120px; display: block;" viewBox="0 0 270 265" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect x="2" y="2" width="266" height="261" rx="40" stroke="#1C2333" stroke-width="4"/>
+      <rect x="2" y="2" width="266" height="261" rx="40" stroke="#1C2333" stroke-width="4"></rect>
       <g clip-path="url(#clip0_201_1806)">
-        <path d="M102.5 91L112.5 82.5L123.5 81.5L175.5 119L182.5 131.5L178.5 142L125.5 180.5L116 183.5L109 181L102 172L102.5 91Z" fill="#FFE8F4"/>
-        <path d="M177.228 117.668L127.264 81.483C121.838 77.496 114.723 76.929 108.729 79.9665C102.636 83.058 99 88.98 99 95.811V168.194C99 175.029 102.641 180.951 108.734 184.038C111.335 185.357 114.089 186.009 116.82 186.009C120.483 186.009 124.105 184.835 127.251 182.526L177.223 146.337L177.237 146.328C181.849 142.944 184.495 137.724 184.495 132C184.495 126.276 181.849 121.056 177.223 117.668H177.228ZM174.582 142.692L124.605 178.886C120.492 181.91 115.322 182.328 110.772 180.024C106.218 177.716 103.504 173.297 103.504 168.194V95.8065C103.504 90.708 106.223 86.289 110.772 83.976C112.703 82.995 114.736 82.5 116.82 82.5C119.587 82.5 122.283 83.4045 124.618 85.1235L174.587 121.308C178.029 123.833 180.005 127.73 180.005 132C180.005 136.271 178.034 140.163 174.587 142.692H174.582Z" fill="#1C2333"/>
+        <path d="M102.5 91L112.5 82.5L123.5 81.5L175.5 119L182.5 131.5L178.5 142L125.5 180.5L116 183.5L109 181L102 172L102.5 91Z" fill="#FFE8F4"></path>
+        <path d="M177.228 117.668L127.264 81.483C121.838 77.496 114.723 76.929 108.729 79.9665C102.636 83.058 99 88.98 99 95.811V168.194C99 175.029 102.641 180.951 108.734 184.038C111.335 185.357 114.089 186.009 116.82 186.009C120.483 186.009 124.105 184.835 127.251 182.526L177.223 146.337L177.237 146.328C181.849 142.944 184.495 137.724 184.495 132C184.495 126.276 181.849 121.056 177.223 117.668H177.228ZM174.582 142.692L124.605 178.886C120.492 181.91 115.322 182.328 110.772 180.024C106.218 177.716 103.504 173.297 103.504 168.194V95.8065C103.504 90.708 106.223 86.289 110.772 83.976C112.703 82.995 114.736 82.5 116.82 82.5C119.587 82.5 122.283 83.4045 124.618 85.1235L174.587 121.308C178.029 123.833 180.005 127.73 180.005 132C180.005 136.271 178.034 140.163 174.587 142.692H174.582Z" fill="#1C2333"></path>
       </g>
       <defs>
         <clipPath id="clip0_201_1806">
-          <rect width="108" height="108" fill="white" transform="translate(81 78)"/>
+          <rect width="108" height="108" fill="white" transform="translate(81 78)"></rect>
         </clipPath>
       </defs>
     </svg>
@@ -983,19 +985,19 @@
         </div>
       </div>
     </div>
-    <div class="zappy-inserted-element" id="zappy-element-1779962224969-2npcgxxrb" data-element-id="zappy-element-1779962224969-2npcgxxrb" data-element-type="video" data-zappy-newly-inserted="true" style="margin-top: 20px; margin-bottom: 20px; display: flex; justify-content: center;">
+    <div class="zappy-inserted-element" id="zappy-element-1779962224969-2npcgxxrb" data-element-id="zappy-element-1779962224969-2npcgxxrb" data-element-type="video" data-zappy-newly-inserted="true" style="margin-top: 20px; margin-bottom: 20px; display: flex; justify-content: center; cursor: pointer;" data-video-editable="true" data-grid-item-index="2">
       <div style="width: 100%; max-width: 350px; display: block; margin-left: auto; margin-right: auto;">
-        <div class="video-placeholder" style="position: relative; width: 100%; max-width: 350px; height: 0px; padding-bottom: 56.25%; background: #1C233308; border: 3px solid #1C2333; border-radius: 16px; overflow: hidden; cursor: pointer;" data-element-type="video" data-element-id="zappy-element-1779962224969-2npcgxxrb" data-placeholder="video-placeholder" id="zappy-element-1779962224969-2npcgxxrb-inner" contenteditable="false">
+        <div class="video-placeholder" style="position: relative; width: 100%; max-width: 350px; height: 0px; padding-bottom: 56.25%; background: #1C233308; border: 3px solid #1C2333; border-radius: 16px; overflow: hidden; cursor: pointer;" data-element-type="video" data-element-id="zappy-element-1779962224969-2npcgxxrb" data-placeholder="video-placeholder" id="zappy-element-1779962224969-2npcgxxrb-inner" data-video-editable="true">
           <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; text-align: center;">
             <svg style="width: 120px; height: 120px; display: block;" viewBox="0 0 270 265" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect x="2" y="2" width="266" height="261" rx="40" stroke="#1C2333" stroke-width="4"/>
+      <rect x="2" y="2" width="266" height="261" rx="40" stroke="#1C2333" stroke-width="4"></rect>
       <g clip-path="url(#clip0_201_1806)">
-        <path d="M102.5 91L112.5 82.5L123.5 81.5L175.5 119L182.5 131.5L178.5 142L125.5 180.5L116 183.5L109 181L102 172L102.5 91Z" fill="#FFE8F4"/>
-        <path d="M177.228 117.668L127.264 81.483C121.838 77.496 114.723 76.929 108.729 79.9665C102.636 83.058 99 88.98 99 95.811V168.194C99 175.029 102.641 180.951 108.734 184.038C111.335 185.357 114.089 186.009 116.82 186.009C120.483 186.009 124.105 184.835 127.251 182.526L177.223 146.337L177.237 146.328C181.849 142.944 184.495 137.724 184.495 132C184.495 126.276 181.849 121.056 177.223 117.668H177.228ZM174.582 142.692L124.605 178.886C120.492 181.91 115.322 182.328 110.772 180.024C106.218 177.716 103.504 173.297 103.504 168.194V95.8065C103.504 90.708 106.223 86.289 110.772 83.976C112.703 82.995 114.736 82.5 116.82 82.5C119.587 82.5 122.283 83.4045 124.618 85.1235L174.587 121.308C178.029 123.833 180.005 127.73 180.005 132C180.005 136.271 178.034 140.163 174.587 142.692H174.582Z" fill="#1C2333"/>
+        <path d="M102.5 91L112.5 82.5L123.5 81.5L175.5 119L182.5 131.5L178.5 142L125.5 180.5L116 183.5L109 181L102 172L102.5 91Z" fill="#FFE8F4"></path>
+        <path d="M177.228 117.668L127.264 81.483C121.838 77.496 114.723 76.929 108.729 79.9665C102.636 83.058 99 88.98 99 95.811V168.194C99 175.029 102.641 180.951 108.734 184.038C111.335 185.357 114.089 186.009 116.82 186.009C120.483 186.009 124.105 184.835 127.251 182.526L177.223 146.337L177.237 146.328C181.849 142.944 184.495 137.724 184.495 132C184.495 126.276 181.849 121.056 177.223 117.668H177.228ZM174.582 142.692L124.605 178.886C120.492 181.91 115.322 182.328 110.772 180.024C106.218 177.716 103.504 173.297 103.504 168.194V95.8065C103.504 90.708 106.223 86.289 110.772 83.976C112.703 82.995 114.736 82.5 116.82 82.5C119.587 82.5 122.283 83.4045 124.618 85.1235L174.587 121.308C178.029 123.833 180.005 127.73 180.005 132C180.005 136.271 178.034 140.163 174.587 142.692H174.582Z" fill="#1C2333"></path>
       </g>
       <defs>
         <clipPath id="clip0_201_1806">
-          <rect width="108" height="108" fill="white" transform="translate(81 78)"/>
+          <rect width="108" height="108" fill="white" transform="translate(81 78)"></rect>
         </clipPath>
       </defs>
     </svg>
@@ -1186,7 +1188,6 @@
   </script>
     <div data-integration="accessibility:toolbar"></div>
 
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
 
     <script src="/script.js"></script>
 
