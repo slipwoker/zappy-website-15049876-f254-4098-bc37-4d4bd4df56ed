@@ -1,30 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T08:42:44.095Z",
+  "generated_at": "2026-05-28T08:46:30.284Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
   "count": 11,
   "products": [
-    {
-      "id": "bd3359c4-66d4-4689-933f-158190f221b9",
-      "slug": "pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-a6ohue",
-      "name": "פורטרט\\תמונה בעצוב אישי עם אבני סברובסקי",
-      "name_translations": {},
-      "description": "",
-      "short_description": "יצירות אמנות בהתאמה אישית שהופכות את הרגעים היפים שלכם לזיכרון נוצץ ובלתי נשכח. אנו מעצבים פורטרטים ותמונות ייחודיות משובצות באלפי אבני סברובסקי מקוריות, המעניקות לכל חלל מראה יוקרתי, מרגש ומלא באור. להזמנה-צרו קשר",
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-a6ohue",
-      "categories": [],
-      "updated_at": "2026-05-28T08:35:30.575Z"
-    },
     {
       "id": "091fc58f-6d65-47bd-855f-4b5c0b88cb5b",
       "slug": "hchtvl-hnvtsts-the-sparkling-cat-83e6ov",
@@ -45,7 +25,7 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/hchtvl-hnvtsts-the-sparkling-cat-83e6ov",
       "categories": [],
-      "updated_at": "2026-05-27T09:25:19.651Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "6f571a1a-0f13-4771-80f4-edb9046c10d8",
@@ -68,7 +48,7 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/shvrshym-shl-mvldt-roots-of-the-homeland-0gqngk",
       "categories": [],
-      "updated_at": "2026-05-26T14:30:51.229Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "7515c959-2aa8-4294-a2f0-5a7a7b5b96a7",
@@ -91,7 +71,7 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/hnchsh-the-serpent-6fpdnk",
       "categories": [],
-      "updated_at": "2026-05-26T14:21:18.715Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "2933dac2-4c0f-4a59-a7e9-59c98554b35d",
@@ -115,7 +95,7 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/svsvn-hym-the-seahorse-cgk8c5",
       "categories": [],
-      "updated_at": "2026-05-26T14:15:46.095Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "a5a7edb5-d587-4211-b888-cb2a36556ddd",
@@ -139,7 +119,7 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/hagvr-hmlkvty-the-royal-crane-wn6ohp",
       "categories": [],
-      "updated_at": "2026-05-27T07:52:56.411Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "927d0426-d287-4a4b-9240-1601493af458",
@@ -164,7 +144,7 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/hbrbvrym-the-swans-t39yee",
       "categories": [],
-      "updated_at": "2026-05-27T07:52:41.881Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "d29290c8-2f45-4a79-98e9-a91b1862bdbb",
@@ -188,7 +168,7 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/ashkvl-hshpa-grape-of-abundance-pjb2nq",
       "categories": [],
-      "updated_at": "2026-05-26T14:07:33.801Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "e4200011-8d07-4842-bb33-6a2f6518c375",
@@ -211,7 +191,7 @@
       "stock_status": "out_of_stock",
       "url": "https://galia-luxe-art.com/product/ynshvp-hchvkmh-tw0tve",
       "categories": [],
-      "updated_at": "2026-05-26T14:18:07.934Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "fa0d17c8-861d-4a18-865e-897c3ee57fb1",
@@ -233,7 +213,7 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/avtsmh-shkth-h750pc",
       "categories": [],
-      "updated_at": "2026-05-28T05:58:38.844Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
     },
     {
       "id": "91c417cd-04aa-4211-88f9-90bcf89dac6b",
@@ -257,7 +237,29 @@
       "stock_status": "in_stock",
       "url": "https://galia-luxe-art.com/product/shbrym-shl-bychd-fragments-of-us-e80wgs",
       "categories": [],
-      "updated_at": "2026-05-26T14:26:08.806Z"
+      "updated_at": "2026-05-28T08:43:56.796Z"
+    },
+    {
+      "id": "bd3359c4-66d4-4689-933f-158190f221b9",
+      "slug": "pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-dl4j2z",
+      "name": "פורטרט\\תמונה בעצוב אישי עם אבני סברובסקי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "יצירות אמנות בהתאמה אישית שהופכות את הרגעים היפים שלכם לזיכרון נוצץ ובלתי נשכח. אנו מעצבים פורטרטים ותמונות ייחודיות משובצות באלפי אבני סברובסקי מקוריות, המעניקות לכל חלל מראה יוקרתי, מרגש ומלא באור. להזמנה-צרו קשר",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://galia-luxe-art.com/assets/product-1779957909526-03eqj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-dl4j2z",
+      "categories": [],
+      "updated_at": "2026-05-28T08:45:59.381Z"
     }
   ]
 }
