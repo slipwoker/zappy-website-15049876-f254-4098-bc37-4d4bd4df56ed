@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T08:54:07.604Z",
+  "generated_at": "2026-05-28T09:01:19.929Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
   "count": 11,
@@ -241,7 +241,7 @@
     },
     {
       "id": "bd3359c4-66d4-4689-933f-158190f221b9",
-      "slug": "pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-dl4j2z",
+      "slug": "pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-r4pl9p",
       "name": "פורטרט\\תמונה בעצוב אישי עם אבני סברובסקי",
       "name_translations": {},
       "description": "",
@@ -257,9 +257,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-dl4j2z",
+      "url": "https://galia-luxe-art.com/product/pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-r4pl9p",
       "categories": [],
-      "updated_at": "2026-05-28T08:45:59.381Z"
+      "updated_at": "2026-05-28T09:00:48.917Z"
     }
   ]
 }
