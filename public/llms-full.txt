@@ -79,10 +79,10 @@ Description: תמונות יוקרה עם טקסטורה לבית שמשנות �
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -290,16 +290,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -381,10 +379,10 @@ Description: המוצרים שלנו - Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -532,16 +530,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -642,10 +638,10 @@ URL: https://galia-luxe-art.com/workshops
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -886,16 +882,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -972,10 +966,10 @@ Description: הכירו את גליה, אמנית ויצירה שמתמחה בי
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -1422,16 +1416,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -1508,10 +1500,10 @@ Description: רוצים יצירת אמנות בהתאמה אישית לבית �
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -1634,16 +1626,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -1720,10 +1710,10 @@ Description: תמונות יוקרה עם טקסטורה לבית שמשנות �
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -1930,16 +1920,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -2036,10 +2024,10 @@ Description: המוצרים שלנו - Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -2187,16 +2175,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -2298,10 +2284,10 @@ Description: תיק העבודות של גליה לוקס ארט מציג אמנ
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -2626,16 +2612,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -2712,10 +2696,10 @@ Description: הכירו את גליה, אמנית ויצירה שמתמחה בי
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -3160,16 +3144,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -3266,10 +3248,10 @@ Description: עגלת הקניות שלך
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -3391,16 +3373,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -3522,10 +3502,10 @@ Description: תשלום
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -3825,16 +3805,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -3956,10 +3934,10 @@ Description: התחברות לקוחות
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -4088,16 +4066,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -4219,10 +4195,10 @@ Description: החשבון שלי
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -4445,16 +4421,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -4576,10 +4550,10 @@ Description: תודה על ההזמנה
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -4725,16 +4699,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -4856,10 +4828,10 @@ Description: פרטי המוצר - Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -4983,16 +4955,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -5114,10 +5084,10 @@ Description: מוצרים - Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -5265,16 +5235,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -5376,10 +5344,10 @@ Description: רוצים יצירת אמנות בהתאמה אישית לבית �
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -5616,16 +5584,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -5722,10 +5688,10 @@ Description: עגלת הקניות שלך
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -5847,16 +5813,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -5978,10 +5942,10 @@ Description: תשלום
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -6281,16 +6245,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -6412,10 +6374,10 @@ Description: התחברות לקוחות
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -6544,16 +6506,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -6675,10 +6635,10 @@ Description: החשבון שלי
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -6901,16 +6861,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -7032,10 +6990,10 @@ Description: תודה על ההזמנה
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -7181,16 +7139,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -7312,10 +7268,10 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -7490,16 +7446,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -7607,10 +7561,10 @@ Description: פרטי המוצר - Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -7734,16 +7688,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -7865,10 +7817,10 @@ Description: מוצרים - Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -8016,16 +7968,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -8299,16 +8249,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -8566,16 +8514,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -8852,16 +8798,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -8958,10 +8902,10 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -9136,16 +9080,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -9419,16 +9361,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -9686,16 +9626,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -9972,16 +9910,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -10058,10 +9994,10 @@ Art and Creation — Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -10170,7 +10106,7 @@ To the Full Gallery
 ## Featured Products
 
 
-טוען Products...
+Loading products...
 
 
 Our Works
@@ -10269,16 +10205,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -10360,10 +10294,10 @@ Our Works
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -10511,16 +10445,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -10621,10 +10553,10 @@ Workshops
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -10865,16 +10797,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -10951,10 +10881,10 @@ The Artist Behind Every Touch of Luxury — Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -11401,16 +11331,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -11487,10 +11415,10 @@ Turn a Design Dream into Reality — Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -11727,16 +11655,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -11833,10 +11759,10 @@ A unique creative experience for every audience — come to create, enjoy and co
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -11958,16 +11884,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -12089,10 +12013,10 @@ A unique creative experience for every audience — come to create, enjoy and co
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -12392,16 +12316,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -12523,10 +12445,10 @@ A unique creative experience for every audience — come to create, enjoy and co
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -12655,16 +12577,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -12786,10 +12706,10 @@ A unique creative experience for every audience — come to create, enjoy, and c
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -13012,16 +12932,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -13143,10 +13061,10 @@ A unique creative experience for every audience — come to create, enjoy and co
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -13292,16 +13210,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -13423,10 +13339,10 @@ A unique creative experience for every audience — come to create, enjoy, and c
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -13601,16 +13517,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -13718,10 +13632,10 @@ Product Details - Galia Luxe Art
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -13845,16 +13759,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -13976,10 +13888,10 @@ A unique creative experience for every audience — come to create, enjoy, and c
 
 
 -
-- היצירות שלנו
-- סדנאות
-- אודות
-- צור קשר
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -14127,16 +14039,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 
 
@@ -14410,16 +14320,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -14677,16 +14585,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
@@ -14963,16 +14869,14 @@ Book a Consultation
 © 2026 Galia Luxe Art. All rights reserved.
 
 
-מדיניות פרטיות
+Privacy Policy
 ·
-תנאי שימוש  |
-
-מדיניות החזרות
-
+Terms of Use  |
+Return Policy
 ·
-נגישות
+Accessibility
 ·
-נוצר באמצעות Zappy
+Created with Zappy
 
 ---
 
