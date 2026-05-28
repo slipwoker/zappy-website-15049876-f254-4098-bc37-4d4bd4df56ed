@@ -17851,6 +17851,12 @@ header.glx-gallery__header .glx-gallery__title {
   z-index: 2;
   clear: both;
 }
+
+@media (min-width: 769px) {
+.navbar li.nav-lang-switcher-mobile {
+  display: none !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
