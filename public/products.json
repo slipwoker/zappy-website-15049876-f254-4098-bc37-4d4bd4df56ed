@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T09:24:18.990Z",
+  "generated_at": "2026-05-28T09:25:55.378Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
   "count": 11,
   "products": [
     {
       "id": "091fc58f-6d65-47bd-855f-4b5c0b88cb5b",
-      "slug": "hchtvl-hnvtsts-the-sparkling-cat-83e6ov",
-      "name": "החתול הנוצץ - The Sparkling Cat",
+      "slug": "the-sparkling-cat-8afmod",
+      "name": "The Sparkling Cat",
       "name_translations": {},
       "description": "<p>פרטים טכניים:</p><p>• סגנון: פסל דקורטיבי בעבודת יד.</p><p>• טכניקה: שיבוץ ידני של 12,000 קריסטלים.</p><p>• משמעות: שילוב בין יופי, אסתטיקה ויוקרה.</p>",
       "short_description": "יצירת אמנות ייחודית במינה המעוטרת ב-12,000 קריסטלים מנצנצים, ששובצו בעבודת יד קפדנית וסבלנית. כל קריסטל מונח במקומו כדי ליצור משחק אור וצל מהפנט. זהו פריט עיצובי יוקרתי שמעניק סטייל ואופי לכל פינה בבית.",
@@ -23,14 +23,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/hchtvl-hnvtsts-the-sparkling-cat-83e6ov",
+      "url": "https://galia-luxe-art.com/product/the-sparkling-cat-8afmod",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.821Z"
     },
     {
       "id": "6f571a1a-0f13-4771-80f4-edb9046c10d8",
-      "slug": "shvrshym-shl-mvldt-roots-of-the-homeland-0gqngk",
-      "name": "שורשים של מולדת - Roots of the Homeland",
+      "slug": "roots-of-the-homeland-38adu3",
+      "name": "Roots of the Homeland",
       "name_translations": {},
       "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: 120x60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, עלי זהב וגימורים אמנותיים המעניקים עומק יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית.</p>",
       "short_description": "יצירה המשלבת את המפות הגיאוגרפיות של ישראל עם דמותו של עץ הזית, סמל עתיק של שלום, שורשים וחיבור נצחי. זוהי לא רק אמנות, אלא פיסה של היסטוריה ותרבות שמעניקה לחלל שלכם עומק ומשמעות.",
@@ -46,14 +46,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/shvrshym-shl-mvldt-roots-of-the-homeland-0gqngk",
+      "url": "https://galia-luxe-art.com/product/roots-of-the-homeland-38adu3",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.850Z"
     },
     {
       "id": "7515c959-2aa8-4294-a2f0-5a7a7b5b96a7",
-      "slug": "hnchsh-the-serpent-6fpdnk",
-      "name": "הנחש - The Serpent",
+      "slug": "the-serpent-pnujc3",
+      "name": "The Serpent",
       "name_translations": {},
       "description": "<p>פרטים טכניים:</p><p>• תשתית: זכוכית מט יוקרתית במסגרת שחורה.</p><p>• גודל: 50x27 ס\"מ.</p><p>• חומרים: שיבוץ ידני של קריסטלים ליצירת מראה תלת-ממדי.</p><p>• מוכן לתלייה: מגיע ממוסגר ומוכן לשדרג את המשרד או את חדר העבודה שלכם.</p>",
       "short_description": "הנחש, שנוצר בעבודת יד מוקפדת עם אלפי קריסטלים מנצנצים על זכוכית מט, פשוט מתעורר לחיים עם כל תנועה. כל זווית וכל סוג של אור (טבעי או מלאכותי) חושפים משחק מהפנט של ניצנוץ ועומק, והופכים את היצירה הזו למוקד תשומת הלב המרכזי בכל חלל.",
@@ -69,14 +69,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/hnchsh-the-serpent-6fpdnk",
+      "url": "https://galia-luxe-art.com/product/the-serpent-pnujc3",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.877Z"
     },
     {
       "id": "2933dac2-4c0f-4a59-a7e9-59c98554b35d",
-      "slug": "svsvn-hym-the-seahorse-cgk8c5",
-      "name": "סוסון הים - The Seahorse",
+      "slug": "the-seahorse-1onult",
+      "name": "The Seahorse",
       "name_translations": {},
       "description": "<p>&nbsp;פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי — בסיס חזק המבטיח את עמידות היצירה לשנים רבות.</p><p>• גודל: 40x60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, מוזיקת מראת ברונזה, עלי זהב (פוטאל), אבני קוורץ (Crystal Quartz) וציפוי אפוקסי רזין חלקי המעניק ברק ממוקד ועומק זכוכיתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית, עם אביזרי תלייה מותקנים המבטיחים הצמדה מושלמת ובטוחה לקיר.</p>",
       "short_description": "יצירה מרהיבה המשלבת את עומק הים עם זוהר מעורר השראה. עבודת מוזיקה עדינה ממראת ברונזה בשילוב עלי זהב וקריסטלים יוצרת משחקי אור מהפנטים, המעניקים לכל חלל תחושה של רוגע ויוקרה.",
@@ -93,14 +93,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/svsvn-hym-the-seahorse-cgk8c5",
+      "url": "https://galia-luxe-art.com/product/the-seahorse-1onult",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.905Z"
     },
     {
       "id": "a5a7edb5-d587-4211-b888-cb2a36556ddd",
-      "slug": "hagvr-hmlkvty-the-royal-crane-wn6ohp",
-      "name": "העגור המלכותי - The Royal Crane",
+      "slug": "the-royal-crane-et5gj8",
+      "name": "The Royal Crane",
       "name_translations": {},
       "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: קוטר 60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, שבבי מראה (Mirror Crushed Stones), אבני קוורץ (Crystal Quartz) וציפוי אפוקסי רזין יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית, עם אביזרי תלייה מותקנים המבטיחים הצמדה מושלמת ובטוחה לקיר.</p>",
       "short_description": "יצירה עוצרת נשימה המשלבת טקסטורה עשירה וסימבוליקה של חופש ואצילות. העגור, שנוצר בעבודת יד קפדנית, נראה כמעט חי בזכות משחקי האור והחומרים היוקרתיים.",
@@ -117,14 +117,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/hagvr-hmlkvty-the-royal-crane-wn6ohp",
+      "url": "https://galia-luxe-art.com/product/the-royal-crane-et5gj8",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.794Z"
     },
     {
       "id": "927d0426-d287-4a4b-9240-1601493af458",
-      "slug": "hbrbvrym-the-swans-t39yee",
-      "name": "הברבורים - The Swans",
+      "slug": "the-swans-fovf8s",
+      "name": "The Swans",
       "name_translations": {},
       "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: 40x60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, אלמנטים ממראה, אבני קוורץ (Crystal Quartz) וציפוי אפוקסי רזין יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית, עם אביזרי תלייה מותקנים המבטיחים הצמדה מושלמת לקיר.</p>",
       "short_description": "יצירה מרגשת המייצגת זוגיות, הרמוניה ויופי נצחי. שילוב החומרים הייחודי מעניק לברבורים נפח ותנועה, כאילו הם שטים על פני המים בתוך הבית שלכם.",
@@ -142,14 +142,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/hbrbvrym-the-swans-t39yee",
+      "url": "https://galia-luxe-art.com/product/the-swans-fovf8s",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.766Z"
     },
     {
       "id": "d29290c8-2f45-4a79-98e9-a91b1862bdbb",
-      "slug": "ashkvl-hshpa-grape-of-abundance-pjb2nq",
-      "name": " אשכול השפע - Grape of Abundance",
+      "slug": "grape-of-abundance-1dhnvr",
+      "name": "Grape of Abundance",
       "name_translations": {},
       "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי — בסיס חזק המבטיח את עמידות היצירה לשנים רבות.</p><p>• גודל: קוטר 60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, מראת ברונזה, אבני קוורץ (Crystal Quartz) וגימור אפוקסי רזין יוקרתי המעניק עומק ומראה זכוכיתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית, עם אביזרי תלייה מותקנים המבטיחים הצמדה מושלמת ובטוחה לקיר.</p>",
       "short_description": "יצירה מרהיבה המשלבת עוצמה של חומר ויוקרה של פרטים. ענבי הברונזה והקריסטלים יוצרים משחקי אור מהפנטים, המעניקים לבית תחושה של שפע והרמוניה.",
@@ -166,14 +166,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/ashkvl-hshpa-grape-of-abundance-pjb2nq",
+      "url": "https://galia-luxe-art.com/product/grape-of-abundance-1dhnvr",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.933Z"
     },
     {
       "id": "e4200011-8d07-4842-bb33-6a2f6518c375",
-      "slug": "ynshvp-hchvkmh-tw0tve",
-      "name": "ינשוף החוכמה",
+      "slug": "the-owl-of-wisdom-bfbsba",
+      "name": "The Owl of Wisdom",
       "name_translations": {},
       "description": "<p>&nbsp;פרטים טכניים:</p><p>• תשתית: עבודת יד על קנבס איכותי (מהדורה נדירה).</p><p>• גודל: 60x80 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, עלי זהב (פוטאל) ואבני קוורץ (Crystal Quartz / горный хруסטל) המעניקים ניצנוץ יוקרתי.</p><p>• מוכן לתלייה: היצירה סופקה כשהיא מוכנה לתלייה מיידית.</p>",
       "short_description": "היצירה המהפנטת הזו כבר מצאה את מקומה בבית חדש. השילוב של טקסטורה עשירה, עלי זהב וקריסטלים מעניק לינשוף מראה מלכותי ומסתורי שאי אפשר להתעלם ממנו.",
@@ -189,14 +189,14 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://galia-luxe-art.com/product/ynshvp-hchvkmh-tw0tve",
+      "url": "https://galia-luxe-art.com/product/the-owl-of-wisdom-bfbsba",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.961Z"
     },
     {
       "id": "fa0d17c8-861d-4a18-865e-897c3ee57fb1",
-      "slug": "avtsmh-shkth-h750pc",
-      "name": "עוצמה שקטה",
+      "slug": "quiet-strength-17p1c0",
+      "name": "Quiet Strength",
       "name_translations": {},
       "description": "<p><br></p><p>יצירה מקורית בטכניקה מעורבת על MDF</p><p>עבודה עוצמתית ומלאת נוכחות בהשראת כוח, חכמה ואצילות הטבע.</p><p>דמות הפיל משתלבת בתוך שכבות של טקסטורה עמוקה, גווני שחור, אפור וזהב מטאלי היוצרים מראה יוקרתי ודרמטי.</p><p>גודל: 80 ס\"מ</p>",
       "short_description": null,
@@ -211,14 +211,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/avtsmh-shkth-h750pc",
+      "url": "https://galia-luxe-art.com/product/quiet-strength-17p1c0",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:16.988Z"
     },
     {
       "id": "91c417cd-04aa-4211-88f9-90bcf89dac6b",
-      "slug": "shbrym-shl-bychd-fragments-of-us-e80wgs",
-      "name": "שברים של ביחד - Fragments of Us",
+      "slug": "fragments-of-us-ditafm",
+      "name": "Fragments of Us",
       "name_translations": {},
       "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: קוטר 80 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, שברי מראה, עלי זהב ואבני קריסטל המעניקים ניצנוץ יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית.</p>",
       "short_description": "יצירה עוצמתית המשלבת קונטרסט מרתק בין אור לצל, בין דמויות לזמן. עבודת יד קפדנית המשלבת אלמנטים של מראה ושקיפות, היוצרים תחושה של עומק וסיפור שמתגלה בכל מבט מחדש.",
@@ -235,14 +235,14 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/shbrym-shl-bychd-fragments-of-us-e80wgs",
+      "url": "https://galia-luxe-art.com/product/fragments-of-us-ditafm",
       "categories": [],
-      "updated_at": "2026-05-28T08:43:56.796Z"
+      "updated_at": "2026-05-28T09:25:17.016Z"
     },
     {
       "id": "bd3359c4-66d4-4689-933f-158190f221b9",
-      "slug": "pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-r4pl9p",
-      "name": "פורטרט\\תמונה בעצוב אישי עם אבני סברובסקי",
+      "slug": "custom-portrait-with-swarovski-crystals-9t1n3b",
+      "name": "Custom Portrait with Swarovski Crystals",
       "name_translations": {},
       "description": "",
       "short_description": "יצירות אמנות בהתאמה אישית שהופכות את הרגעים היפים שלכם לזיכרון נוצץ ובלתי נשכח. אנו מעצבים פורטרטים ותמונות ייחודיות משובצות באלפי אבני סברובסקי מקוריות, המעניקות לכל חלל מראה יוקרתי, מרגש ומלא באור. להזמנה-צרו קשר",
@@ -257,9 +257,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-r4pl9p",
+      "url": "https://galia-luxe-art.com/product/custom-portrait-with-swarovski-crystals-9t1n3b",
       "categories": [],
-      "updated_at": "2026-05-28T09:00:48.917Z"
+      "updated_at": "2026-05-28T09:25:17.043Z"
     }
   ]
 }
