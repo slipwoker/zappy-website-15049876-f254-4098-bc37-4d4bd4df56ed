@@ -10360,7 +10360,7 @@ Filter
 
 
 
-טוען Products...
+Loading products...
 
 
 
@@ -10944,7 +10944,7 @@ Our Works
 
 Custom Wall Art
 
-# Every wall is a canvas.כל חלל - סיפור.
+# Every wall is a canvas.Every space — a story.
 
 
 Original works born from listening to the space, the light, and the people who live in it.
@@ -13956,7 +13956,7 @@ Filter
 
 
 
-טוען Products...
+Loading products...
 
 
 
