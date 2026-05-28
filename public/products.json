@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:00:16.690Z",
+  "generated_at": "2026-05-28T10:10:41.385Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 11,
+  "count": 10,
   "products": [
     {
       "id": "091fc58f-6d65-47bd-855f-4b5c0b88cb5b",
@@ -238,28 +238,6 @@
       "url": "https://galia-luxe-art.com/product/fragments-of-us-ditafm",
       "categories": [],
       "updated_at": "2026-05-28T09:25:17.016Z"
-    },
-    {
-      "id": "bd3359c4-66d4-4689-933f-158190f221b9",
-      "slug": "custom-portrait-with-swarovski-crystals-9t1n3b",
-      "name": "Custom Portrait with Swarovski Crystals",
-      "name_translations": {},
-      "description": "",
-      "short_description": "יצירות אמנות בהתאמה אישית שהופכות את הרגעים היפים שלכם לזיכרון נוצץ ובלתי נשכח. אנו מעצבים פורטרטים ותמונות ייחודיות משובצות באלפי אבני סברובסקי מקוריות, המעניקות לכל חלל מראה יוקרתי, מרגש ומלא באור. להזמנה-צרו קשר",
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://galia-luxe-art.com/assets/product-1779957909526-03eqj.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/custom-portrait-with-swarovski-crystals-9t1n3b",
-      "categories": [],
-      "updated_at": "2026-05-28T09:25:17.043Z"
     }
   ]
 }

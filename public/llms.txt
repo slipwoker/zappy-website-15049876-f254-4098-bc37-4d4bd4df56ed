@@ -166,7 +166,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 11**
+**Total active products: 10**
 
 ### The Sparkling Cat
 https://galia-luxe-art.com/product/the-sparkling-cat-8afmod
@@ -237,13 +237,6 @@ https://galia-luxe-art.com/product/fragments-of-us-ditafm
 - Availability: In stock
 - Description: יצירה עוצמתית המשלבת קונטרסט מרתק בין אור לצל, בין דמויות לזמן. עבודת יד קפדנית המשלבת אלמנטים של מראה ושקיפות, היוצרים תחושה של עומק וסיפור שמתגלה בכל מבט מחדש.
 - Image: https://galia-luxe-art.com/assets/product-1779780415789-zv60fi.webp
-
-### Custom Portrait with Swarovski Crystals
-https://galia-luxe-art.com/product/custom-portrait-with-swarovski-crystals-9t1n3b
-- Price: 0.00 ILS
-- Availability: In stock
-- Description: יצירות אמנות בהתאמה אישית שהופכות את הרגעים היפים שלכם לזיכרון נוצץ ובלתי נשכח. אנו מעצבים פורטרטים ותמונות ייחודיות משובצות באלפי אבני סברובסקי מקוריות, המעניקות לכל חלל מראה יוקרתי, מרגש ומלא באור. להזמנה-צרו קשר
-- Image: https://galia-luxe-art.com/assets/product-1779957909526-03eqj.webp
 
 ---
 
