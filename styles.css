@@ -17766,6 +17766,24 @@ header.glx-gallery__header .glx-gallery__title {
 .product-description * { color: var(--text-dark) !important; }
 /* Batch: Fix product description text color — dark text on dark background made it invisible */
 .product-detail-section .product-details-body .product-description p { color: var(--text-light) !important; }
+
+@media (max-width: 768px) {
+.about-philosophy-section .about-philosophy-image-wrapper [data-zappy-zoom-wrapper="true"] {
+  width: 100% !important;
+  height: 380px !important;
+  max-width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.about-philosophy-section .about-philosophy-image-wrapper img {
+  width: 100% !important;
+  height: 100% !important;
+  left: 0 !important;
+  object-fit: cover !important;
+  object-position: 50% 30% !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
