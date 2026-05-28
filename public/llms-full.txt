@@ -237,16 +237,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -480,16 +479,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -835,16 +833,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -1372,16 +1369,15 @@ galia.luxe.art@gmail.com
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -1585,16 +1581,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -1882,16 +1877,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -2140,16 +2134,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -2580,16 +2573,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -3115,16 +3107,15 @@ galia.luxe.art@gmail.com
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -3347,16 +3338,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -3782,16 +3772,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -4046,16 +4035,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -4404,16 +4392,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -4685,16 +4672,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -4944,16 +4930,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -5227,16 +5212,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -5579,16 +5563,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -5811,16 +5794,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -6246,16 +6228,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -6510,16 +6491,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -6868,16 +6848,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -7149,16 +7128,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -7459,16 +7437,15 @@ Galia Luxe Art מחויבת לשביעות רצון לקוחותיה. מדיני
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -7704,16 +7681,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -7987,16 +7963,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -8271,16 +8246,15 @@ Galia Luxe Art ("החברה", "אנו", "שלנו") מחויבת להגן על �
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -8539,16 +8513,15 @@ Galia Luxe Art מחויבת להנגיש את השירותים לכלל הציב
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -8826,16 +8799,15 @@ Galia Luxe Art מספקת אמנות ויצירה דרך האתר. השירות�
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -9111,16 +9083,15 @@ Galia Luxe Art מחויבת לשביעות רצון לקוחותיה. מדיני
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -9395,16 +9366,15 @@ Galia Luxe Art ("החברה", "אנו", "שלנו") מחויבת להגן על �
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -9663,16 +9633,15 @@ Galia Luxe Art стремится сделать свои услуги дост�
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -9950,16 +9919,15 @@ Galia Luxe Art предоставляет искусство и творчест
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -10248,16 +10216,15 @@ Our Works
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -10491,16 +10458,15 @@ Filter
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -10846,16 +10812,15 @@ We'd love to help you choose the right workshop
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -11383,16 +11348,15 @@ Available for initial consultation calls — free of charge and with no obligati
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -11710,16 +11674,15 @@ Send a Message
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -11942,16 +11905,15 @@ Total:  ₪0
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -12377,16 +12339,15 @@ Place Order
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -12641,16 +12602,15 @@ Verify
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -12999,16 +12959,15 @@ Israel
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -13280,16 +13239,15 @@ Continue to Homepage
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -13590,16 +13548,15 @@ To process a return or for inquiries:
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -13835,16 +13792,15 @@ EN
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -14118,16 +14074,15 @@ Filter
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -14402,16 +14357,15 @@ We take reasonable security measures to protect your information, including encr
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -14670,16 +14624,15 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
@@ -14957,16 +14910,15 @@ For questions or clarifications regarding the terms of use:
 
 
 
-### ניווט מהיר
+### Quick Navigation
 
 
 
-- בית
+- Home
 
+- About
 
-- אודות
-
-- צור קשר
+- Contact
 
 
 
