@@ -79,9 +79,10 @@ Description: תמונות יוקרה עם טקסטורה לבית שמשנות �
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -378,9 +379,10 @@ Description: המוצרים שלנו - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -636,9 +638,10 @@ URL: https://galia-luxe-art.com/workshops
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -963,9 +966,10 @@ Description: הכירו את גליה, אמנית ויצירה שמתמחה בי
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -1496,9 +1500,10 @@ Description: רוצים יצירת אמנות בהתאמה אישית לבית �
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -1705,9 +1710,10 @@ Description: תמונות יוקרה עם טקסטורה לבית שמשנות �
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -2018,9 +2024,10 @@ Description: המוצרים שלנו - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -2277,9 +2284,10 @@ Description: תיק העבודות של גליה לוקס ארט מציג אמנ
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -2688,9 +2696,10 @@ Description: הכירו את גליה, אמנית ויצירה שמתמחה בי
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -3239,9 +3248,10 @@ Description: עגלת הקניות שלך
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -3492,9 +3502,10 @@ Description: תשלום
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -3923,9 +3934,10 @@ Description: התחברות לקוחות
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -4183,9 +4195,10 @@ Description: החשבון שלי
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -4537,9 +4550,10 @@ Description: תודה על ההזמנה
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -4814,9 +4828,10 @@ Description: פרטי המוצר - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -5069,9 +5084,10 @@ Description: מוצרים - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -5328,9 +5344,10 @@ Description: רוצים יצירת אמנות בהתאמה אישית לבית �
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -5671,9 +5688,10 @@ Description: עגלת הקניות שלך
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -5924,9 +5942,10 @@ Description: תשלום
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -6355,9 +6374,10 @@ Description: התחברות לקוחות
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -6615,9 +6635,10 @@ Description: החשבון שלי
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -6969,9 +6990,10 @@ Description: תודה על ההזמנה
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -7246,9 +7268,10 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -7538,9 +7561,10 @@ Description: פרטי המוצר - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -7793,9 +7817,10 @@ Description: מוצרים - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -8877,9 +8902,10 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -9968,9 +9994,10 @@ Art and Creation — Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -10267,9 +10294,10 @@ Our Works
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -10525,9 +10553,10 @@ Workshops
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -10852,9 +10881,10 @@ The Artist Behind Every Touch of Luxury — Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -11385,9 +11415,10 @@ Turn a Design Dream into Reality — Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -11728,9 +11759,10 @@ Shopping Cart - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -11981,9 +12013,10 @@ Checkout - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -12412,9 +12445,10 @@ Login - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -12672,9 +12706,10 @@ My Account - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -13026,9 +13061,10 @@ Order Received! - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -13303,9 +13339,10 @@ Return Policy - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -13595,9 +13632,10 @@ Product Details - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
@@ -13850,9 +13888,10 @@ Products - Galia Luxe Art
 
 
 -
-- Наши работы
-- О нас
-- Контакты
+- Our Creations
+- Workshops
+- About
+- Contact
 - עב|EN|РУ
 - מוצרים
 - עגלת קניות
