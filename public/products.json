@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T08:07:33.595Z",
+  "generated_at": "2026-05-28T08:36:01.733Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 10,
+  "count": 11,
   "products": [
+    {
+      "id": "bd3359c4-66d4-4689-933f-158190f221b9",
+      "slug": "pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-a6ohue",
+      "name": "פורטרט\\תמונה בעצוב אישי עם אבני סברובסקי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "יצירות אמנות בהתאמה אישית שהופכות את הרגעים היפים שלכם לזיכרון נוצץ ובלתי נשכח. אנו מעצבים פורטרטים ותמונות ייחודיות משובצות באלפי אבני סברובסקי מקוריות, המעניקות לכל חלל מראה יוקרתי, מרגש ומלא באור. להזמנה-צרו קשר",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://galia-luxe-art.com/product/pvrtrttmvnh-batsvb-ayshy-am-abny-sbrvbsky-a6ohue",
+      "categories": [],
+      "updated_at": "2026-05-28T08:35:30.575Z"
+    },
     {
       "id": "091fc58f-6d65-47bd-855f-4b5c0b88cb5b",
       "slug": "hchtvl-hnvtsts-the-sparkling-cat-83e6ov",
