@@ -17784,6 +17784,43 @@ header.glx-gallery__header .glx-gallery__title {
   object-position: 50% 30% !important;
 }
 }
+
+@media (max-width: 768px) {
+.nav-lang-switcher-mobile {
+  display: list-item !important;
+  padding: 10px 0 !important;
+  border-top: 1px solid rgba(44, 36, 32, 0.1) !important;
+  margin-top: 6px !important;
+}
+
+.nav-lang-switcher-mobile .mobile-lang-links {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  justify-content: center !important;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+}
+
+.nav-lang-switcher-mobile .mobile-lang-links a {
+  text-decoration: none !important;
+  color: var(--nav-text, #2D2926) !important;
+  padding: 4px 10px !important;
+  border-radius: 4px !important;
+  transition: background 0.2s ease !important;
+}
+
+.nav-lang-switcher-mobile .mobile-lang-links a:hover {
+  background: rgba(187, 169, 138, 0.15) !important;
+  color: var(--nav-text-hover, #C46E4E) !important;
+}
+
+.nav-lang-switcher-mobile .mobile-lang-sep {
+  color: var(--border-light, #7f7c77) !important;
+  font-size: 0.7rem !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
