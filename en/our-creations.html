@@ -775,13 +775,99 @@
   </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div>
 <div class="nav-cta-container">
   <div class="lang-switcher" id="zappy-lang-switcher" style="display:flex;align-items:center;gap:6px;font-family:'Inter',sans-serif;font-size:0.82rem;font-weight:500;">
-    <a href="/" class="lang-option lang-he" title="עברית" style="text-decoration:none;padding:4px 8px;border-radius:4px;color:var(--nav-text);border:1px solid transparent;transition:all 0.2s ease;">עב</a>
+    <a href="/" class="lang-option lang-he" id="lang-link-he" title="עברית" style="text-decoration:none;padding:4px 8px;border-radius:4px;color:var(--nav-text);border:1px solid transparent;transition:all 0.2s ease;">עב</a>
     <span style="color:var(--border-light);font-size:0.7rem;">|</span>
-    <a href="/en/" class="lang-option lang-en" title="English" style="text-decoration:none;padding:4px 8px;border-radius:4px;color:var(--nav-text);border:1px solid transparent;transition:all 0.2s ease;">EN</a>
+    <a href="/en/" class="lang-option lang-en" id="lang-link-en" title="English" style="text-decoration:none;padding:4px 8px;border-radius:4px;color:var(--nav-text);border:1px solid transparent;transition:all 0.2s ease;">EN</a>
     <span style="color:var(--border-light);font-size:0.7rem;">|</span>
-    <a href="/ru/" class="lang-option lang-ru" title="Русский" style="text-decoration:none;padding:4px 8px;border-radius:4px;color:var(--nav-text);border:1px solid transparent;transition:all 0.2s ease;">РУ</a>
+    <a href="/ru/" class="lang-option lang-ru" id="lang-link-ru" title="Русский" style="text-decoration:none;padding:4px 8px;border-radius:4px;color:var(--nav-text);border:1px solid transparent;transition:all 0.2s ease;">РУ</a>
   </div>
-</div></div>
+</div>
+<script>
+(function() {
+  function updateLangSwitcher() {
+    var path = window.location.pathname;
+    // Remove trailing slash for processing, but preserve root
+    var cleanPath = path.replace(/\/$/, '') || '/';
+    
+    // Determine current language and base path
+    var lang = 'he';
+    var basePath = cleanPath;
+    
+    if (cleanPath === '/en' || cleanPath.startsWith('/en/')) {
+      lang = 'en';
+      basePath = cleanPath.replace(/^\/en/, '') || '/';
+    } else if (cleanPath === '/ru' || cleanPath.startsWith('/ru/')) {
+      lang = 'ru';
+      basePath = cleanPath.replace(/^\/ru/, '') || '/';
+    }
+    
+    // Normalize basePath: ensure it starts with /
+    if (!basePath.startsWith('/')) basePath = '/' + basePath;
+    
+    // Map page paths to their language equivalents
+    // Pages that exist in all 3 languages
+    var pageMap = {
+      '/': { he: '/', en: '/en/', ru: '/ru/' },
+      '/about': { he: '/about', en: '/en/about', ru: '/ru/about' },
+      '/our-creations': { he: '/our-creations', en: '/en/our-creations', ru: '/ru/our-work' },
+      '/workshops': { he: '/workshops', en: '/en/workshops', ru: '/ru/' },
+      '/contact': { he: '/contact', en: '/en/contact', ru: '/ru/contact' },
+      '/products': { he: '/our-creations', en: '/en/products', ru: '/ru/products' },
+      '/cart': { he: '/cart', en: '/en/cart', ru: '/ru/cart' },
+      '/checkout': { he: '/checkout', en: '/en/checkout', ru: '/ru/checkout' },
+      '/login': { he: '/login', en: '/en/login', ru: '/ru/login' },
+      '/account': { he: '/account', en: '/en/account', ru: '/ru/account' },
+      '/return-policy': { he: '/return-policy', en: '/en/return-policy', ru: '/ru/return-policy' },
+      '/privacy': { he: '/privacy', en: '/en/privacy', ru: '/ru/privacy' },
+      '/terms': { he: '/terms', en: '/en/terms', ru: '/ru/terms' },
+      '/accessibility': { he: '/accessibility', en: '/en/accessibility', ru: '/ru/accessibility' }
+    };
+    
+    // Find the matching map entry
+    var entry = pageMap[basePath];
+    
+    // Default fallback: just switch the prefix
+    if (!entry) {
+      entry = {
+        he: basePath,
+        en: '/en' + basePath,
+        ru: '/ru' + basePath
+      };
+    }
+    
+    // Update the link hrefs
+    var heLnk = document.getElementById('lang-link-he');
+    var enLnk = document.getElementById('lang-link-en');
+    var ruLnk = document.getElementById('lang-link-ru');
+    
+    if (heLnk) heLnk.href = entry.he;
+    if (enLnk) enLnk.href = entry.en;
+    if (ruLnk) ruLnk.href = entry.ru;
+    
+    // Highlight active language
+    var links = [heLnk, enLnk, ruLnk];
+    var langs = ['he', 'en', 'ru'];
+    links.forEach(function(lnk, i) {
+      if (!lnk) return;
+      if (langs[i] === lang) {
+        lnk.style.fontWeight = '700';
+        lnk.style.borderColor = 'var(--accent)';
+        lnk.style.color = 'var(--accent)';
+      } else {
+        lnk.style.fontWeight = '500';
+        lnk.style.borderColor = 'transparent';
+        lnk.style.color = 'var(--nav-text)';
+      }
+    });
+  }
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', updateLangSwitcher);
+  } else {
+    updateLangSwitcher();
+  }
+})();
+</script></div>
 
     
 
