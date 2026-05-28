@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T12:04:21.092Z",
+  "generated_at": "2026-05-28T05:58:56.056Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 11,
+  "count": 10,
   "products": [
     {
       "id": "091fc58f-6d65-47bd-855f-4b5c0b88cb5b",
@@ -49,29 +49,6 @@
       "url": "https://galia-luxe-art.com/product/shvrshym-shl-mvldt-roots-of-the-homeland-0gqngk",
       "categories": [],
       "updated_at": "2026-05-26T14:30:51.229Z"
-    },
-    {
-      "id": "a3be435d-e830-46d6-a199-f72d03fcf5af",
-      "slug": "algntyvt-mvzhbt-golden-majesty-0xurpd",
-      "name": "אלגנטיות מוזהבת - Golden Majesty",
-      "name_translations": {},
-      "description": "<p>&nbsp;פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: 80x80 ס\"מ.</p><p>• חומרים: אקריליק, עלי זהב וטקסטורות עשירות המעניקות עומק וניצנוץ יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית.</p>",
-      "short_description": "יצירה עוצמתית המשלבת עושר ויזואלי עם טכניקה ייחודית. השילוב של שחור עמוק וזהב בוהק מעניק ליצירה מראה מלכותי ויוקרתי, שמוסיף תחכום לכל חלל שבו היא תלויה.",
-      "sku": null,
-      "brand": null,
-      "price": 3800,
-      "base_price": 3800,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://galia-luxe-art.com/assets/product-1779805661184-1als4m.webp",
-        "https://galia-luxe-art.com/assets/product-1779805684454-0dj4lp.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/algntyvt-mvzhbt-golden-majesty-0xurpd",
-      "categories": [],
-      "updated_at": "2026-05-27T07:53:04.704Z"
     },
     {
       "id": "7515c959-2aa8-4294-a2f0-5a7a7b5b96a7",
@@ -218,15 +195,15 @@
     },
     {
       "id": "fa0d17c8-861d-4a18-865e-897c3ee57fb1",
-      "slug": "avtsmh-shkth-rpw0ns",
+      "slug": "avtsmh-shkth-h750pc",
       "name": "עוצמה שקטה",
       "name_translations": {},
       "description": "<p><br></p><p>יצירה מקורית בטכניקה מעורבת על MDF</p><p>עבודה עוצמתית ומלאת נוכחות בהשראת כוח, חכמה ואצילות הטבע.</p><p>דמות הפיל משתלבת בתוך שכבות של טקסטורה עמוקה, גווני שחור, אפור וזהב מטאלי היוצרים מראה יוקרתי ודרמטי.</p><p>גודל: 80 ס\"מ</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 6000,
-      "base_price": 6000,
+      "price": 3800,
+      "base_price": 3800,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -234,9 +211,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/avtsmh-shkth-rpw0ns",
+      "url": "https://galia-luxe-art.com/product/avtsmh-shkth-h750pc",
       "categories": [],
-      "updated_at": "2026-05-26T07:31:38.474Z"
+      "updated_at": "2026-05-28T05:58:38.844Z"
     },
     {
       "id": "91c417cd-04aa-4211-88f9-90bcf89dac6b",

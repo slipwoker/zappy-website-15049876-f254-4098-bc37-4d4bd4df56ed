@@ -170,7 +170,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 11**
+**Total active products: 10**
 
 ### החתול הנוצץ - The Sparkling Cat
 https://galia-luxe-art.com/product/hchtvl-hnvtsts-the-sparkling-cat-83e6ov
@@ -185,13 +185,6 @@ https://galia-luxe-art.com/product/shvrshym-shl-mvldt-roots-of-the-homeland-0gqn
 - Availability: In stock
 - Description: יצירה המשלבת את המפות הגיאוגרפיות של ישראל עם דמותו של עץ הזית, סמל עתיק של שלום, שורשים וחיבור נצחי. זוהי לא רק אמנות, אלא פיסה של היסטוריה ותרבות שמעניקה לחלל שלכם עומק ומשמעות.
 - Image: https://galia-luxe-art.com/assets/product-1779805820706-g5jtj9.webp
-
-### אלגנטיות מוזהבת - Golden Majesty
-https://galia-luxe-art.com/product/algntyvt-mvzhbt-golden-majesty-0xurpd
-- Price: 3800.00 ILS
-- Availability: In stock
-- Description: יצירה עוצמתית המשלבת עושר ויזואלי עם טכניקה ייחודית. השילוב של שחור עמוק וזהב בוהק מעניק ליצירה מראה מלכותי ויוקרתי, שמוסיף תחכום לכל חלל שבו היא תלויה.
-- Image: https://galia-luxe-art.com/assets/product-1779805661184-1als4m.webp
 
 ### הנחש - The Serpent
 https://galia-luxe-art.com/product/hnchsh-the-serpent-6fpdnk
@@ -236,8 +229,8 @@ https://galia-luxe-art.com/product/ynshvp-hchvkmh-tw0tve
 - Image: https://galia-luxe-art.com/assets/product-1779804993000-cvvon.webp
 
 ### עוצמה שקטה
-https://galia-luxe-art.com/product/avtsmh-shkth-rpw0ns
-- Price: 6000.00 ILS
+https://galia-luxe-art.com/product/avtsmh-shkth-h750pc
+- Price: 3800.00 ILS
 - Availability: In stock
 - Description: יצירה מקורית בטכניקה מעורבת על MDF עבודה עוצמתית ומלאת נוכחות בהשראת כוח, חכמה ואצילות הטבע. דמות הפיל משתלבת בתוך שכבות של טקסטורה עמוקה, גווני שחור, אפור וזהב מטאלי היוצרים מראה יוקרתי ודרמטי. גודל: 80 ס"מ
 - Image: https://galia-luxe-art.com/assets/product-1779780567450-l7wce.webp
