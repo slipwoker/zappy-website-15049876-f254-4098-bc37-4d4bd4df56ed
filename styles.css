@@ -17821,6 +17821,36 @@ header.glx-gallery__header .glx-gallery__title {
   font-size: 0.7rem !important;
 }
 }
+
+.product-detail-section {
+  overflow: hidden;
+  position: relative;
+}
+
+.product-detail-section .product-video-wrapper,
+.product-detail-section .product-media-video,
+.product-detail-section video,
+.product-detail-section iframe {
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+  position: relative;
+  z-index: 1;
+}
+
+.product-detail-section .product-video-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  z-index: 1;
+}
+
+.related-products-section {
+  position: relative;
+  z-index: 2;
+  clear: both;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
