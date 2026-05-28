@@ -101,6 +101,53 @@ https://galia-luxe-art.com/product/:slug
 https://galia-luxe-art.com/category/:slug
 מוצרים - Galia Luxe Art
 
+### /en/
+https://galia-luxe-art.com/en/
+תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
+
+### היצירות שלנו (EN)
+https://galia-luxe-art.com/en/our-creations
+המוצרים שלנו - Galia Luxe Art
+
+### /en/workshops
+https://galia-luxe-art.com/en/workshops
+
+### /en/about
+https://galia-luxe-art.com/en/about
+הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
+
+### /en/contact
+https://galia-luxe-art.com/en/contact
+רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
+
+### /en/cart
+https://galia-luxe-art.com/en/cart
+עגלת הקניות שלך
+
+### /en/checkout
+https://galia-luxe-art.com/en/checkout
+תשלום
+
+### /en/login
+https://galia-luxe-art.com/en/login
+התחברות לקוחות
+
+### /en/account
+https://galia-luxe-art.com/en/account
+החשבון שלי
+
+### /en/order-success
+https://galia-luxe-art.com/en/order-success
+תודה על ההזמנה
+
+### /en/product/:slug
+https://galia-luxe-art.com/en/product/:slug
+פרטי המוצר - Galia Luxe Art
+
+### /en/category/:slug
+https://galia-luxe-art.com/en/category/:slug
+מוצרים - Galia Luxe Art
+
 ## Legal & Policy
 
 ### Privacy Policy
