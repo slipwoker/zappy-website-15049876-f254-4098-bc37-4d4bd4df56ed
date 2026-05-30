@@ -103,9 +103,8 @@ Description: תמונות יוקרה עם טקסטורה לבית שמשנות �
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -408,9 +407,8 @@ Description: המוצרים שלנו - Galia Luxe Art
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -709,9 +707,8 @@ URL: https://galia-luxe-art.com/workshops
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -1042,9 +1039,8 @@ Description: הכירו את גליה, אמנית ויצירה שמתמחה בי
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -1581,9 +1577,8 @@ Description: רוצים יצירת אמנות בהתאמה אישית לבית �
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -1930,9 +1925,8 @@ Description: עגלת הקניות שלך
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -2189,9 +2183,8 @@ Description: תשלום
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -2626,9 +2619,8 @@ Description: התחברות לקוחות
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -2892,9 +2884,8 @@ Description: החשבון שלי
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -3252,9 +3243,8 @@ Description: תודה על ההזמנה
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -3535,9 +3525,8 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -3833,9 +3822,8 @@ Description: פרטי המוצר - Galia Luxe Art
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -4094,9 +4082,8 @@ Description: מוצרים - Galia Luxe Art
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -4310,9 +4297,8 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -4578,9 +4564,8 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
@@ -4855,9 +4840,8 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 
-
-English
-
+🇺🇸 English
+🇷🇺 Русский
 
 
 
