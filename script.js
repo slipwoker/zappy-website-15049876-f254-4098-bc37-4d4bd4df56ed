@@ -3807,27 +3807,36 @@ function stripHtmlToText(html) {
       }
     }
     
-    const orderNumberEl = document.getElementById('order-number-value');
+    /* ZAPPY_ORDER_SUCCESS_SPAN_FIX */
+    var orderNumberEl = document.getElementById('order-number-value');
     const orderDetailsSection = document.getElementById('order-details-section');
     const orderItemsList = document.getElementById('order-items-list');
     const orderTotalsSummary = document.getElementById('order-totals-summary');
     
-    if (!orderNumberEl) return;
+    if (!orderNumberEl) {
+          var h1 = document.querySelector('.order-success-title');
+          if (h1) {
+            var existingText = h1.textContent || '';
+            h1.innerHTML = existingText + ' <span class="order-number-inline" id="order-number-value"></span>';
+            orderNumberEl = document.getElementById('order-number-value');
+          }
+        }
     
     // Get reference from URL
     const urlParams = new URLSearchParams(window.location.search);
     const reference = urlParams.get('ref');
     
     if (!reference) {
-      orderNumberEl.textContent = t.orderNotFound || 'Order not found';
+      if (orderNumberEl) orderNumberEl.textContent = t.orderNotFound || 'Order not found';
       return;
     }
     
     // Extract order number from reference (format: zappy_websiteId_timestamp)
     const parts = reference.split('_');
     const orderDisplay = parts.length >= 3 ? parts[2] : reference;
-    orderNumberEl.textContent = '#' + orderDisplay;
+    if (orderNumberEl) orderNumberEl.textContent = '#' + orderDisplay;
     
+    let confirmedOrderData = null;
     // Confirm/create the order on the server (in case webhook didn't fire)
     const websiteId = window.ZAPPY_WEBSITE_ID;
     if (websiteId) {
@@ -3839,8 +3848,11 @@ function stripHtmlToText(html) {
         const confirmData = await confirmRes.json();
         if (confirmData.success) {
           console.log('✅ Order confirmed:', confirmData.data);
+          if (confirmData.data && confirmData.data.orderData) {
+            confirmedOrderData = confirmData.data.orderData;
+          }
           // Update order number to the official one if available
-          if (confirmData.data.orderNumber) {
+          if (confirmData.data.orderNumber && orderNumberEl) {
             orderNumberEl.textContent = '#' + confirmData.data.orderNumber;
           }
         } else {
@@ -3858,7 +3870,12 @@ function stripHtmlToText(html) {
       const pendingOrderKey = 'zappy_pending_order_' + reference;
       let pendingOrderData = localStorage.getItem(pendingOrderKey);
       
-      // If not in localStorage, fetch from API (cross-domain checkout)
+      // If not in localStorage, use confirmedOrderData from confirm-order response
+      if (!pendingOrderData && confirmedOrderData) {
+        pendingOrderData = JSON.stringify(confirmedOrderData);
+      }
+
+      // If still empty, fetch from API (cross-domain checkout)
       if (!pendingOrderData) {
         try {
           const res = await fetch(buildApiUrl('/api/ecommerce/pending-order/' + encodeURIComponent(reference)));
@@ -12881,10 +12898,10 @@ function fixContrast(){
 })();
 
 
-/* ZAPPY_ECOM_LANGUAGE_ROUTING_RUNTIME_V17 */
+/* ZAPPY_ECOM_LANGUAGE_ROUTING_RUNTIME_V19 */
 (function() {
-  if (window.__zappyEcomLanguageRoutingRuntime >= 17) return;
-  window.__zappyEcomLanguageRoutingRuntime = 17;
+  if (window.__zappyEcomLanguageRoutingRuntime >= 19) return;
+  window.__zappyEcomLanguageRoutingRuntime = 19;
 
   // Routing strategy: use path-based language URLs for ALL storefront pages
   // (including dynamic /product/:slug and /category/:slug). The publish
@@ -13011,7 +13028,12 @@ function fixContrast(){
   }
 
   function isStorefrontPath(href) {
-    return /^\/(?:[a-z]{2}\/)?(?:product|category|products)(?:\/|\?|#|$)/i.test(href || '');
+    // Includes the static account/login/cart/checkout pages (in addition to
+    // product/category/products) so the navbar login/account icon, the
+    // "please sign in" CTA, etc. keep the active language prefix — otherwise
+    // an English shopper clicking the account icon lands on the unprefixed
+    // default-language /account static file (Hebrew navbar + footer + body).
+    return /^\/(?:[a-z]{2}\/)?(?:product|category|products|account|login|cart|checkout)(?:\/|\?|#|$)/i.test(href || '');
   }
 
   function patchLinks(root) {
@@ -13355,6 +13377,24 @@ function fixContrast(){
   window.addEventListener('languageChanged', function() { setTimeout(patch, 0); });
   new MutationObserver(function(mutations) {
     var shouldPatch = mutations.some(function(mutation) {
+      // Re-patch when a storefront anchor's href is RESET by other runtime code
+      // after our initial patch. The baked-in updateHeaderAuthState (shipped in
+      // the stored script.js, which re-publishing does NOT regenerate) pins the
+      // navbar account/login icon back to the unprefixed default-language page
+      // once the customer profile finishes loading — often AFTER our scheduled
+      // patch() passes. On courses pages there is no language signal in the URL
+      // (language lives in localStorage), so the clobbered icon sends an English
+      // shopper to the Hebrew /account static file. Watching href mutations lets
+      // us immediately re-prefix it. The href !== buildPath(href) guard makes
+      // our own corrective setAttribute idempotent (no observer loop).
+      if (mutation.type === 'attributes') {
+        var tgt = mutation.target;
+        if (tgt && tgt.nodeType === 1 && tgt.tagName === 'A') {
+          var href = tgt.getAttribute('href');
+          return isStorefrontPath(href) && href !== buildPath(href);
+        }
+        return false;
+      }
       return Array.prototype.some.call(mutation.addedNodes || [], function(node) {
         return node.nodeType === 1 && (
           (node.matches && node.matches('a[href], .zappy-products-dropdown, #zappy-catalog-menu')) ||
@@ -13363,7 +13403,7 @@ function fixContrast(){
       });
     });
     if (shouldPatch) setTimeout(patch, 0);
-  }).observe(document.documentElement, { childList: true, subtree: true });
+  }).observe(document.documentElement, { childList: true, subtree: true, attributes: true, attributeFilter: ['href'] });
   setTimeout(patch, 250);
   setTimeout(patch, 1500);
 })();
