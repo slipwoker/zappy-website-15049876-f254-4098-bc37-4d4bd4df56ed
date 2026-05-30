@@ -25,33 +25,37 @@ https://galia-luxe-art.com/about
 https://galia-luxe-art.com/contact
 רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
 
-### עגלת קניות
+### Cart
 https://galia-luxe-art.com/cart
 עגלת הקניות שלך
 
-### תשלום
+### Checkout
 https://galia-luxe-art.com/checkout
 תשלום
 
-### התחברות
+### Login
 https://galia-luxe-art.com/login
 התחברות לקוחות
 
-### החשבון שלי
+### Account
 https://galia-luxe-art.com/account
 החשבון שלי
 
-### ההזמנה התקבלה!
+### Order Success
 https://galia-luxe-art.com/order-success
 תודה על ההזמנה
 
-### פרטי המוצר
+### Product Detail
 https://galia-luxe-art.com/product/:slug
 פרטי המוצר - Galia Luxe Art
 
-### מוצרים
+### Category
 https://galia-luxe-art.com/category/:slug
 מוצרים - Galia Luxe Art
+
+### Products
+https://galia-luxe-art.com/products
+המוצרים שלנו - Galia Luxe Art
 
 ## Legal & Policy
 
