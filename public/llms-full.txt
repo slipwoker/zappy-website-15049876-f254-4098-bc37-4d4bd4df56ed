@@ -83,7 +83,6 @@ Description: תמונות יוקרה עם טקסטורה לבית שמשנות �
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -97,12 +96,6 @@ Description: תמונות יוקרה עם טקסטורה לבית שמשנות �
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -225,7 +218,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -237,23 +230,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -261,7 +254,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -269,17 +262,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -287,15 +276,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -383,7 +376,6 @@ Description: המוצרים שלנו - Galia Luxe Art
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -397,12 +389,6 @@ Description: המוצרים שלנו - Galia Luxe Art
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -502,7 +488,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -514,23 +500,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -538,7 +524,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -546,17 +532,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -564,15 +546,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -679,7 +665,6 @@ URL: https://galia-luxe-art.com/workshops
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -694,11 +679,6 @@ URL: https://galia-luxe-art.com/workshops
 
 
 
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -722,13 +702,12 @@ EN
 
 
 
+✦ גליה לוקס ארט ✦
 
-✦ Galia Luxe Art ✦
-
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -854,7 +833,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -866,23 +845,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -890,7 +869,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -898,17 +877,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -916,15 +891,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -1007,7 +986,6 @@ Description: הכירו את גליה, אמנית ויצירה שמתמחה בי
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -1021,12 +999,6 @@ Description: הכירו את גליה, אמנית ויצירה שמתמחה בי
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -1175,7 +1147,7 @@ EN
 
 
 
-עלי זהב וכסף
+&amp;nbsp;עלי זהב וכסף
 מגע יוקרתי המוסיף ברק עדין ואלגנטיות לכל פינה בבית
 
 
@@ -1313,7 +1285,7 @@ EN
 
 
 
-## מוכנים להתחיל? — דברו איתי ישירות
+## מוכנים להתחיל?&amp;nbsp;— דברו איתי ישירות
 
 
 
@@ -1388,7 +1360,7 @@ galia.luxe.art@gmail.com
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -1400,154 +1372,15 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Превратите дизайнерскую мечту в реальность — Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/contact
-Description: רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
-
-Превратите дизайнерскую мечту в реальность — Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
 - אודות
+
 - צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
 
 
 
@@ -1555,78 +1388,7 @@ Description: רוצים יצירת אמנות בהתאמה אישית לבית �
 
 
 
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-גלריה
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
+### צור קשר
 
 
 
@@ -1634,7 +1396,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -1642,17 +1404,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -1660,3651 +1418,21 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Искусство и творчество — Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/
-Description: תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
-
-Искусство и творчество — Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Оригинальное элитное искусство
-
-# Произведения, которые говорятК душе
-
-
-Каждое произведение рождается из момента слушания — пространства, света, и людей, которые в нём живут. Оригинальное текстурное искусство, превращающее каждое пространство в чувственный опыт.
-
-
-Наши работы
-Наши работы
-
-
-
-
-
-
-
-
-Наш стиль
-
-## Минимализм, экспрессия, абстракция — каждый мир сам по себе
-
-
-Каждое произведение Galia Luxe Art создаётся вручную, слой за слоем — будь то гипс, шпатель, акрил или золотая фольга — каждое выбирает свой путь, пока поверхность не обретает собственную жизнь. Искусство, которое не объясняет себя, а приглашает тебя войти в него.
-
-
-Каждое произведение выходит из студии с сертификатом подлинности, готовое изменить атмосферу вашего дома.
-
-Все работы ←
-
-
-
-
-
-
-
-
-
-
-
-
-Наша галерея
-
-## Избранные произведения из студии
-
-
-
-
-
-
-
-
-
-Вся галерея
-
-
-
-
-
-
-
-## Рекомендуемые товары
-
-
-Загрузка товаров...
-
-
-Наши работы
-
-
-
-
-
-
-
-
-## Покупайте по категориям
-
-
-Загрузка категорий...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
+נגישות
 ·
 Created with Zappy
-
----
-
-## Продукты - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/products
-Description: המוצרים שלנו - Galia Luxe Art
-
-Продукты - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-# הПродукты שלנו
-
-
-
-
-Фильтр
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-טוען Продукты...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-Перейти к оплате
-
----
-
-## Наши работы
-
-URL: https://galia-luxe-art.com/ru/our-work
-Description: תיק העבודות של גליה לוקס ארט מציג אמנות טקסטורה מרהיבה לבית ולמשרד. כל יצירה היא עולם בפני עצמו — גלו את הקולקציה המלאה ומצאו את היצירה שמדברת אליכם.
-
-Наши работы
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-גלריה
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Наши работы
-
-
-
-
-
-
-
-
-
-
-## Произведения, говорящие с душой
-
-
-
-Каждое произведение Galia Luxe Art — это диалог между материей, текстурой и светом. Мы создаём оригинальное текстурное искусство вручную — работы, оживляющие стены дома, студии и офиса. Коллекция перед вами — это приглашение в мир, где каждая деталь содержит целое.
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Коллекция избранных работ
-
-
-## Наша галерея
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ко всей коллекции
-←
-
-
-
-
-
-
-
-
-
-
-
-
-
-Коллекция
-
-
-
-# Наши работы
-
-
-
-
-
-
-
-
-
-
-## Произведения, говорящие с душой
-
-
-
-Каждое произведение Galia Luxe Art — это диалог между материей, текстурой и светом. Мы создаём оригинальное текстурное искусство вручную — работы, оживляющие стены дома, студии и офиса. Коллекция перед вами — это приглашение в мир, где каждая деталь содержит целое.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Художница за каждым прикосновением роскоши — Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/about
-Description: הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
-
-Художница за каждым прикосновением роскоши — Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-גלריה
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Настенное искусство на заказ
-
-# Каждая стена — это холст.Каждое пространство — история.
-
-
-Оригинальные произведения, рождённые из слушания пространства, света и людей, которые в нём живут.
-
-
-Откройте мои работы
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Об художнице
-
-## Я Галия АдамИ искусство — это язык,на котором я думаю.
-
-
-
-
-Я выросла с руками, ищущими фактуру — пальцами, тянущимися к поверхности вещей, к шероховатости, скрытой под гладкостью. С юных лет я поняла, что живопись для меня — не занятие, а способ существования в мире. Каждая работа, которую я создаю, — это диалог между материей и эмоцией, между слоем и слоем, между тем, что видно глазу, и тем, что ощущается сердцем.
-
-
-Мои произведения рождаются из мира цвета, текстуры и глубины. Я верю, что настоящее искусство не объясняет себя — оно приглашает тебя войти в него, прикоснуться, дышать. Каждая картина, выходящая из моей студии, несёт в себе слои замысла, красоты, созданной медленно, роскоши, которую чувствуешь прежде, чем видишь.
-
-
-
-
-
-
-
-
-
-
-
-"Хорошее искусство не украшает комнату — оно меняет её энергию. Оно рассказывает историю, которую невозможно перестать слушать."
-
-— Галия, художница и творец
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Прикосновение, фактура и ручная работа
-
-
-Каждое произведение рождается из слоёв — слой за слоем материала, цвета и текстуры — пока поверхность не обретает собственную жизнь. В своих работах я сочетаю техники смешанных медиа с гипсом, шпаклёвкой, акрилом и золотой фольгой, создавая роскошные картины с текстурой, которые приглашают взгляд блуждать, а руку — прикасаться. Каждая деталь продумана, каждая глубина намеренна — потому что настоящее искусство должно ощущаться так же, как выглядит.
-
-
-
-
-
-
-
-
-Гипс и шпатель
-Богатая трёхмерная текстура, придающая глубину и ощущение реальности каждому произведению
-
-
-
-
-
-
-
-Акрил и пигменты
-Глубокие и насыщенные цвета, сохраняющие свою силу на протяжении многих лет
-
-
-
-
-
-
-
-Золотая и серебряная фольга
-Роскошное прикосновение, добавляющее тонкий блеск и элегантность в каждый уголок дома
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Работы на заказ — как сделать заказ
-
-
-
-
-## Процесс работы — простой, личный и ориентированный на вас
-
-
-
-
-
-
-
-
-
-
-
-
-01
-
-### Знакомство
-
-
-Мы поговорим о пространстве, цветах и о том, что вы чувствуете, когда входите в него.
-
-
-
-
-
-
-
-
-
-
-02
-
-### Концептуальное предложение
-
-
-Я пришлю вам первоначальный эскиз и цветовую палитру, созданную специально для вашего пространства.
-
-
-
-
-
-
-
-
-
-
-03
-
-### Создание работы
-
-
-Каждое произведение создаётся вручную, слой за слоем, пока оно не заговорит именно на том языке, который вы хотели.
-
-
-
-
-
-
-
-
-
-
-04
-
-### Доставка и установка
-
-
-Произведение доставляется к вам тщательно упакованным, готовым к развеске и преображению атмосферы вашего дома.
-
-
-
-
-
-
-
-
-
-Готовы начать?
-
-
-
-
-
-
-
-
-
-
-
-Связаться
-
-
-
-
-## Готовы начать? — Свяжитесь со мной напрямую
-
-
-
-Каждый разговор начинается в WhatsApp — без форм, без ожидания. Только настоящий разговор о том, о чём вы мечтаете.
-
-
-
-
-
-
-
-
-Написать в WhatsApp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Эл. почта
-galia.luxe.art@gmail.com
-
-
-
-
-
-
-
-
-
-Телефон
-054-730-1007
-
-
-
-
-
-
-
-Доступна для первичных консультаций — бесплатно и без обязательств
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Корзина - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/cart
-Description: עגלת הקניות שלך
-
-Корзина - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Ваша корзина
-
-
-העגלה ריקה
-
-
-Итого:  ₪0
-Перейти к оплате
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-Перейти к оплате
-
----
-
-## Оплата - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/checkout
-Description: תשלום
-
-Оплата - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Оплата
-
-
-
-
-
-
-
-
-
-
-Контактные данные
-
-
-
-
-
-Уже есть аккаунт?   Войти здесь
-
-
-
-Вы вошли как:
-
-
-
-Выйти
-
-
-
-Полное имя *
-
-
-
-
-Номер телефона *
-
-
-
-
-Электронная почта *
-
-
-
-
-
-Далее
-
-
-
-
-
-
-
-
-
-Способ доставки
-
-
-
-
-טוען שיטות משלוח...
-
-
-
-
-
-Страна / Регион *
-
-
-
-
-
-
-
-
-Город *
-
-
-
-
-Улица и номер *
-
-
-
-
-
-
-Квартира, этаж, код здания, примечания и т.д.
-
-
-
-Почтовый индекс
-
-
-
-ישראל
-
-
-
-Далее
-
-
-
-
-
-
-
-
-
-Оплата
-
-
-
-
-טוען אפשרויות Оплата...
-
-Далее
-
-
-
-
-
-
-
-
-
-Товары
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Детали заказа
-
-
-
-
-
-У меня есть код купона
-
-
-
-
-Применить
-
-
-
-
-
-
-
-Удалить
-
-
-
-
-Промежуточная сумма:  ₪0
-Включая НДС:  ₪0
-Доставка:  ₪0
-Скидка:  ₪0
-
-סה"כ לОплата:  ₪0
-
-
-
-
-Я соглашаюсь с   Условиями использования
-
-
-
-Оформить заказ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-המשך לОплата
-
----
-
-## Вход — Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/login
-Description: התחברות לקוחות
-
-Вход — Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Вход для клиентов
-
-
-
-Введите свой адрес электронной почты, и мы отправим вам код для входа
-
-
-Отправить код
-
-
-
-Введите код, отправленный на вашу электронную почту
-
-
-Подтвердить
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-Перейти к оплате
-
----
-
-## Мой аккаунт - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/account
-Description: החשבון שלי
-
-Мой аккаунт - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Не подключён
-
-
-Необходимо войти для просмотра аккаунта
-
-Вход
-
-
-
-
-
-
-# Мой аккаунт
-
-
-
-Добро пожаловать,
-
-Выйти
-
-
-
-
-
-
-
-## Личные данные
-
-Редактировать профиль
-
-
-
-
-
-Имя:
--
-
-
-Телефон:
--
-
-
-
-
-
-
-Имя
-
-
-
-Телефон
-
-
-
-Сохранить изменения
-Отмена
-
-
-
-
-
-ישראל
-
-
-
-
-## Мои избранные
-
-
-
-
-
-
-אין עדיין Товары מועדפים
-
-גלריה
-
-
-
-
-
-
-
-## Ваши заказы
-
-
-
-
-Загрузка деталей заказа...
-
-
-
-
-Заказов пока нет
-
-גלריה
-
-
-
-
-
-
-
-
-ישראל
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-Перейти к оплате
-
----
-
-## Заказ получен! - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/order-success
-Description: תודה על ההזמנה
-
-Заказ получен! - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Спасибо за заказ Загрузка деталей заказа...
-
-
-Подтверждение заказа отправлено на вашу электронную почту
-
-
-
-
-תאריך עסקה
--
-
-
-אמצעי תשלום
--
-
-
-שיטת משלוח
--
-
-
-
-
-## Детали заказа
-
-
-
-
-המשך לדף הГлавная
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-Перейти к оплате
-
----
-
-## Детали товара - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/product/:slug
-Description: פרטי המוצר - Galia Luxe Art
-
-Детали товара - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-טוען Товары...
-
-
-
-
-
-## Товары דומים
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-Перейти к оплате
-
----
-
-## Продукты - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/category/:slug
-Description: מוצרים - Galia Luxe Art
-
-Продукты - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Фильтр
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-טוען Продукты...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-Перейти к оплате
 
 ---
 
@@ -5385,7 +1513,6 @@ Description: רוצים יצירת אמנות בהתאמה אישית לבית �
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -5399,12 +1526,6 @@ Description: רוצים יצירת אמנות בהתאמה אישית לבית �
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -5437,12 +1558,12 @@ EN
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -5556,7 +1677,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -5568,23 +1689,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -5592,7 +1713,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -5600,17 +1721,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -5618,15 +1735,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -5695,12 +1816,12 @@ Description: עגלת הקניות שלך
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -5729,7 +1850,6 @@ Description: עגלת הקניות שלך
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -5743,12 +1863,6 @@ Description: עגלת הקניות שלך
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -5785,7 +1899,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -5797,23 +1911,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -5821,7 +1935,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -5829,17 +1943,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -5847,15 +1957,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -5949,12 +2063,12 @@ Description: תשלום
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -5983,7 +2097,6 @@ Description: תשלום
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -5997,12 +2110,6 @@ Description: תשלום
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -6033,7 +2140,7 @@ EN
 
 
 
-כבר יש לך חשבון?   התחבר כאן
+כבר יש לך חשבון? &amp;nbsp; התחבר כאן
 
 
 
@@ -6217,7 +2324,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -6229,23 +2336,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -6253,7 +2360,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -6261,17 +2368,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -6279,15 +2382,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -6381,12 +2488,12 @@ Description: התחברות לקוחות
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -6415,7 +2522,6 @@ Description: התחברות לקוחות
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -6429,12 +2535,6 @@ Description: התחברות לקוחות
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -6478,7 +2578,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -6490,23 +2590,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -6514,7 +2614,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -6522,17 +2622,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -6540,15 +2636,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -6642,12 +2742,12 @@ Description: החשבון שלי
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -6676,7 +2776,6 @@ Description: החשבון שלי
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -6690,12 +2789,6 @@ Description: החשבון שלי
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -6833,7 +2926,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -6845,23 +2938,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -6869,7 +2962,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -6877,17 +2970,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -6895,15 +2984,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -6997,12 +3090,12 @@ Description: תודה על ההזמנה
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -7031,7 +3124,6 @@ Description: תודה על ההזמנה
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -7045,12 +3137,6 @@ Description: תודה על ההזמנה
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -7111,7 +3197,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -7123,23 +3209,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -7147,7 +3233,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -7155,17 +3241,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -7173,15 +3255,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -7275,12 +3361,12 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -7309,7 +3395,6 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -7323,12 +3408,6 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -7418,7 +3497,7 @@ Galia Luxe Art מחויבת לשביעות רצון לקוחותיה. מדיני
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -7430,23 +3509,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -7454,7 +3533,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -7462,17 +3541,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -7480,15 +3555,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -7602,7 +3681,6 @@ Description: פרטי המוצר - Galia Luxe Art
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -7616,12 +3694,6 @@ Description: פרטי המוצר - Galia Luxe Art
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -7660,7 +3732,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -7672,23 +3744,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -7696,7 +3768,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -7704,17 +3776,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -7722,15 +3790,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -7824,12 +3896,12 @@ Description: מוצרים - Galia Luxe Art
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -7858,7 +3930,6 @@ Description: מוצרים - Galia Luxe Art
 - סדנאות
 - אודות
 - צור קשר
-- עב|EN|РУ
 - מוצרים
 - עגלת קניות
 - תשלום
@@ -7872,12 +3943,6 @@ Description: מוצרים - Galia Luxe Art
 
 
 
-
-עב
-|
-EN
-|
-РУ
 
 
 
@@ -7940,7 +4005,7 @@ EN
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -7952,23 +4017,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -7976,7 +4041,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -7984,17 +4049,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -8002,15 +4063,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -8069,12 +4134,12 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -8221,7 +4286,7 @@ Galia Luxe Art ("החברה", "אנו", "שלנו") מחויבת להגן על �
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -8233,23 +4298,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -8257,7 +4322,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -8265,17 +4330,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -8283,15 +4344,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -8325,12 +4390,12 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -8418,7 +4483,7 @@ Galia Luxe Art מחויבת להנגיש את השירותים לכלל הציב
 
 - Dragon NaturallySpeaking
 
-- Switch navigation
+- ניווט מתג
 
 
 
@@ -8486,7 +4551,7 @@ Galia Luxe Art מחויבת להנגיש את השירותים לכלל הציב
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -8498,23 +4563,23 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
+- אודות
 
-- Contact
-
-
+- צור קשר
 
 
 
 
 
-### Contact Us
+
+
+### צור קשר
 
 
 
@@ -8522,7 +4587,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -8530,17 +4595,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -8548,15 +4609,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
@@ -8590,12 +4655,12 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 
-✦ Galia Luxe Art ✦
+✦ גליה לוקס ארט ✦
 
-## Наши работы
+## העבודות שלנו
 
 
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
+חוויה יצירתית ייחודית לכולם — בואו ליצור, ליהנות ולהתחבר
 
 
 
@@ -8623,7 +4688,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ## 1. הגדרות
 
 
-- "החברה" - Galia Luxe Art
+- "החברה" - גליה לוקס ארט
 
 - "המשתמש" - כל מי שגולש או משתמש באתר
 
@@ -8770,7 +4835,7 @@ Galia Luxe Art מספקת אמנות ויצירה דרך האתר. השירות�
 
 
 
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
+אמנות טקסטורלית עכשווית לאספנים ומעצבי פנים. כל יצירה — עולם בפני עצמו.
 
 
 
@@ -8782,174 +4847,15 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### Quick Navigation
+### ניווט מהיר
 
 
 
-- Home
+- בית
 
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Политика возврата — Galia Luxe Art
-
-URL: https://galia-luxe-art.com/ru/return-policy
-Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
-
-Политика возврата - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
 - אודות
+
 - צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
 
 
 
@@ -8957,130 +4863,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# מדיניות החזרת Товары
-
-
-עדכון אחרון: 6.5.2026
-
-
-
-Galia Luxe Art מחויבת לשביעות רצון לקוחותיה. מדיניות זו מפרטת את זכויותיכם להחזרת Товары בהתאם לחוק הגנת הצרכן.
-
-
-## 1. Право на отмену
-
-
-בהתאם לחוק הגנת הצרכן, עומדת לכם הזכות לבטל עסקה בתוך 14 ימים מיום קבלת המוצר.
-
-
-- Для пожилых граждан, новых репатриантов и людей с ограниченными возможностями — период отмены составляет 4 месяца
-
-- Товар должен быть возвращён в оригинальной упаковке
-
-- Возврат денежных средств будет осуществлён в течение 14 дней с момента уведомления об отмене
-
-
-
-
-## 2. Товары שלא ניתן להחזיר
-
-
-- Скоропортящиеся продукты питания
-
-- Товары שיוצרו במיוחד לפי הזמנה
-
-- Вскрытые программное обеспечение и компакт-диски
-
-- Вскрытые товары личной гигиены
-
-
-
-
-## 3. Бракованный товар
-
-
-В случае бракованного или не соответствующего описанию товара вы имеете право на полный возврат средств без платы за отмену, включая возврат стоимости доставки.
-
-
-## 4. Связаться с нами
-
-
-
-Для оформления возврата или по вопросам:
-
-
-אימייל: galia.luxe.art@gmail.com
-
-
-טלפון: +972-054-7301007
-
-
-כתובת: ישראל
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
+### צור קשר
 
 
 
@@ -9088,7 +4871,7 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 - 054-730-1007
 
-- Israel
+- ישראל
 
 
 
@@ -9096,17 +4879,13 @@ Contemporary textural art for collectors and interior designers. Every piece —
 
 
 
-### The Studio
+### הסטודיו
 
 
 
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
+יצירות מקוריות בלבד — כל יצירה נוצרת בעבודת יד ומגיעה עם תעודת אמינות. זמין לפרויקטים אישיים ומסחריים.
 
-Book a Consultation
-
-
-
-
+קבע ייעוץ
 
 
 
@@ -9114,5804 +4893,19 @@ Book a Consultation
 
 
 
-© 2026 Galia Luxe Art. All rights reserved.
 
 
-Privacy Policy
+
+
+© 2026 Galia Luxe Art. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 ·
-Terms of Use  |
-Return Policy
+תנאי שימוש  |
+מדיניות החזרות
 ·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Ваша корзина
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Итого:
-₪0
-
-Перейти к оплате
-
----
-
-## Политика конфиденциальности
-
-URL: https://galia-luxe-art.com/ru/privacy
-Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
-
-Политика конфиденциальности
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-# Политика конфиденциальности
-
-
-
-עדכון אחרון:  6.5.2026
-
-
-
-Galia Luxe Art ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיותכם. Политика конфиденциальности זו מסבירה כיצד אנו אוספים, משתמשים ומגינים על המידע שלכם בעת השימוש באתר https://galia-luxe-art.com ("השירות").
-
-
-## 1. Сбор информации
-
-
-Мы можем собирать следующие виды информации:
-
-
-- מידע אישי: Имя, адрес электронной почты, номер телефона и адрес
-
-- מידע טכני: IP-адрес, тип браузера, операционная система и данные об использовании сайта
-
-- עוגיות: Информация, сохраняемая на вашем компьютере для улучшения пользовательского опыта
-
-
-
-
-## 2. Использование информации
-
-
-Мы используем собранную информацию в следующих целях:
-
-
-- Предоставление запрошенных услуг
-
-- Улучшение сервиса и пользовательского опыта
-
-- Связь с вами по поводу наших услуг
-
-- Соблюдение законодательных требований
-
-
-
-
-## 3. Передача информации
-
-
-Мы не будем продавать, сдавать в аренду или передавать вашу личную информацию третьим лицам, за исключением следующих случаев:
-
-
-- С вашего явного согласия
-
-- Когда это требуется по закону
-
-- Для защиты наших прав или безопасности наших пользователей
-
-- С поставщиками услуг, помогающими в работе сервиса (в соответствии с соглашениями о конфиденциальности)
-
-
-
-
-## 4. Права пользователя
-
-
-В соответствии с Законом о защите конфиденциальности 5741-1981, вы имеете следующие права:
-
-
-- Право на ознакомление с хранящейся о вас личной информацией
-
-- Право на исправление неверной или неточной информации
-
-- Право на удаление личной информации в определённых обстоятельствах
-
-- Право на возражение против обработки информации в маркетинговых целях
-
-- Право на подачу жалобы регистратору баз данных
-
-
-
-
-## 5. Файлы cookie (Cookies)
-
-
-Наш сайт использует файлы cookie для улучшения пользовательского опыта. Вы можете управлять файлами cookie через настройки вашего браузера. Отключение файлов cookie может повлиять на функциональность сайта.
-
-
-## 6. Защита информации
-
-
-Мы принимаем разумные меры безопасности для защиты вашей информации, включая шифрование, межсетевые экраны и ограниченный контроль доступа. Тем не менее, ни один метод передачи или хранения данных не является на 100% безопасным.
-
-
-## 7. Изменения в политике
-
-
-אנו עשויים לעדכן Политика конфиденциальности זו מעת לעת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום.
-
-
-
-## 8. Контактная информация
-
-
-לשאלות או בקשות בנוגע לПолитика конфиденциальности זו, ניתן לפנות אלינו:
-
-
-- חברה: Galia Luxe Art
-
-- אימייל: galia.luxe.art@gmail.com
-
-- טלפון: +972-054-7301007
-
-- כתובת: ישראל
-
-
-
-רשם מאגרי המידע: С жалобами можно обратиться к регистратору баз данных в Министерстве юстиции
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Заявление о доступности
-
-URL: https://galia-luxe-art.com/ru/accessibility
-Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
-
-Заявление о доступности
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-# Заявление о доступности
-
-
-
-עדכון אחרון:  6.5.2026
-
-
-
-Galia Luxe Art стремится сделать свои услуги доступными для всех. Мы работаем над соблюдением израильского стандарта (ת"י 5568), основанного на руководящих принципах WCAG 2.1 уровня AA.
-
-
-רמת Доступность: AA (תקן Израильי ת"י 5568)
-
-
-
-## 1. Политика доступности
-
-
-Мы верим в равенство прав и в право каждого человека получать информацию и услуги самостоятельно и на равных условиях. Этот сайт был спроектирован и разработан с особым акцентом на доступность для людей с ограниченными возможностями.
-
-
-## 2. Условия доступности на сайте
-
-
-- Поддержка навигации с помощью клавиатуры
-
-- Поддержка программ чтения с экрана
-
-- Подходящий контраст цветов
-
-- Гибкие и масштабируемые размеры шрифтов
-
-- Подробные описания изображений (Alt text)
-
-- Иерархически структурированные заголовки
-
-- Описательные и понятные ссылки
-
-- Поддержка масштабирования до 200% без потери содержимого
-
-
-
-
-
-### Соответствие стандарту WCAG 2.1
-
-
-Сайт соответствует уровню AA стандарта WCAG 2.1, который включает:
-
-
-- נתפס (Perceivable): Информация представлена способами, доступными для восприятия пользователями
-
-- פעיל (Operable): Компоненты интерфейса поддаются управлению
-
-- מובן (Understandable): Информация и пользовательский интерфейс понятны
-
-- חזק (Robust): Контент может быть интерпретирован различными технологиями
-
-
-
-
-
-## 3. Поддерживаемые вспомогательные технологии
-
-
-- NVDA (Windows)
-
-- JAWS (Windows)
-
-- VoiceOver (Mac/iOS)
-
-- TalkBack (Android)
-
-- Dragon NaturallySpeaking
-
-- Switch navigation
-
-
-
-
-## 4. Тестирование доступности
-
-
-Сайт проверяется с помощью:
-
-
-- Автоматических инструментов проверки доступности
-
-- Ручного тестирования с программами чтения с экрана
-
-- Навигации только с помощью клавиатуры
-
-- Проверки контрастности цветов
-
-- Тестирования с участием пользователей с ограниченными возможностями
-
-
-
-
-## 5. Постоянные улучшения
-
-
-Мы непрерывно работаем над улучшением доступности сайта и обновляем его в соответствии с технологическими разработками и отзывами пользователей.
-
-
-
-## 6. Обратная связь и контакты
-
-
-Если вы столкнулись с проблемой доступности на сайте или нуждаетесь в помощи, пожалуйста, свяжитесь с нами:
-
-
-- חברה: Galia Luxe Art
-
-- אימייל: galia.luxe.art@gmail.com
-
-- טלפון: +972-054-7301007
-
-
-
-זמני מענה: Мы ответим на обращения по вопросам доступности в течение 3 рабочих дней и постараемся решить проблему в течение 10 рабочих дней.
-
-
-תלונות: Вы можете подать жалобу в Министерство юстиции — Комиссию по равным правам для людей с ограниченными возможностями
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Условия использования
-
-URL: https://galia-luxe-art.com/ru/terms
-Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
-
-Условия использования
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-# Условия использования
-
-
-
-עדכון אחרון:  6.5.2026
-
-
-
-השימוש באתר זה מהווה הסכמה לתנאי השימוש המפורטים להלן. אנא קראו בעיון לפני השימוש.
-
-
-
-## 1. Определения
-
-
-- "החברה" - Galia Luxe Art
-
-- "המשתמש" - Любой, кто просматривает или использует сайт
-
-- "השירותים" - Искусство и творчество, предоставляемые через сайт
-
-
-
-
-## 2. Описание услуг
-
-
-Galia Luxe Art предоставляет искусство и творчество через сайт. Услуги подчиняются условиям, изложенным в данном документе, и могут время от времени изменяться.
-
-
-## 3. Условия использования
-
-
-Использование сайта обусловлено соблюдением следующих условий:
-
-
-- Использование сайта исключительно в законных целях
-
-- Недопущение помех в работе сайта или других пользователей
-
-- Запрет на загрузку оскорбительного, незаконного или вредоносного контента
-
-- Уважение авторских прав и интеллектуальной собственности
-
-- Запрет на действия, способные нанести ущерб безопасности сайта
-
-
-
-
-## 4. Обязанности пользователя
-
-
-- Предоставление правильной и точной информации при регистрации или заказе
-
-- Сохранение конфиденциальности данных доступа к аккаунту
-
-- Немедленное уведомление о любом несанкционированном использовании аккаунта
-
-- Обновление личной информации по мере необходимости
-
-
-
-
-## 5. Политика оплаты и возвратов
-
-
-В случае если услуги включают оплату:
-
-
-- Платежи осуществляются через безопасные и зашифрованные системы
-
-- Цены включают НДС в соответствии с требованиями закона
-
-- Право на отмену сделки действует в соответствии с законом о защите прав потребителей
-
-- Возвраты осуществляются в течение 14 рабочих дней с момента подтверждения отмены
-
-
-
-
-## 6. Ограничение ответственности
-
-
-Услуги предоставляются «как есть» без каких-либо гарантий. Компания не несёт ответственности за косвенный, вытекающий или особый ущерб, возникший в результате использования сайта, за исключением случаев, предусмотренных законом.
-
-
-## 7. Авторские права и интеллектуальная собственность
-
-
-Весь контент на сайте, включая тексты, изображения, дизайн и код, защищён авторскими правами, принадлежащими Galia Luxe Art. Запрещается воспроизводить, распространять или использовать контент в коммерческих целях без письменного разрешения.
-
-
-## 8. Конфиденциальность
-
-
-Сбор и использование персональных данных регулируются нашей политикой конфиденциальности. Использование сайта означает согласие с политикой конфиденциальности, изложенной отдельно.
-
-
-## 9. Изменение условий использования
-
-
-החברה רשאית לשנות Условия использования אלה בכל עת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום. המשך השימוש לאחר השינוי מהווה הסכמה לתנאים החדשים.
-
-
-## 10. Прекращение обслуживания
-
-
-Компания вправе прекратить или ограничить обслуживание в любое время, в том числе в случае нарушения условий использования. В случае прекращения обслуживания положения соответствующих разделов сохраняют силу.
-
-
-## 11. Применимое право и разрешение споров
-
-
-Условия использования אלה כפופים לחוקי מדינת Израиль. כל סכסוך יידון בבתי המשפט המוסמכים בИзраиль, תוך מתן עדיפות לבוררות או גישור במידת האפשר.
-
-
-## 12. Общие положения
-
-
-- Если какая-либо часть условий будет признана недействительной, остальные условия сохраняют силу
-
-- Неприменение права не считается отказом от него
-
-- Условия использования составляют полное соглашение между сторонами
-
-
-
-
-
-## 13. Контактная информация
-
-
-По вопросам или уточнениям относительно условий использования:
-
-
-- חברה: Galia Luxe Art
-
-- אימייל: galia.luxe.art@gmail.com
-
-- טלפון: +972-054-7301007
-
-- כתובת: ישראל
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Art and Creation — Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/
-Description: תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
-
-Art and Creation — Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Original Luxury Art
-
-# Works That SpeakTo the Soul
-
-
-Every piece is created from a moment of listening — to the space, the light, and the people who live in it. Original texture art that transforms every space into a sensory experience.
-
-
-גלריה
-גלריה
-
-
-
-
-
-
-
-
-
-Our Style
-
-## Minimalism, Expression, Abstract — Each a World of Its Own
-
-
-Every piece by Galia Adam is created by hand, layer by layer — whether in texture paste, spatula, acrylic, or gold leaf — each one finding its own path until the surface takes on a life of its own. Art that doesn't explain itself, but invites you to enter it.
-
-
-Every piece leaves the studio with a certificate of authenticity, ready to transform the atmosphere of your home.
-
-
-גלריה
-
-
-
-
-
-
-
-
-
-
-
-
-
-Our Gallery
-
-## A Selection of Works from the Studio
-
-
-
-
-
-
-
-
-
-
-
-גלריה
-
-
-
-
-
-
-
-## Featured Products
-
-
-Loading products...
-
-
-גלריה
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Our Works
-
-URL: https://galia-luxe-art.com/en/our-creations
-Description: המוצרים שלנו - Galia Luxe Art
-
-Our Works
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Our Works
-
-
-
-
-Filter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Loading products...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## /en/workshops
-
-URL: https://galia-luxe-art.com/en/workshops
-
-Workshops
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### For Adults
-
-
-Workshops תוכן וחוויה במגוון תחומי יצירה — הזדמנות להתנתק, לחקור ולבטא את עצמך דרך האמנות.
-
-
-
-- Painting on canvas and fabric
-
-- HEודה עם חומרים מגוונים
-
-- Personal and professional guidance
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### For Companies and Organizations
-
-
-Unforgettable team-building days and business events — a creative experience that strengthens teams and creates shared memories.
-
-
-
-- Personalized team-building days
-
-- Unique corporate events
-
-- Strengthening team spirit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### For Children and Youth
-
-
-ימי הולדת, HEודה מעשית על תמונה או עם אבני חן — פעילויות יצירתיות, מעצימות ומלאות הנאה.
-
-
-
-- Special birthday parties
-
-- HEודה עם אבני חן
-
-- Empowering activities for youth
-
-
-
-
-
-
-
-
-
-
-For details and registration ←
-
-We'd love to help you choose the right workshop
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## The Artist Behind Every Touch of Luxury — Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/about
-Description: הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
-
-The Artist Behind Every Touch of Luxury — Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-גלריה
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Custom Wall Art
-
-# Every wall is a canvas.Every space — a story.
-
-
-Original works born from listening to the space, the light, and the people who live in it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-About the Artist
-
-## I am Galia AdamAnd art is the languagein which I think.
-
-
-
-
-I grew up with hands that seek texture — fingers drawn to the surface of things, to the roughness hiding beneath the smooth. From a young age I understood that textural painting is not an occupation, but a way of being in the world. Every work I create is a conversation between material and emotion, between layer and layer, between what is seen by the eye and what is felt in the heart.
-
-
-My works are born from a world of color, texture, and depth. I believe that true art does not explain itself — it invites you to enter it, to touch, to breathe. Every painting that leaves my studio carries within it layers of intention, of beauty built slowly, of luxury that is felt before it is seen.
-
-
-
-
-
-
-
-
-
-
-
-"Good art doesn't decorate the room — it transforms its energy. It tells a story you can't stop hearing."
-
-— Galia, Creator and Artist
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Touch, Texture, and Craftsmanship
-
-
-Every work is born from layers — layer upon layer of material, color, and texture — until the surface takes on a life of its own. In my works I combine mixed-media techniques with texture paste, spatula, acrylic, and gold leaf, creating luxury textural art that invites the eye to wander and the hand to touch. Every detail is deliberate, every depth intentional — because true art must feel the way it looks.
-
-
-
-
-
-
-
-
-Texture Paste and Spatula
-Rich three-dimensional texture that gives depth and a sense of reality to every work
-
-
-
-
-
-
-
-Acrylic and Pigments
-Deep and rich colors that preserve their intensity for many years
-
-
-
-
-
-
-
-Gold and Silver Leaf
-A luxurious touch that adds a subtle shimmer and elegance to every corner of the home
-
-
-
-
-
-
-
-Mirrors and Epoxy Resin
-A transparent finishing layer that gives the painting depth, shimmer, and a contemporary and breathtaking feel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HEודות בהתאמה אישית-איך מזמינים
-
-
-
-
-## תהליך HEודה — פשוט, אישי, ומכוון אליכם
-
-
-
-
-
-
-
-
-
-
-
-
-01
-
-### Getting Acquainted Meeting
-
-
-We will talk about the space, the colors, and what you feel when you enter it.
-
-
-
-
-
-
-
-
-
-
-02
-
-### Concept Proposal
-
-
-אשלח לכם סקיצה ראשונית ופלטת צבעים שתיוצר במיוחד HEור המרחב שלכם.
-
-
-
-
-
-
-
-
-
-
-03
-
-### יצירת הHEודה
-
-
-Every work is created by hand, layer by layer, until it speaks exactly in the language you wanted.
-
-
-
-
-
-
-
-
-
-
-04
-
-### Shipping and Installation
-
-
-הHEודה מגיעה אליכם ארוזה בקפידה, מוכנה להתלות ולשנות את האווירה של הHome.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Get in Touch
-
-
-
-
-## מוכנים להתחיל? — דברו איתי ישירות
-
-
-
-כל שיחה מתחילה בוואטסאפ — ללא טפסים, ללא המתנה. רק שיחה אמיתית על מה שאתם חולמים עליו.
-
-
-
-
-
-
-
-
-Send a WhatsApp Message
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Email
-galia.luxe.art@gmail.com
-
-
-
-
-
-
-
-
-
-Phone
-054-730-1007
-
-
-
-
-
-
-
-Available for initial consultation calls — free of charge and with no obligation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Turn a Design Dream into Reality — Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/contact
-Description: רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
-
-Turn a Design Dream into Reality — Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-גלריה
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Send me a WhatsApp
-
-
-Available to answer questions, chat about artworks and schedule meetings — directly on WhatsApp
-
-
-Send a Message
-
-
-
-
-
-
-
-
-
-
-### Follow me on Instagram
-
-
-A glimpse into my creative world — processes, new works and the inspiration behind every piece of art
-
-
-Follow Now
-
-
-
-
-
-
-
-
-
-### Leave Your Details
-
-
-And I'll get back to you as soon as possible
-
-
-
-
-Full Name  *
-
-
-
-Email  *
-
-
-
-
-
-Phone
-
-
-
-
-Message  *
-
-
-
-
-Send a Message
-
-
-
-
-
-הMessage נשלחה בהצלחה! אחזור אלייך בקרוב 🎨
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Shopping Cart - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/cart
-Description: עגלת הקניות שלך
-
-Shopping Cart - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Your Shopping Cart
-
-
-העגלה ריקה
-
-
-Total:  ₪0
-המשך לCheckout
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## תשלום
-
-URL: https://galia-luxe-art.com/en/checkout
-Description: תשלום
-
-Checkout - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Checkout
-
-
-
-
-
-
-
-
-
-
-Contact Details
-
-
-
-
-
-Already have an account?   Login here
-
-
-
-Logged in as:
-
-
-
-Logout
-
-
-
-Full Name *
-
-
-
-
-Phone Number *
-
-
-
-
-Email *
-
-
-
-
-
-Next
-
-
-
-
-
-
-
-
-
-Shipping Method
-
-
-
-
-טוען שיטות משלוח...
-
-
-
-
-
-Country / Province *
-
-
-
-
-
-
-
-
-City *
-
-
-
-
-Street and Number *
-
-
-
-
-
-
-Apartment, Floor, Building Code, Notes, etc.
-
-
-
-Postal Code
-
-
-
-Israel
-
-
-
-Next
-
-
-
-
-
-
-
-
-
-Checkout
-
-
-
-
-טוען אפשרויות Checkout...
-
-Next
-
-
-
-
-
-
-
-
-
-Items
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Order Details
-
-
-
-
-
-I have a coupon code
-
-
-
-
-Apply
-
-
-
-
-
-
-
-Remove
-
-
-
-
-Subtotal:  ₪0
-Including VAT:  ₪0
-Shipping:  ₪0
-Discount:  ₪0
-
-סה"כ לCheckout:  ₪0
-
-
-
-
-I agree to the   Terms of Use
-
-
-
-Place Order
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## Login - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/login
-Description: התחברות לקוחות
-
-Login - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Login לקוחות
-
-
-
-הזן את כתובת האימייל שלך ונשלח לך קוד Login
-
-
-Send Code
-
-
-
-Enter the code sent to your email
-
-
-Verify
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## My Account - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/account
-Description: החשבון שלי
-
-My Account - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Not Connected
-
-
-You must be logged in to view the account
-
-Login
-
-
-
-
-
-
-# My Account
-
-
-
-Welcome,
-
-Logout
-
-
-
-
-
-
-
-## Personal Details
-
-Edit Profile
-
-
-
-
-
-Name:
--
-
-
-Phone:
--
-
-
-
-
-
-
-Name
-
-
-
-Phone
-
-
-
-Save Changes
-Cancel
-
-
-
-
-
-Israel
-
-
-
-
-## My Favorites
-
-
-
-
-
-
-אין עדיין Products מועדפים
-
-גלריה
-
-
-
-
-
-
-
-## Your Orders
-
-
-
-
-Loading order details...
-
-
-
-
-No orders yet
-
-גלריה
-
-
-
-
-
-
-
-
-Israel
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## Order Received! - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/order-success
-Description: תודה על ההזמנה
-
-Order Received! - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Thank You for Your Order Loading order details...
-
-
-Order confirmation sent to your email
-
-
-
-
-תאריך עסקה
--
-
-
-אמצעי Checkout
--
-
-
-שיטת משלוח
--
-
-
-
-
-## Order Details
-
-
-
-
-Continue to Homepage
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## Return Policy - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/return-policy
-Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
-
-Return Policy - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# מדיניות החזרת Products
-
-
-עדכון אחרון: 6.5.2026
-
-
-
-Galia Luxe Art מחויבת לשביעות רצון לקוחותיה. מדיניות זו מפרטת את זכויותיכם להחזרת Products בהתאם לחוק הגנת הצרכן.
-
-
-## 1. Right of Cancellation
-
-
-בהתאם לחוק הגנת הצרכן, עומדת לכם הזכות לבטל עסקה בתוך 14 ימים מיום קבלת המוצר.
-
-
-- For senior citizens, new immigrants, and people with disabilities - the cancellation period is 4 months
-
-- The product must be returned in its original packaging
-
-- The refund will be processed within 14 days of the cancellation notice
-
-
-
-
-## 2. Products שלא ניתן להחזיר
-
-
-- Perishable food products
-
-- Products שיוצרו במיוחד לפי הזמנה
-
-- Opened software and CDs
-
-- Opened personal hygiene products
-
-
-
-
-## 3. Defective Product
-
-
-In the case of a defective product or one that differs from its description, you are entitled to a full refund without cancellation fees, including a refund of shipping costs.
-
-
-## 4. Contact Us
-
-
-
-To process a return or for inquiries:
-
-
-אימייל: galia.luxe.art@gmail.com
-
-
-טלפון: +972-054-7301007
-
-
-כתובת: Israel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## Product Details - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/product/:slug
-Description: פרטי המוצר - Galia Luxe Art
-
-Product Details - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-טוען Products...
-
-
-
-
-
-## Products דומים
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## Products - Galia Luxe Art
-
-URL: https://galia-luxe-art.com/en/category/:slug
-Description: מוצרים - Galia Luxe Art
-
-Products - Galia Luxe Art
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
-- גלריה
-- סדנאות
-- אודות
-- צור קשר
-- עב|EN|РУ
-- מוצרים
-- עגלת קניות
-- תשלום
-- התחברות
-- החשבון שלי
-0
-
-
-
-
-
-
-
-
-עב
-|
-EN
-|
-РУ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Filter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Loading products...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
-
-
-
-
-
-
-
-
-
-## Your Shopping Cart
-
-
-
-
-
-
-העגלה ריקה
-
-
-
-Total:
-₪0
-
-המשך לCheckout
-
----
-
-## Privacy Policy
-
-URL: https://galia-luxe-art.com/en/privacy
-Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
-
-Privacy Policy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-# Privacy Policy
-
-
-
-עדכון אחרון:  6.5.2026
-
-
-
-Galia Luxe Art ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיותכם. Privacy Policy זו מסבירה כיצד אנו אוספים, משתמשים ומגינים על המידע שלכם בעת השימוש באתר https://galia-luxe-art.com ("השירות").
-
-
-## 1. Information Collection
-
-
-We may collect the following types of information:
-
-
-- מידע אישי: Name, email address, phone number, and address
-
-- מידע טכני: IP address, browser type, operating system, and website usage data
-
-- עוגיות: Information stored on your computer to improve the user experience
-
-
-
-
-## 2. Use of Information
-
-
-We use the collected information for the following purposes:
-
-
-- Providing the requested services
-
-- Improving the service and user experience
-
-- Contacting you regarding our services
-
-- Compliance with legal requirements
-
-
-
-
-## 3. Information Sharing
-
-
-We will not sell, rent, or share your personal information with third parties, except in the following cases:
-
-
-- With your explicit consent
-
-- When required by law
-
-- To protect our rights or the safety of our users
-
-- With service providers who assist in operating the service (under confidentiality agreements)
-
-
-
-
-## 4. User Rights
-
-
-In accordance with the Privacy Protection Law 5741-1981, you have the following rights:
-
-
-- The right to access the personal information stored about you
-
-- The right to correct inaccurate or imprecise information
-
-- The right to delete personal information under certain circumstances
-
-- The right to object to the processing of information for marketing purposes
-
-- The right to file a complaint with the Registrar of Databases
-
-
-
-
-## 5. Cookies
-
-
-Our website uses cookies to improve the user experience. You can manage cookies through your browser settings. Disabling cookies may affect the functionality of the website.
-
-
-## 6. Information Security
-
-
-We take reasonable security measures to protect your information, including encryption, firewalls, and limited access control. However, no method of transmission or storage is 100% secure.
-
-
-## 7. Policy Changes
-
-
-אנו עשויים לעדכן Privacy Policy זו מעת לעת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום.
-
-
-
-## 8. Contact Us
-
-
-לשאלות או בקשות בנוגע לPrivacy Policy זו, ניתן לפנות אלינו:
-
-
-- חברה: Galia Luxe Art
-
-- אימייל: galia.luxe.art@gmail.com
-
-- טלפון: +972-054-7301007
-
-- כתובת: Israel
-
-
-
-רשם מאגרי המידע: For complaints, you may contact the Registrar of Databases at the Ministry of Justice
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Accessibility Statement
-
-URL: https://galia-luxe-art.com/en/accessibility
-Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
-
-Accessibility Statement
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-# Accessibility Statement
-
-
-
-עדכון אחרון:  6.5.2026
-
-
-
-Galia Luxe Art is committed to making its services accessible to the general public. We work to implement the guidelines of the Israeli Standard (SI 5568) based on WCAG 2.1 guidelines at level AA.
-
-
-רמת Accessibility: AA (תקן Israelי ת"י 5568)
-
-
-
-## 1. Accessibility Policy
-
-
-We believe in equal rights and in every person's right to receive information and services independently and equally. This website was designed and built with special emphasis on accessibility for people with disabilities.
-
-
-## 2. Accessibility Features on the Site
-
-
-- Keyboard navigation support
-
-- Screen reader support
-
-- Appropriate color contrast
-
-- Flexible and scalable font sizes
-
-- Detailed image descriptions (Alt text)
-
-- Hierarchically structured headings
-
-- Descriptive and clear links
-
-- Zoom support up to 200% without loss of content
-
-
-
-
-
-### WCAG 2.1 Compliance
-
-
-The site complies with level AA of the WCAG 2.1 standard, which includes:
-
-
-- נתפס (Perceivable): Information is presented in ways that users can perceive
-
-- פעיל (Operable): Interface components are operable
-
-- מובן (Understandable): Information and the user interface are understandable
-
-- חזק (Robust): Content can be interpreted by a variety of technologies
-
-
-
-
-
-## 3. Supported Assistive Technologies
-
-
-- NVDA (Windows)
-
-- JAWS (Windows)
-
-- VoiceOver (Mac/iOS)
-
-- TalkBack (Android)
-
-- Dragon NaturallySpeaking
-
-- Switch navigation
-
-
-
-
-## 4. Accessibility Testing
-
-
-The site was tested using:
-
-
-- Automated accessibility testing tools
-
-- Manual testing with screen readers
-
-- Keyboard-only navigation
-
-- Color contrast testing
-
-- Testing with users with disabilities
-
-
-
-
-## 5. Ongoing Improvements
-
-
-We continuously work to improve the accessibility of the site and update it in accordance with technological developments and user feedback.
-
-
-
-## 6. Contact and Feedback
-
-
-If you encounter an accessibility issue on the site or need assistance, please contact us:
-
-
-- חברה: Galia Luxe Art
-
-- אימייל: galia.luxe.art@gmail.com
-
-- טלפון: +972-054-7301007
-
-
-
-זמני מענה: We will respond to accessibility inquiries within 3 business days and work to resolve them within 10 business days.
-
-
-תלונות: A complaint may be submitted to the Ministry of Justice - Commission for Equal Rights of Persons with Disabilities
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
-·
-Created with Zappy
-
----
-
-## Terms of Use
-
-URL: https://galia-luxe-art.com/en/terms
-Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
-
-Terms of Use
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-✦ Galia Luxe Art ✦
-
-## Наши работы
-
-
-Уникальный творческий опыт для всех — приходите творить, наслаждаться и общаться
-
-
-
-◆
-
-
-
-
-
-
-
-
-# Terms of Use
-
-
-
-עדכון אחרון:  6.5.2026
-
-
-
-השימוש באתר זה מהווה הסכמה לתנאי השימוש המפורטים להלן. אנא קראו בעיון לפני השימוש.
-
-
-
-## 1. Definitions
-
-
-- "החברה" - Galia Luxe Art
-
-- "המשתמש" - Anyone who browses or uses the website
-
-- "השירותים" - Art and creative works provided through the website
-
-
-
-
-## 2. Description of Services
-
-
-Galia Luxe Art provides art and creative works through the website. The services are subject to the terms detailed in this document and may change from time to time.
-
-
-## 3. Terms of Use
-
-
-Use of the website is conditioned on compliance with the following terms:
-
-
-- Use of the website for lawful purposes only
-
-- Non-interference with the website's operation or other users
-
-- Not uploading offensive, illegal, or harmful content
-
-- Respecting copyrights and intellectual property
-
-- Not performing actions that may compromise website security
-
-
-
-
-## 4. User Obligations
-
-
-- Providing correct and accurate information during registration or ordering
-
-- Maintaining the confidentiality of account access details
-
-- Immediate notification of any unauthorized use of the account
-
-- Updating personal information as needed
-
-
-
-
-## 5. Payment and Refund Policy
-
-
-If the services include payment:
-
-
-- Payments are processed through secure and encrypted systems
-
-- Prices include VAT as required by law
-
-- The right to cancel a transaction shall apply in accordance with the Consumer Protection Law
-
-- Refunds will be processed within 14 business days of cancellation approval
-
-
-
-
-## 6. Limitation of Liability
-
-
-The services are provided "as is" without warranty of any kind. The company shall not be liable for indirect, consequential, or special damages arising from the use of the website, except in cases where the law provides otherwise.
-
-
-## 7. Copyright and Intellectual Property
-
-
-All content on the website, including texts, images, design, and code, is protected by copyrights belonging to Galia Luxe Art. It is prohibited to copy, distribute, or make commercial use of the content without written permission.
-
-
-## 8. Privacy
-
-
-The collection and use of personal information is subject to our privacy policy. Use of the website constitutes consent to the privacy policy as detailed separately.
-
-
-## 9. Changes to Terms of Use
-
-
-החברה רשאית לשנות Terms of Use אלה בכל עת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום. המשך השימוש לאחר השינוי מהווה הסכמה לתנאים החדשים.
-
-
-## 10. Termination of Service
-
-
-The company may discontinue or restrict the service at any time, including in the event of a breach of the terms of use. In the event of termination of service, the provisions of the relevant sections shall be preserved.
-
-
-## 11. Governing Law and Dispute Resolution
-
-
-Terms of Use אלה כפופים לחוקי מדינת Israel. כל סכסוך יידון בבתי המשפט המוסמכים בIsrael, תוך מתן עדיפות לבוררות או גישור במידת האפשר.
-
-
-## 12. General Provisions
-
-
-- If any part of the terms is declared invalid, the remaining terms shall remain in effect
-
-- Non-enforcement of a right shall not be considered a waiver thereof
-
-- The terms of use constitute the entire agreement between the parties
-
-
-
-
-
-## 13. Contact Details
-
-
-For questions or clarifications regarding the terms of use:
-
-
-- חברה: Galia Luxe Art
-
-- אימייל: galia.luxe.art@gmail.com
-
-- טלפון: +972-054-7301007
-
-- כתובת: Israel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contemporary textural art for collectors and interior designers. Every piece — a world of its own.
-
-
-
-
-
-
-
-
-
-
-
-### Quick Navigation
-
-
-
-- Home
-
-- About
-
-- Contact
-
-
-
-
-
-
-
-### Contact Us
-
-
-
-- galia.luxe.art@gmail.com
-
-- 054-730-1007
-
-- Israel
-
-
-
-
-
-
-
-### The Studio
-
-
-
-Original works only — every piece is created by hand and comes with a certificate of authenticity. Available for personal and commercial projects.
-
-Book a Consultation
-
-
-
-
-
-
-
-
-
-
-
-© 2026 Galia Luxe Art. All rights reserved.
-
-
-Privacy Policy
-·
-Terms of Use  |
-Return Policy
-·
-Accessibility
+נגישות
 ·
 Created with Zappy
 
