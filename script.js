@@ -1501,6 +1501,8 @@ window.onload = function() {
 })();
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -7068,6 +7070,30 @@ function resolveProductsListingLabel(fallback) {
   return langIsRtl ? 'גלריה' : 'Gallery';
 }
 
+function repairCatalogSubmenuLabel() {
+  var navList = document.getElementById('zappy-nav-category-links');
+  if (!navList) return;
+  var firstLink = navList.querySelector('li:first-child a');
+  if (!firstLink) return;
+  firstLink.setAttribute('href', buildStorefrontPath(getProductsListingPath()));
+  firstLink.setAttribute('data-i18n', firstLink.getAttribute('data-i18n') || 'ecom_products');
+
+  var lang = (getCurrentLanguage() || document.documentElement.lang || '').split('-')[0].toLowerCase();
+  var langIsRtl = ['he', 'iw', 'ar', 'fa', 'ur'].indexOf(lang) !== -1;
+  var currentText = (firstLink.textContent || '').replace(/\s+/g, ' ').trim();
+  var currentHasRtlChars = /[֐-׿؀-ۿ]/.test(currentText);
+  if (window.zappyI18n && typeof window.zappyI18n.t === 'function') {
+    var translated = window.zappyI18n.t('ecom_products');
+    if (translated && translated !== 'ecom_products') {
+      firstLink.textContent = translated;
+      return;
+    }
+  }
+  if (!currentText || (!langIsRtl && currentHasRtlChars)) {
+    firstLink.textContent = langIsRtl ? 'מוצרים' : 'Products';
+  }
+}
+
 function repairProductsListingTitle() {
   var productsPageTitle = document.getElementById('products-page-title');
   if (!productsPageTitle) return;
@@ -8261,6 +8287,7 @@ document.addEventListener('DOMContentLoaded', function() {
   loadCatalogCategories();
   loadProductDetailPage();
   loadCategoryPage();
+  repairCatalogSubmenuLabel();
   
   // Register language change callback to refresh e-commerce content
   // This ensures translated product names, categories, etc. are displayed when switching languages
@@ -8296,6 +8323,7 @@ document.addEventListener('DOMContentLoaded', function() {
       // Update static e-commerce UI elements that are rendered at page generation time
       // These need to be manually updated when language changes
       updateStaticEcommerceUI();
+      repairCatalogSubmenuLabel();
       scheduleProductsListingTitleRepair();
       if (typeof renderCartDrawer === 'function') renderCartDrawer();
       if (typeof loadShippingMethods === 'function') loadShippingMethods();
@@ -8333,6 +8361,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     repairProductsListingTitle();
+    repairCatalogSubmenuLabel();
     
     // Update cart drawer empty message
     var emptyCartMsg = document.querySelector('.empty-cart p');
