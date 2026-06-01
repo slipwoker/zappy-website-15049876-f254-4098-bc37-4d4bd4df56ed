@@ -21655,6 +21655,22 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+#zappy-element-1780300538828-vnjecbjwu .zappy-grid-item-media-only {
+  height: 480px !important;
+  min-height: 480px !important;
+}
+
+#zappy-element-1780300538828-vnjecbjwu .zappy-grid-item-media-only [data-zappy-zoom-wrapper] {
+  height: 480px !important;
+  min-height: 480px !important;
+}
+
+#zappy-element-1780300538828-vnjecbjwu .zappy-grid-item-media-only img {
+  height: 480px !important;
+  width: 100% !important;
+  object-fit: cover !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
