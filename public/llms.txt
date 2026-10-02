@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 10**
+**Total active products: 5**
 
 ### The Sparkling Cat
 https://galia-luxe-art.com/product/the-sparkling-cat-8afmod
@@ -83,20 +83,6 @@ https://galia-luxe-art.com/product/the-sparkling-cat-8afmod
 - Availability: In stock
 - Description: יצירת אמנות ייחודית במינה המעוטרת ב-12,000 קריסטלים מנצנצים, ששובצו בעבודת יד קפדנית וסבלנית. כל קריסטל מונח במקומו כדי ליצור משחק אור וצל מהפנט. זהו פריט עיצובי יוקרתי שמעניק סטייל ואופי לכל פינה בבית.
 - Image: https://galia-luxe-art.com/assets/product-1779805910106-jc5n4.webp
-
-### Roots of the Homeland
-https://galia-luxe-art.com/product/roots-of-the-homeland-38adu3
-- Price: 4200.00 ILS
-- Availability: In stock
-- Description: יצירה המשלבת את המפות הגיאוגרפיות של ישראל עם דמותו של עץ הזית, סמל עתיק של שלום, שורשים וחיבור נצחי. זוהי לא רק אמנות, אלא פיסה של היסטוריה ותרבות שמעניקה לחלל שלכם עומק ומשמעות.
-- Image: https://galia-luxe-art.com/assets/product-1779805820706-g5jtj9.webp
-
-### The Serpent
-https://galia-luxe-art.com/product/the-serpent-pnujc3
-- Price: 1200.00 ILS
-- Availability: In stock
-- Description: הנחש, שנוצר בעבודת יד מוקפדת עם אלפי קריסטלים מנצנצים על זכוכית מט, פשוט מתעורר לחיים עם כל תנועה. כל זווית וכל סוג של אור (טבעי או מלאכותי) חושפים משחק מהפנט של ניצנוץ ועומק, והופכים את היצירה הזו למוקד תשומת הלב המרכזי בכל חלל.
-- Image: https://galia-luxe-art.com/assets/product-1779805226260-oww6oi.webp
 
 ### The Seahorse
 https://galia-luxe-art.com/product/the-seahorse-1onult
@@ -111,27 +97,6 @@ https://galia-luxe-art.com/product/the-royal-crane-et5gj8
 - Availability: In stock
 - Description: יצירה עוצרת נשימה המשלבת טקסטורה עשירה וסימבוליקה של חופש ואצילות. העגור, שנוצר בעבודת יד קפדנית, נראה כמעט חי בזכות משחקי האור והחומרים היוקרתיים.
 - Image: https://galia-luxe-art.com/assets/product-1779804767366-t3z9hv.webp
-
-### The Swans
-https://galia-luxe-art.com/product/the-swans-fovf8s
-- Price: 1400.00 ILS
-- Availability: In stock
-- Description: יצירה מרגשת המייצגת זוגיות, הרמוניה ויופי נצחי. שילוב החומרים הייחודי מעניק לברבורים נפח ותנועה, כאילו הם שטים על פני המים בתוך הבית שלכם.
-- Image: https://galia-luxe-art.com/assets/product-1779804622240-sjlwon.webp
-
-### Grape of Abundance
-https://galia-luxe-art.com/product/grape-of-abundance-1dhnvr
-- Price: 2900.00 ILS
-- Availability: In stock
-- Description: יצירה מרהיבה המשלבת עוצמה של חומר ויוקרה של פרטים. ענבי הברונזה והקריסטלים יוצרים משחקי אור מהפנטים, המעניקים לבית תחושה של שפע והרמוניה.
-- Image: https://galia-luxe-art.com/assets/product-1779804393575-35gvdd.webp
-
-### The Owl of Wisdom
-https://galia-luxe-art.com/product/the-owl-of-wisdom-bfbsba
-- Price: 2000.00 ILS
-- Availability: Out of stock
-- Description: היצירה המהפנטת הזו כבר מצאה את מקומה בבית חדש. השילוב של טקסטורה עשירה, עלי זהב וקריסטלים מעניק לינשוף מראה מלכותי ומסתורי שאי אפשר להתעלם ממנו.
-- Image: https://galia-luxe-art.com/assets/product-1779804993000-cvvon.webp
 
 ### Quiet Strength
 https://galia-luxe-art.com/product/quiet-strength-17p1c0

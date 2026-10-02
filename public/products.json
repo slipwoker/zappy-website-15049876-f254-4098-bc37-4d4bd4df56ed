@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-13T17:53:47.066Z",
+  "generated_at": "2026-10-02T09:34:35.143Z",
   "base_url": "https://galia-luxe-art.com",
   "currency": "ILS",
-  "count": 10,
+  "count": 5,
   "products": [
     {
       "id": "091fc58f-6d65-47bd-855f-4b5c0b88cb5b",
@@ -30,60 +30,6 @@
       "url": "https://galia-luxe-art.com/product/the-sparkling-cat-8afmod",
       "categories": [],
       "updated_at": "2026-05-30T19:15:07.362Z"
-    },
-    {
-      "id": "6f571a1a-0f13-4771-80f4-edb9046c10d8",
-      "slug": "roots-of-the-homeland-38adu3",
-      "name": "Roots of the Homeland",
-      "name_translations": {
-        "en": "Roots of the Homeland",
-        "he": "Roots of the Homeland",
-        "ru": "Корни родины"
-      },
-      "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: 120x60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, עלי זהב וגימורים אמנותיים המעניקים עומק יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית.</p>",
-      "short_description": "יצירה המשלבת את המפות הגיאוגרפיות של ישראל עם דמותו של עץ הזית, סמל עתיק של שלום, שורשים וחיבור נצחי. זוהי לא רק אמנות, אלא פיסה של היסטוריה ותרבות שמעניקה לחלל שלכם עומק ומשמעות.",
-      "sku": null,
-      "brand": null,
-      "price": 4200,
-      "base_price": 4200,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://galia-luxe-art.com/assets/product-1779805820706-g5jtj9.webp",
-        "https://galia-luxe-art.com/assets/product-1779805827851-fuazr6.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/roots-of-the-homeland-38adu3",
-      "categories": [],
-      "updated_at": "2026-05-30T19:15:07.362Z"
-    },
-    {
-      "id": "7515c959-2aa8-4294-a2f0-5a7a7b5b96a7",
-      "slug": "the-serpent-pnujc3",
-      "name": "The Serpent",
-      "name_translations": {
-        "en": "The Serpent",
-        "he": "The Serpent",
-        "ru": "Змей"
-      },
-      "description": "<p>פרטים טכניים:</p><p>• תשתית: זכוכית מט יוקרתית במסגרת שחורה.</p><p>• גודל: 50x27 ס\"מ.</p><p>• חומרים: שיבוץ ידני של קריסטלים ליצירת מראה תלת-ממדי.</p><p>• מוכן לתלייה: מגיע ממוסגר ומוכן לשדרג את המשרד או את חדר העבודה שלכם.</p>",
-      "short_description": "הנחש, שנוצר בעבודת יד מוקפדת עם אלפי קריסטלים מנצנצים על זכוכית מט, פשוט מתעורר לחיים עם כל תנועה. כל זווית וכל סוג של אור (טבעי או מלאכותי) חושפים משחק מהפנט של ניצנוץ ועומק, והופכים את היצירה הזו למוקד תשומת הלב המרכזי בכל חלל.",
-      "sku": null,
-      "brand": null,
-      "price": 1200,
-      "base_price": 1200,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://galia-luxe-art.com/assets/product-1779805226260-oww6oi.webp",
-        "https://galia-luxe-art.com/assets/product-1779805233720-uymqsg.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/the-serpent-pnujc3",
-      "categories": [],
-      "updated_at": "2026-05-30T19:15:07.363Z"
     },
     {
       "id": "2933dac2-4c0f-4a59-a7e9-59c98554b35d",
@@ -140,90 +86,6 @@
       "url": "https://galia-luxe-art.com/product/the-royal-crane-et5gj8",
       "categories": [],
       "updated_at": "2026-05-30T19:15:07.362Z"
-    },
-    {
-      "id": "927d0426-d287-4a4b-9240-1601493af458",
-      "slug": "the-swans-fovf8s",
-      "name": "The Swans",
-      "name_translations": {
-        "en": "The Swans",
-        "he": "The Swans",
-        "ru": "Лебеди"
-      },
-      "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי.</p><p>• גודל: 40x60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, אלמנטים ממראה, אבני קוורץ (Crystal Quartz) וציפוי אפוקסי רזין יוקרתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית, עם אביזרי תלייה מותקנים המבטיחים הצמדה מושלמת לקיר.</p>",
-      "short_description": "יצירה מרגשת המייצגת זוגיות, הרמוניה ויופי נצחי. שילוב החומרים הייחודי מעניק לברבורים נפח ותנועה, כאילו הם שטים על פני המים בתוך הבית שלכם.",
-      "sku": null,
-      "brand": null,
-      "price": 1400,
-      "base_price": 1400,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://galia-luxe-art.com/assets/product-1779804622240-sjlwon.webp",
-        "https://galia-luxe-art.com/assets/product-1779804630207-4w4fogl.webp",
-        "https://galia-luxe-art.com/assets/product-1779804637897-2vzvu4.webp",
-        "https://galia-luxe-art.com/assets/product-1779804645114-cjjfbi.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/the-swans-fovf8s",
-      "categories": [],
-      "updated_at": "2026-05-30T19:15:07.363Z"
-    },
-    {
-      "id": "d29290c8-2f45-4a79-98e9-a91b1862bdbb",
-      "slug": "grape-of-abundance-1dhnvr",
-      "name": "Grape of Abundance",
-      "name_translations": {
-        "en": "Grape of Abundance",
-        "he": "Grape of Abundance",
-        "ru": "Виноград изобилия"
-      },
-      "description": "<p>פרטים טכניים:</p><p>• תשתית: עבודת יד על MDF איכותי — בסיס חזק המבטיח את עמידות היצירה לשנים רבות.</p><p>• גודל: קוטר 60 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, מראת ברונזה, אבני קוורץ (Crystal Quartz) וגימור אפוקסי רזין יוקרתי המעניק עומק ומראה זכוכיתי.</p><p>• מוכן לתלייה: היצירה מוכנה לתלייה מיידית, עם אביזרי תלייה מותקנים המבטיחים הצמדה מושלמת ובטוחה לקיר.</p>",
-      "short_description": "יצירה מרהיבה המשלבת עוצמה של חומר ויוקרה של פרטים. ענבי הברונזה והקריסטלים יוצרים משחקי אור מהפנטים, המעניקים לבית תחושה של שפע והרמוניה.",
-      "sku": null,
-      "brand": null,
-      "price": 2900,
-      "base_price": 2900,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://galia-luxe-art.com/assets/product-1779804393575-35gvdd.webp",
-        "https://galia-luxe-art.com/assets/product-1779804400635-lw9vw.webp",
-        "https://galia-luxe-art.com/assets/product-1779804407573-z9wgko.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://galia-luxe-art.com/product/grape-of-abundance-1dhnvr",
-      "categories": [],
-      "updated_at": "2026-05-30T19:15:07.363Z"
-    },
-    {
-      "id": "e4200011-8d07-4842-bb33-6a2f6518c375",
-      "slug": "the-owl-of-wisdom-bfbsba",
-      "name": "The Owl of Wisdom",
-      "name_translations": {
-        "en": "The Owl of Wisdom",
-        "he": "The Owl of Wisdom",
-        "ru": "Сова мудрости"
-      },
-      "description": "<p>&nbsp;פרטים טכניים:</p><p>• תשתית: עבודת יד על קנבס איכותי (מהדורה נדירה).</p><p>• גודל: 60x80 ס\"מ.</p><p>• חומרים: אקריליק, משחת טקסטורה, עלי זהב (פוטאל) ואבני קוורץ (Crystal Quartz / горный хруסטל) המעניקים ניצנוץ יוקרתי.</p><p>• מוכן לתלייה: היצירה סופקה כשהיא מוכנה לתלייה מיידית.</p>",
-      "short_description": "היצירה המהפנטת הזו כבר מצאה את מקומה בבית חדש. השילוב של טקסטורה עשירה, עלי זהב וקריסטלים מעניק לינשוף מראה מלכותי ומסתורי שאי אפשר להתעלם ממנו.",
-      "sku": null,
-      "brand": null,
-      "price": 2000,
-      "base_price": 2000,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://galia-luxe-art.com/assets/product-1779804993000-cvvon.webp",
-        "https://galia-luxe-art.com/assets/product-1779780771946-bjd4ip.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://galia-luxe-art.com/product/the-owl-of-wisdom-bfbsba",
-      "categories": [],
-      "updated_at": "2026-05-30T19:15:07.391Z"
     },
     {
       "id": "fa0d17c8-861d-4a18-865e-897c3ee57fb1",
