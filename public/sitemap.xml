@@ -62,36 +62,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/gallery" />
   </url>
   <url>
-    <loc>https://galia-luxe-art.com/workshops</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/workshops" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/workshops" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/workshops" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/workshops" />
-  </url>
-  <url>
-    <loc>https://galia-luxe-art.com/en/workshops</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/workshops" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/workshops" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/workshops" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/workshops" />
-  </url>
-  <url>
-    <loc>https://galia-luxe-art.com/ru/workshops</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/workshops" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/workshops" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/workshops" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/workshops" />
-  </url>
-  <url>
     <loc>https://galia-luxe-art.com/about</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -122,34 +92,34 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/about" />
   </url>
   <url>
-    <loc>https://galia-luxe-art.com/contact</loc>
+    <loc>https://galia-luxe-art.com/workshops</loc>
     <lastmod>2026-10-02</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/contact" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/contact" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/workshops" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/workshops" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/workshops" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/workshops" />
   </url>
   <url>
-    <loc>https://galia-luxe-art.com/en/contact</loc>
+    <loc>https://galia-luxe-art.com/en/workshops</loc>
     <lastmod>2026-10-02</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/contact" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/contact" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/workshops" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/workshops" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/workshops" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/workshops" />
   </url>
   <url>
-    <loc>https://galia-luxe-art.com/ru/contact</loc>
+    <loc>https://galia-luxe-art.com/ru/workshops</loc>
     <lastmod>2026-10-02</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/contact" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/contact" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/workshops" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/workshops" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/workshops" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/workshops" />
   </url>
   <url>
     <loc>https://galia-luxe-art.com/cart</loc>
@@ -390,6 +360,36 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/products" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/products" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/products" />
+  </url>
+  <url>
+    <loc>https://galia-luxe-art.com/contact</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/contact" />
+  </url>
+  <url>
+    <loc>https://galia-luxe-art.com/en/contact</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/contact" />
+  </url>
+  <url>
+    <loc>https://galia-luxe-art.com/ru/contact</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://galia-luxe-art.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://galia-luxe-art.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://galia-luxe-art.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://galia-luxe-art.com/contact" />
   </url>
   <url>
     <loc>https://galia-luxe-art.com/privacy</loc>

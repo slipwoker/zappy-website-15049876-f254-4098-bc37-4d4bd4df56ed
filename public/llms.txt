@@ -10,52 +10,52 @@
 https://galia-luxe-art.com
 תמונות יוקרה עם טקסטורה לבית שמשנות כל מרחב לחוויה חושית. אמנות מודרנית ייחודית לאוספי יוקרה — גלי את הקולקציה ותתאהבי.
 
-### גלריה
+### מוצרים
 https://galia-luxe-art.com/gallery
 המוצרים שלנו - Galia Luxe Art
-
-### Page
-https://galia-luxe-art.com/workshops
 
 ### האמנית מאחורי כל מגע של יוקרה — Galia Luxe Art
 https://galia-luxe-art.com/about
 הכירו את גליה, אמנית ויצירה שמתמחה ביצירות טקסטורה יוקרתיות לאוהבי אמנות מודרנית. הסיפור, החזון והתשוקה שמאחורי כל יצירה ייחודית — כי אמנות אמיתית מתחילה בלב.
 
-### הפכו חלום עיצובי למציאות — Galia Luxe Art
-https://galia-luxe-art.com/contact
-רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
+### Page
+https://galia-luxe-art.com/workshops
 
-### Cart
+### עגלת קניות
 https://galia-luxe-art.com/cart
 עגלת הקניות שלך
 
-### Checkout
+### תשלום
 https://galia-luxe-art.com/checkout
 תשלום
 
-### Login
+### התחברות
 https://galia-luxe-art.com/login
 התחברות לקוחות
 
-### Account
+### החשבון שלי
 https://galia-luxe-art.com/account
 החשבון שלי
 
-### Order Success
+### ההזמנה התקבלה!
 https://galia-luxe-art.com/order-success
 תודה על ההזמנה
 
-### Product Detail
+### פרטי המוצר
 https://galia-luxe-art.com/product/:slug
 פרטי המוצר - Galia Luxe Art
 
-### Category
+### מוצרים
 https://galia-luxe-art.com/category/:slug
 מוצרים - Galia Luxe Art
 
-### Products
+### מוצרים
 https://galia-luxe-art.com/products
 המוצרים שלנו - Galia Luxe Art
+
+### הפכו חלום עיצובי למציאות — Galia Luxe Art
+https://galia-luxe-art.com/contact
+רוצים יצירת אמנות בהתאמה אישית לבית או למשרד? צרו קשר עם גליה לוקס ארט לקניית תמונות יוקרה שנבנות בדיוק בשבילכם — כי המרחב שלכם ראוי לאמנות שאין שנייה לה.
 
 ## Legal & Policy
 
